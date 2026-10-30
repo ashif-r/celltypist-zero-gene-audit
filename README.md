@@ -14,7 +14,9 @@ CellTypist models trained with mean centring give a gene with zero counts a nonz
 | `reproduction/src/`, `reproduction/scripts/`, `reproduction/tests/` | Analysis library, stage scripts and tests |
 | `reproduction/manifests/` | Input, cell, query and archive manifests with SHA-256 hashes, and the freeze record |
 | `reproduction/results/` | Result tables and verification records |
+| `reproduction/results/single_gene_check/` | Near-tie check of the single-gene removals in Supplementary Table S6 |
 | `figures_src/` | Figure code and the data behind every figure and supplementary table |
+| `SHA256SUMS.txt` | SHA-256 of every other file in the release, checked with `sha256sum -c SHA256SUMS.txt` |
 
 The analysis plan was fixed in a private snapshot on 23 October 2026, before the main queries were run, and was not publicly registered. A later implementation revision changed only execution speed and is described in `reproduction/amendments.md`. `reproduction/manifests/freeze_record.json` and `reproduction/manifests/history/` record the SHA-256 hashes of both snapshots, and `reproduction/src/freeze.py` stops the main analysis if any frozen file has changed.
 
@@ -28,7 +30,12 @@ The original count matrices, the scIB benchmark file, the CellTypist model and t
 python3 reproduction/scripts/verify_paper_numbers.py reproduction/results
 ```
 
-The script recomputes the counts, rates, class offsets, confidence summaries and partition results reported in the paper from the saved result tables and prints each comparison. It needs only Python 3 with pandas and NumPy.
+The script recomputes the counts, rates, class offsets, confidence summaries, partition results and near-tie check reported in the paper from the saved result tables and prints each comparison. It needs only Python 3 with pandas and NumPy.
+
+## Versions
+
+- 1.0.1 (30 October 2026): adds the near-tie check of the single-gene removals (`reproduction/results/single_gene_check/`, scripts 65 and 66) and its numbers to `verify_paper_numbers.py`, pins the packages for regenerating the figure data (`figures_src/requirements.txt`), labels the vertical axes of Figure S3c,d as cell evaluations, because each cell appears once per seed, and adds `SHA256SUMS.txt`. The analysis code, result tables and figure data of version 1.0.0 are unchanged.
+- 1.0.0 (30 October 2026): first public release.
 
 ## Licence
 

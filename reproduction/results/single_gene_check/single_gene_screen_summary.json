@@ -1,0 +1,89 @@
+{
+  "rule": "top-two margin <= 2 * (1e-6 + 1e-6 * max_k |z_k|)",
+  "genes_tested": 3529,
+  "gene_cell_comparisons": 8762606,
+  "near_ties": 33,
+  "near_tie_cells": 17,
+  "near_ties_counted_as_changes": 18,
+  "exact_ties": 0,
+  "table_s6_count_mismatches": [],
+  "samples": [
+    {
+      "sample": "Oetjen_A",
+      "query_id": "Oetjen_00001",
+      "cells": 2586,
+      "genes_tested": 331,
+      "gene_cell_comparisons": 855966,
+      "near_ties": 0,
+      "near_tie_cells": 0,
+      "near_ties_counted_as_changes": 0,
+      "exact_ties": 0
+    },
+    {
+      "sample": "Oetjen_P",
+      "query_id": "Oetjen_00002",
+      "cells": 3265,
+      "genes_tested": 313,
+      "gene_cell_comparisons": 1021945,
+      "near_ties": 3,
+      "near_tie_cells": 2,
+      "near_ties_counted_as_changes": 2,
+      "exact_ties": 0
+    },
+    {
+      "sample": "Oetjen_U",
+      "query_id": "Oetjen_00003",
+      "cells": 3730,
+      "genes_tested": 341,
+      "gene_cell_comparisons": 1271930,
+      "near_ties": 4,
+      "near_tie_cells": 3,
+      "near_ties_counted_as_changes": 1,
+      "exact_ties": 0
+    },
+    {
+      "sample": "Sun_1_CS",
+      "query_id": "Sun_00001",
+      "cells": 1725,
+      "genes_tested": 641,
+      "gene_cell_comparisons": 1105725,
+      "near_ties": 3,
+      "near_tie_cells": 1,
+      "near_ties_counted_as_changes": 2,
+      "exact_ties": 0
+    },
+    {
+      "sample": "Sun_2_KC",
+      "query_id": "Sun_00002",
+      "cells": 2281,
+      "genes_tested": 627,
+      "gene_cell_comparisons": 1430187,
+      "near_ties": 12,
+      "near_tie_cells": 4,
+      "near_ties_counted_as_changes": 6,
+      "exact_ties": 0
+    },
+    {
+      "sample": "Sun_3_TB",
+      "query_id": "Sun_00003",
+      "cells": 2403,
+      "genes_tested": 651,
+      "gene_cell_comparisons": 1564353,
+      "near_ties": 7,
+      "near_tie_cells": 5,
+      "near_ties_counted_as_changes": 6,
+      "exact_ties": 0
+    },
+    {
+      "sample": "Sun_4_TC",
+      "query_id": "Sun_00004",
+      "cells": 2420,
+      "genes_tested": 625,
+      "gene_cell_comparisons": 1512500,
+      "near_ties": 4,
+      "near_tie_cells": 2,
+      "near_ties_counted_as_changes": 1,
+      "exact_ties": 0
+    }
+  ]
+}

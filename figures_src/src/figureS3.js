@@ -85,7 +85,7 @@ function draw(D) {
     const y = d3.scaleLinear().domain(p.dom).range([r.bottom, r.top]);
     const g = svg.append("g");
     leftAxis(g, y, { x: c.left, ticks: p.ticks, format: (d) => `${d}%`, grid: [c.left, c.right],
-      title: "Cells in quintile", titleDx: -34 });
+      title: "Cell evaluations", titleDx: -34 });
     bottomAxis(g, x, { y: r.bottom, ticks: [1.5, 2, 2.5, 3, 3.5], format: (d) => d.toFixed(1),
       title: "Median offset spread of quintile" });
     for (const study of ["Oetjen", "Sun"]) {

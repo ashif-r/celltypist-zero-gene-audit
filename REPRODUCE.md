@@ -33,3 +33,12 @@ The stages were run and checked individually for the paper. The wrapper that cha
 ## 4. Figures and supplementary tables
 
 `figures_src/README.md` describes the figure build. `figures_src/extract_figure_data.py` reads the result tables and the per-query score archives written in step 3. The archives are not stored in Git because of their size, and the data it extracted for the paper are in `figures_src/data/`.
+
+## 5. Near-tie check of the single-gene removals
+
+After step 3, `scripts/65_single_gene_near_ties.py` recomputes the single-gene scores from the saved archives of the sample queries, checks the label-change counts against the data of Supplementary Table S6 and lists the gene-cell comparisons within the near-tie rule of the main queries. `scripts/66_single_gene_direct_check.py` then removes each listed gene from the prepared input and scores the cell with CellTypist. The outputs for the paper are in `reproduction/results/single_gene_check/`.
+
+```bash
+.venv/bin/python scripts/65_single_gene_near_ties.py --root "$PWD/runs/new_complete_run" --output "$PWD/runs/single_gene_check"
+.venv/bin/python scripts/66_single_gene_direct_check.py --root "$PWD/runs/new_complete_run" --cases "$PWD/runs/single_gene_check/single_gene_boundary_cases.csv"
+```

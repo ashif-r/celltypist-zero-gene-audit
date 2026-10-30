@@ -5,6 +5,7 @@ reported value. Needs Python 3 with pandas and NumPy.
 
 Usage: python3 reproduction/scripts/verify_paper_numbers.py reproduction/results
 """
+import json
 import sys
 from pathlib import Path
 
@@ -301,6 +302,23 @@ chk("min_cells=3 changed more labels in all seven samples", "True", str(bool(all
 pl = rd(R / "gate" / "pilot" / "paired_2700.csv")
 chk("pilot cells", 2700, len(pl)); chk("pilot changed labels", 86, (pl.A_label != pl.B_label).sum())
 chk("pilot changed %", 3.19, pct((pl.A_label != pl.B_label).mean()))
+
+# Near-tie check of the single-gene removals (Methods and Supplementary Table S6)
+G = R / "single_gene_check"
+nt = pd.read_csv(G / "single_gene_boundary_cases.csv")
+chk("single-gene near-tie comparisons", 33, len(nt)); chk("single-gene near-tie cells", 17, nt.cell.nunique())
+chk("single-gene near ties counted as changes", 18, int(nt.label_changed.sum()))
+chk("single-gene exact ties", 0, int((nt.margin == 0).sum()))
+chk("single-gene near ties within the rule", "True", str(bool((nt.margin <= nt.twice_tolerance).all())))
+sg = json.loads((G / "single_gene_screen_summary.json").read_text())
+chk("single-gene counts differing from Table S6", 0, len(sg["table_s6_count_mismatches"]))
+chk("single-gene screen near ties", 33, sg["near_ties"])
+dc = json.loads((G / "direct_single_gene_near_ties.json").read_text())
+chk("CellTypist reruns of the near ties", 33, dc["comparisons"])
+chk("CellTypist reproduced every predicted label", "True", str(dc["all_labels_match"]))
+chk("largest CellTypist score difference", "5.37e-14", f"{dc['largest_score_residual']:.2e}")
+chk("CellTypist reruns match the flagged comparisons", "True",
+    str([(c["sample"], c["gene"], c["cell"]) for c in dc["cases"]] == list(zip(nt["sample"], nt.gene, nt.cell))))
 
 # Arithmetic stated in the text
 chk("excluded scIB cells", 15096, 10727 + 3347 + 1022); chk("scIB cells minus included", 15096, 33506 - 18410)

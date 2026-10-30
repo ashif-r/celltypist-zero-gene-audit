@@ -6,20 +6,31 @@ Each figure is drawn with D3 7.9.0 in a headless Chromium page (Playwright 1.63.
 
 ## Rebuild
 
+The figures can be redrawn from the plotted values in `data/`:
+
 ```bash
-python extract_figure_data.py RESULTS_DIR data
 npm install
 npx playwright install chromium
 node build.js out
 ```
 
-`RESULTS_DIR` is the analysis results folder, `reproduction/results` in the code repository. `extract_figure_data.py` reads the saved result tables and the per-query score archives and runs no model. The archives are written by the analysis and are not stored in Git because of their size. `node build.js out figure3` rebuilds a single figure. The manuscript uses the PDFs in `out/`.
+`node build.js out figure3` rebuilds a single figure. The manuscript uses the PDFs in `out/`.
+
+Regenerating `data/` needs the outputs of a full analysis run (step 3 of `REPRODUCE.md` in the code repository), because `extract_figure_data.py` reads the per-query score archives as well as the saved result tables. The archives are not stored in Git because of their size. The script runs no model:
+
+```bash
+pip install -r requirements.txt
+python extract_figure_data.py RESULTS_DIR data
+```
+
+`RESULTS_DIR` is the results folder of that run, laid out like `reproduction/results` in the code repository. `requirements.txt` pins NumPy and pandas to the versions of the analysis environment.
 
 ## Contents
 
 | Path | Content |
 | --- | --- |
 | `extract_figure_data.py` | Writes the plotted values and the supplementary table data in `data/` from the saved analysis outputs |
+| `requirements.txt` | Python packages for `extract_figure_data.py` |
 | `data/` | Plotted values, one file per figure panel or group of panels, and the data of Supplementary Tables S3a to S6 |
 | `src/common.css`, `src/common.js` | Shared colours, type styles and drawing helpers |
 | `src/figure*.js` | One drawing script per figure |

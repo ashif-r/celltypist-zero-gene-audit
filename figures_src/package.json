@@ -2,7 +2,7 @@
   "name": "celltypist-undetected-genes-figures",
   "version": "1.0.0",
   "private": true,
-  "description": "Figures for 'Filtering undetected genes changes CellTypist immune-cell annotations through query-dependent score offsets'",
+  "description": "Figures for 'Filtering undetected genes changes annotations from a released CellTypist model through query-dependent score offsets'",
   "main": "build.js",
   "scripts": {
     "build": "node build.js out"
