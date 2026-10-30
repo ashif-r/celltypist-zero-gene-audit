@@ -1,0 +1,5 @@
+study,endpoint,eligible,valid,changed,failed,certified_stable,fraction
+Oetjen,composition,9581,9581,61,0,8823,0.006366767560797412
+Oetjen,mechanism,9581,9581,153,0,7981,0.015969105521344326
+Sun,composition,8829,8829,105,0,8151,0.011892626571525655
+Sun,mechanism,8829,8829,198,0,7356,0.022426095820591234

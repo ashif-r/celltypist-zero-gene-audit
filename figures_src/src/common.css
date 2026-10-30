@@ -1,0 +1,31 @@
+@font-face { font-family: "InterFig"; src: url("../fonts/Inter-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "InterFig"; src: url("../fonts/Inter-SemiBold.ttf") format("truetype"); font-weight: 600; font-style: normal; }
+@font-face { font-family: "InterFig"; src: url("../fonts/Inter-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; }
+:root {
+  --surface: #ffffff;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+}
+@page { margin: 0; }
+html, body { margin: 0; padding: 0; background: var(--surface); }
+body {
+  font-family: "InterFig", sans-serif;
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  font-kerning: normal;
+}
+#fig { display: inline-block; background: var(--surface); }
+svg { display: block; overflow: visible; }
+svg text { font-family: "InterFig", sans-serif; }
+.tick { font-size: 9.5px; fill: var(--ink-2); font-feature-settings: "tnum" 1; }
+.axis-title { font-size: 10px; fill: var(--ink-2); }
+.panel-title { font-size: 11px; font-weight: 600; fill: var(--ink); }
+.panel-letter { font-size: 12.5px; font-weight: 700; fill: var(--ink); }
+.label { font-size: 9.5px; fill: var(--ink); }
+.label-2 { font-size: 9.5px; fill: var(--ink-2); }
+.note { font-size: 9px; fill: var(--muted); }
+.group { font-size: 9.5px; font-weight: 600; fill: var(--ink); }
+.legend { font-size: 9.5px; fill: var(--ink-2); }

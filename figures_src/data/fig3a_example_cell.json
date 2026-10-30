@@ -1,0 +1,28 @@
+{
+ "cell_id": "AAACCTGGTCCGAATT-1-Oetjen_P",
+ "sample": "Oetjen_P",
+ "classes": [
+  {
+   "name": "Tcm/Naive helper T cells",
+   "unfiltered": -1.7930547962836414,
+   "filtered": -1.5390167577916385,
+   "offset": 0.2540380384920029
+  },
+  {
+   "name": "Tem/Effector helper T cells",
+   "unfiltered": -1.7951727568349556,
+   "filtered": -1.2374889030886616,
+   "offset": 0.557683853746294
+  },
+  {
+   "name": "B cells",
+   "unfiltered": -2.9008102267446185,
+   "filtered": -2.31410002243575,
+   "offset": 0.5867102043088686
+  }
+ ],
+ "winner_unfiltered": "Tcm/Naive helper T cells",
+ "winner_filtered": "Tem/Effector helper T cells",
+ "conf_unfiltered": 0.1426986047455106,
+ "conf_filtered": 0.2248733809276805
+}

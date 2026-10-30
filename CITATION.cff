@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the preprint."
+type: software
+title: "Code and data for: Filtering undetected genes changes annotations from a released CellTypist model through query-dependent score offsets"
+version: "1.0.0"
+date-released: "2026-10-30"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/ashif-r/celltypist-zero-gene-audit"
+authors:
+  - family-names: Rahman
+    given-names: Ashif
+    email: ashif.rahman@alumni.uleth.ca
+keywords:
+  - single-cell RNA sequencing
+  - cell-type annotation
+  - CellTypist
+  - gene filtering
+  - reproducibility
+abstract: "Analysis code, plan, result tables and figure data for a study of how removing genes with zero counts in every cell of a query changes labels from the released CellTypist Immune_All_Low v2 model, with exact class offsets that account for every change."
+preferred-citation:
+  type: article
+  title: "Filtering undetected genes changes annotations from a released CellTypist model through query-dependent score offsets"
+  authors:
+    - family-names: Rahman
+      given-names: Ashif
+  year: 2026
+  status: preprint

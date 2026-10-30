@@ -1,0 +1,38 @@
+{
+  "cells": 33506,
+  "genes": 12303,
+  "obs_columns": [
+    "batch",
+    "chemistry",
+    "data_type",
+    "dpt_pseudotime",
+    "final_annotation",
+    "mt_frac",
+    "n_counts",
+    "n_genes",
+    "sample_ID",
+    "size_factors",
+    "species",
+    "study",
+    "tissue"
+  ],
+  "var_columns": [],
+  "layers": [
+    "counts"
+  ],
+  "raw_present": false,
+  "batch_counts": {
+    "10X": 10727,
+    "Oetjen_U": 3730,
+    "Freytag": 3347,
+    "Oetjen_P": 3265,
+    "Oetjen_A": 2586,
+    "Sun_sample4_TC": 2420,
+    "Sun_sample3_TB": 2403,
+    "Sun_sample2_KC": 2281,
+    "Sun_sample1_CS": 1725,
+    "Villani": 1022
+  },
+  "identifier_provenance": "requires_original_source_feature_table_mapping",
+  "annotation_endpoints_computed": false
+}

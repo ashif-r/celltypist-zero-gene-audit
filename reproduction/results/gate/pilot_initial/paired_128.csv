@@ -1,0 +1,129 @@
+cell_id,A_label,B_label,predicted_B_label,A_confidence,B_confidence
+AAACATACAACCAC-1,Trm cytotoxic T cells,Trm cytotoxic T cells,Trm cytotoxic T cells,0.23450528442460167,0.4459409869331655
+AAACATTGAGCTAC-1,B cells,B cells,B cells,0.9719005154572822,0.9905871678679532
+AAACATTGATCAGC-1,Tcm/Naive helper T cells,Follicular helper T cells,Follicular helper T cells,0.4559715258075047,0.4674801560445589
+AAACCGTGCTTCCG-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9740413902665879,0.9745086049848107
+AAACCGTGTATGCG-1,CD16+ NK cells,CD16+ NK cells,CD16+ NK cells,0.9990578610455795,0.9994158525794596
+AAACGCACTGGTAC-1,Regulatory T cells,Regulatory T cells,Regulatory T cells,0.9867647399918213,0.9918908126673994
+AAACGCTGACCAGT-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.44138123940563506,0.3698121226688406
+AAACGCTGGTTCTT-1,MAIT cells,MAIT cells,MAIT cells,0.3372797594426016,0.5654206570278535
+AAACGCTGTAGCCA-1,B cells,B cells,B cells,0.41364989391076634,0.6821835319386272
+AAACGCTGTTTCTG-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9596415153975568,0.9635582567132067
+AAACTTGAAAAACG-1,B cells,B cells,B cells,0.918093149986069,0.9715138632886674
+AAACTTGATCCAGA-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.8596839690698513,0.9233430340460052
+AAAGAGACGAGATA-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.6725038147805132,0.6039776947314095
+AAAGAGACGCGAGA-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9861913106069294,0.9864428892760898
+AAAGAGACGGACTT-1,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,0.9164245923022832,0.9443625518716598
+AAAGAGACGGCATT-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.7917227495495159,0.738440066510139
+AAAGATCTGGGCAA-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9556162209930692,0.95640021609698
+AAAGCAGAAGCCAT-1,MAIT cells,MAIT cells,MAIT cells,0.12928193211505795,0.27514148177819225
+AAAGCAGATATCGG-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9930686187721804,0.9937623869924134
+AAAGCCTGTATGCG-1,Tem/Effector helper T cells,Tem/Effector helper T cells,Tem/Effector helper T cells,0.18431720711588662,0.3016292898318456
+AAAGGCCTGTCTAG-1,B cells,B cells,B cells,0.08196715302223453,0.21362816335539647
+AAAGTTTGATCACG-1,B cells,B cells,B cells,0.7690072812767029,0.9101474004209977
+AAAGTTTGGGGTGA-1,B cells,B cells,B cells,0.8465143059135622,0.9437598863589978
+AAAGTTTGTAGAGA-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.5115235294364892,0.4374882034269334
+AAAGTTTGTAGCGT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9938368302813251,0.993949970772689
+AAATCAACAATGCC-1,B cells,B cells,B cells,0.9679539403773824,0.9892360676008601
+AAATCAACACCAGT-1,Tcm/Naive helper T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.7366983229977347,0.7593301956700854
+AAATCAACCAGGAG-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.9996298077811335,0.9998116670217069
+AAATCAACCCTATT-1,Macrophages,Macrophages,Macrophages,0.2976029205415844,0.3233329724044573
+AAATCAACGGAAGC-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.9835873933097582,0.9780263393355035
+AAATCAACTCGCAA-1,Tcm/Naive helper T cells,Tem/Effector helper T cells,Tem/Effector helper T cells,0.6652048244788102,0.7836944749158169
+AAATCATGACCACA-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9967290826115793,0.9970575572674419
+AAATCCCTCCACAA-1,Tcm/Naive helper T cells,B cells,B cells,0.09885572172764363,0.23772106085400901
+AAATCCCTGCTATG-1,B cells,B cells,B cells,0.9858444999025263,0.9953029717201595
+AAATGTTGAACGAA-1,Classical monocytes,Classical monocytes,Classical monocytes,0.7043291488968932,0.7081964829300904
+AAATGTTGCCACAA-1,Regulatory T cells,Regulatory T cells,Regulatory T cells,0.43715034509936557,0.5602884581821832
+AAATGTTGTGGCAT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.6376344986955161,0.6419306977665168
+AAATTCGAAGGTTC-1,Tcm/Naive helper T cells,Type 1 helper T cells,Type 1 helper T cells,0.12073114847035687,0.125369418970337
+AAATTCGAATCACG-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9910216567750192,0.9911860185334461
+AAATTCGAGCTGAT-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9992771328115874,0.9993498920497753
+AAATTCGAGGAGTG-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.9999624959748357,0.9999809231805099
+AAATTCGATTCTCA-1,NK cells,NK cells,NK cells,0.8074972573745794,0.6789848317359799
+AAATTGACACGACT-1,NK cells,MAIT cells,MAIT cells,0.3502312721702255,0.5456754061388165
+AAATTGACTCGCTC-1,Tem/Effector helper T cells,Tem/Effector helper T cells,Tem/Effector helper T cells,0.4259090550328929,0.5864366676682491
+AACAAACTCATTTC-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.9807708097819502,0.9742803726711015
+AACAAACTTTCGTT-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.4643511725605188,0.3916689358660714
+AACAATACGACGAG-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.9988997683120332,0.9994400631151301
+AACACGTGCAGAGG-1,Regulatory T cells,Regulatory T cells,Regulatory T cells,0.78032185262154,0.8535363882592513
+AACACGTGGAAAGT-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.6939086330867217,0.6273797025957535
+AACACGTGGAACCT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.8027820046121504,0.8057168036583088
+AACACGTGGCTACA-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.6536529186139362,0.7877018233501939
+AACACGTGTACGAC-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9998759035254549,0.9998884010222896
+AACAGCACAAGAGT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.8823229538354167,0.884244778090502
+AACATTGATGGGAG-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9937208191692692,0.9943496794850983
+AACCAGTGATACCG-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9994418903006467,0.999498074421951
+AACCCAGATCGCTC-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.6872423336980454,0.6200578239002129
+AACCGATGCTCCCA-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.4508462209629358,0.37878303019703785
+AACCGATGGTCATG-1,B cells,B cells,B cells,0.9868827546573083,0.9956505425024277
+AACCGATGTTCTAC-1,Classical monocytes,Classical monocytes,Classical monocytes,0.8876967631848794,0.8895418127969459
+AACCGCCTAGCGTT-1,Tem/Effector helper T cells,Tem/Effector helper T cells,Tem/Effector helper T cells,0.8536539958465778,0.9176900914312103
+AACCGCCTCTACGA-1,Classical monocytes,Classical monocytes,Classical monocytes,0.6433269127505532,0.6475929224895178
+AACCTACTGTGAGG-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.22400723759672914,0.24299942456213736
+AACCTACTGTGTTG-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.9608257738772182,0.9796829148126943
+AACCTTACGAGACG-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.8823540519979824,0.8477999693840759
+AACCTTACGCGAGA-1,CD16+ NK cells,CD16+ NK cells,CD16+ NK cells,0.999870694316237,0.9999198523346045
+AACCTTACTAACGC-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.8909866933265427,0.9008780895477277
+AACCTTTGGACGGA-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.9660877223531591,0.9548693484978852
+AACCTTTGTACGCA-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9982900895481592,0.9984620454114204
+AACGCAACAAGTAG-1,Regulatory T cells,Regulatory T cells,Regulatory T cells,0.5387327160232964,0.6570803389355517
+AACGCATGACCCAA-1,Tem/Effector helper T cells,Tem/Effector helper T cells,Tem/Effector helper T cells,0.8212153848371736,0.8977452971123199
+AACGCATGCCTTCG-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.9970087398956378,0.998476252383699
+AACGCATGTACTTC-1,Regulatory T cells,Regulatory T cells,Regulatory T cells,0.2786140657877081,0.3878690331713739
+AACGCCCTCGGGAA-1,Tem/Effector helper T cells,Tem/Effector helper T cells,Tem/Effector helper T cells,0.42074693266137386,0.5812989738072637
+AACGCCCTCGTACA-1,CD16+ NK cells,CD16+ NK cells,CD16+ NK cells,0.999701541070244,0.9998149940179891
+AACGCCCTGCTTAG-1,B cells,B cells,B cells,0.9632291055891538,0.9876088773240923
+AACGCCCTGGCATT-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.40663631285658935,0.33729926371694796
+AACGTCGAGTATCG-1,CD16+ NK cells,CD16+ NK cells,CD16+ NK cells,0.998934445810143,0.9993393013347037
+AACGTGTGAAAGCA-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.6090228099260768,0.5363711077263038
+AACGTGTGGCGGAA-1,B cells,B cells,B cells,0.9825703854958195,0.9942037038990832
+AACGTGTGTCCAAG-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.650868567860916,0.7856417157123662
+AACGTGTGTGCTTT-1,Regulatory T cells,Regulatory T cells,Regulatory T cells,0.3074687743822597,0.42142860127790077
+AACTACCTTAGAGA-1,Tcm/Naive helper T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.8981931009185524,0.9187205515095399
+AACTCACTCAAGCT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.8791413576650944,0.8811081401531792
+AACTCACTTGGAGG-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9838448840949064,0.9841385244353423
+AACTCGGAAAGTGA-1,MAIT cells,MAIT cells,MAIT cells,0.2890796145857592,0.5096921202727894
+AACTCGGAAGGTCT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9705566896725025,0.9710847617248741
+AACTCTTGCAGGAG-1,Regulatory T cells,Regulatory T cells,Regulatory T cells,0.5466724419585683,0.6642525204837829
+AACTGTCTCCCTTG-1,Classical monocytes,Classical monocytes,Classical monocytes,0.8824822665553493,0.8844018298951584
+AACTTGCTACGCTA-1,B cells,B cells,B cells,0.8820981099051532,0.9579192147304757
+AACTTGCTGGGACA-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.9848186070023144,0.9796660987085534
+AAGAACGAGTGTTG-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.18399184693628323,0.14344122783829064
+AAGAAGACGTAGGG-1,B cells,B cells,B cells,0.9809387647166224,0.9936540677017625
+AAGACAGAAGTCTG-1,B cells,B cells,B cells,0.9702588839330455,0.9900260467209653
+AAGACAGAGGATCT-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.9079456916101747,0.8798849586926771
+AAGACAGATTACCT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9417641920088561,0.9427782179219021
+AAGAGATGGGTAGG-1,B cells,B cells,B cells,0.46103423076036404,0.7224289227184315
+AAGATGGAAAACAG-1,B cells,B cells,B cells,0.9590578960206416,0.9861635287952747
+AAGATGGAGAACTC-1,Classical monocytes,Classical monocytes,Classical monocytes,0.5537480525097729,0.5583499401027442
+AAGATGGAGATAAG-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9052620535341381,0.906848802626647
+AAGATTACAACCTG-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.9936263776035433,0.9914372023085556
+AAGATTACAGATCC-1,Classical monocytes,Classical monocytes,Classical monocytes,0.8161437043084295,0.8189245173216756
+AAGATTACCCGTTC-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9065718542500821,0.9081388918336202
+AAGATTACCGCCTT-1,DC,DC,DC,0.6743030044268301,0.8048489474982781
+AAGATTACCTCAAG-1,CD16+ NK cells,CD16+ NK cells,CD16+ NK cells,0.9999790055458019,0.9999869875232927
+AAGATTACTCCTCG-1,Classical monocytes,Classical monocytes,Classical monocytes,0.8512576332793603,0.8536026170067026
+AAGCAAGAGCGAGA-1,Regulatory T cells,Trm cytotoxic T cells,Trm cytotoxic T cells,0.19560179842718547,0.30330854938845864
+AAGCAAGAGCTTAG-1,CD16+ NK cells,CD16+ NK cells,CD16+ NK cells,0.06801762285388359,0.10534576071210205
+AAGCAAGAGGTGTT-1,CD16+ NK cells,CD16+ NK cells,CD16+ NK cells,0.6306882212463064,0.7337100316895433
+AAGCACTGAGCAAA-1,B cells,B cells,B cells,0.9950744244368465,0.9983757737284205
+AAGCACTGCATACG-1,NK cells,NK cells,NK cells,0.6483042607031557,0.48172685563459017
+AAGCACTGGTTCTT-1,B cells,B cells,B cells,0.9674527705505104,0.9890639695902308
+AAGCCAACGTGTTG-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.9686624459657668,0.9582590051220901
+AAGCCATGAACTGC-1,DC2,DC2,DC2,0.4370649596640441,0.5068486319121907
+AAGCCATGACACGT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9235939828177877,0.9248991656643631
+AAGCCATGCGTGAT-1,Tcm/Naive helper T cells,Tcm/Naive helper T cells,Tcm/Naive helper T cells,0.7548465617254636,0.6957552691804486
+AAGCCATGTCTCGC-1,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,0.28833570379959395,0.3854313145534402
+AAGCCTGACATGCA-1,Regulatory T cells,Regulatory T cells,Regulatory T cells,0.9951002621778099,0.9970077412710926
+AAGCCTGACCGAAT-1,Classical monocytes,Classical monocytes,Classical monocytes,0.9442090180511139,0.9451829515251926
+AAGCGACTCCTCAC-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9185652503138357,0.9261616643515799
+AAGCGACTGTGTCA-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.9330556308690594,0.9647905186497057
+AAGCGACTTACAGC-1,B cells,B cells,B cells,0.9576876117833775,0.9856868992460948
+AAGCGACTTTGACG-1,Non-classical monocytes,Non-classical monocytes,Non-classical monocytes,0.9963852630434966,0.996748152374216
+AAGCGTACGTCTTT-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.28162805039086475,0.43526353669532597
+AAGGCTTGCGAACT-1,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,0.7332481139823473,0.8097040547248738
+AAGGTCACGGTTAC-1,Classical monocytes,Classical monocytes,Classical monocytes,0.967800159230302,0.9683760593596921
+AAGGTCACTGTTTC-1,B cells,B cells,B cells,0.8374056770263438,0.9400133546048297
+AAGGTCACTTCCCG-1,MAIT cells,MAIT cells,MAIT cells,0.9422637075892666,0.9765929088197893
+AAGGTCTGACAGTC-1,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,0.1923839520435776,0.31895010342630864

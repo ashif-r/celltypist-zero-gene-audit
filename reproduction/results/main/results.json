@@ -1,0 +1,14 @@
+{
+  "run": "main",
+  "eligible_cells": 18410,
+  "primary_comparisons": 14,
+  "all_primary_pairs_complete": true,
+  "material_effect_rule_met": true,
+  "material_threshold": 0.01,
+  "equal_study_means": {
+    "composition": 0.009129697066161534,
+    "mechanism": 0.01919760067096778
+  },
+  "publication_decision": "report_valid_results_regardless_of_effect_size_subject_to_release_approval",
+  "queries": 3794
+}

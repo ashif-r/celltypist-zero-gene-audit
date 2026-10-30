@@ -1,0 +1,52 @@
+{
+  "completed_at_utc": "2026-10-23T11:57:07.562926+00:00",
+  "cells": 2700,
+  "original_features": 32738,
+  "excluded_feature_rows": 186,
+  "excluded_distinct_symbols": 91,
+  "scoring_features": 32552,
+  "model_overlap": 5256,
+  "library_totals_preserved": true,
+  "controls_passed": true,
+  "primary_pilot_validated": true,
+  "D_status": "passed",
+  "main_endpoints_computed": false,
+  "queries": [
+    {
+      "query_cells": 2700,
+      "removed_genes": 16002,
+      "removed_model_genes": 690,
+      "observed_flips": 86,
+      "predicted_flips": 86,
+      "destination_mismatches": 0,
+      "score_max_residual": 1.7763568394002505e-14
+    },
+    {
+      "query_cells": 32,
+      "removed_genes": 25506,
+      "removed_model_genes": 2763,
+      "observed_flips": 3,
+      "predicted_flips": 3,
+      "destination_mismatches": 0,
+      "score_max_residual": 8.881784197001252e-15
+    },
+    {
+      "query_cells": 128,
+      "removed_genes": 22058,
+      "removed_model_genes": 1898,
+      "observed_flips": 8,
+      "predicted_flips": 8,
+      "destination_mismatches": 0,
+      "score_max_residual": 8.881784197001252e-15
+    },
+    {
+      "query_cells": 512,
+      "removed_genes": 19111,
+      "removed_model_genes": 1178,
+      "observed_flips": 30,
+      "predicted_flips": 30,
+      "destination_mismatches": 0,
+      "score_max_residual": 1.4210854715202004e-14
+    }
+  ]
+}

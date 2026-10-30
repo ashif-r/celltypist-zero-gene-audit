@@ -1,0 +1,17 @@
+{
+  "purpose": "implementation performance check on already-disclosed PBMC pilot; no scientific selection",
+  "score_probability_label_arrays_exact": true,
+  "normalization_unchanged": true,
+  "benchmark": [
+    {
+      "input": "full",
+      "features": 32552,
+      "elapsed_seconds": 1.09080937500039
+    },
+    {
+      "input": "model_features_only",
+      "features": 5256,
+      "elapsed_seconds": 0.21446054199986975
+    }
+  ]
+}

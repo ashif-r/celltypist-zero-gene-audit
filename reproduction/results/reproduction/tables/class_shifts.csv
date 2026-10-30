@@ -1,0 +1,883 @@
+study,query_id,context,sample,class,score_shift
+Oetjen,Oetjen_00000,pool,,Age-associated B cells,0.28643948100224625
+Oetjen,Oetjen_00000,pool,,Alveolar macrophages,0.23433869363647433
+Oetjen,Oetjen_00000,pool,,B cells,0.27204860379073975
+Oetjen,Oetjen_00000,pool,,CD16+ NK cells,0.2954435992998272
+Oetjen,Oetjen_00000,pool,,CD16- NK cells,0.22117694532970383
+Oetjen,Oetjen_00000,pool,,CD8a/a,0.2722662722093224
+Oetjen,Oetjen_00000,pool,,CD8a/b(entry),0.2407906252463804
+Oetjen,Oetjen_00000,pool,,CMP,0.34161189792332025
+Oetjen,Oetjen_00000,pool,,CRTAM+ gamma-delta T cells,0.3021049229098605
+Oetjen,Oetjen_00000,pool,,Classical monocytes,0.22139231446903468
+Oetjen,Oetjen_00000,pool,,Cycling B cells,0.3375734841894541
+Oetjen,Oetjen_00000,pool,,Cycling DCs,0.3539292948342408
+Oetjen,Oetjen_00000,pool,,Cycling NK cells,0.3222437900955699
+Oetjen,Oetjen_00000,pool,,Cycling T cells,0.3188239682270762
+Oetjen,Oetjen_00000,pool,,Cycling gamma-delta T cells,0.370223666459337
+Oetjen,Oetjen_00000,pool,,Cycling monocytes,0.35437752107506415
+Oetjen,Oetjen_00000,pool,,DC,0.30144480231690074
+Oetjen,Oetjen_00000,pool,,DC precursor,0.35371885519042756
+Oetjen,Oetjen_00000,pool,,DC1,0.28288857630184605
+Oetjen,Oetjen_00000,pool,,DC2,0.2319862937454165
+Oetjen,Oetjen_00000,pool,,DC3,0.34391284574249853
+Oetjen,Oetjen_00000,pool,,Double-negative thymocytes,0.22349602674918784
+Oetjen,Oetjen_00000,pool,,Double-positive thymocytes,0.2951341813157192
+Oetjen,Oetjen_00000,pool,,ELP,0.326837135427395
+Oetjen,Oetjen_00000,pool,,ETP,0.33197523726530903
+Oetjen,Oetjen_00000,pool,,Early MK,0.31477119916370716
+Oetjen,Oetjen_00000,pool,,Early erythroid,0.32378479569399204
+Oetjen,Oetjen_00000,pool,,Early lymphoid/T lymphoid,0.30100226803067337
+Oetjen,Oetjen_00000,pool,,Endothelial cells,0.35960358813666615
+Oetjen,Oetjen_00000,pool,,Epithelial cells,0.513357667719608
+Oetjen,Oetjen_00000,pool,,Erythrocytes,0.33509954535473035
+Oetjen,Oetjen_00000,pool,,Erythrophagocytic macrophages,0.3254965479968661
+Oetjen,Oetjen_00000,pool,,Fibroblasts,0.29411666113789103
+Oetjen,Oetjen_00000,pool,,Follicular B cells,0.3484288932461873
+Oetjen,Oetjen_00000,pool,,Follicular helper T cells,0.2804035096195928
+Oetjen,Oetjen_00000,pool,,GMP,0.3228507151710869
+Oetjen,Oetjen_00000,pool,,Germinal center B cells,0.3626952478671134
+Oetjen,Oetjen_00000,pool,,Granulocytes,0.3601047908746764
+Oetjen,Oetjen_00000,pool,,HSC/MPP,0.35642938646450867
+Oetjen,Oetjen_00000,pool,,Hofbauer cells,0.37973359392102385
+Oetjen,Oetjen_00000,pool,,ILC,0.3324820567293842
+Oetjen,Oetjen_00000,pool,,ILC precursor,0.3086109498692283
+Oetjen,Oetjen_00000,pool,,ILC1,0.3401309765365613
+Oetjen,Oetjen_00000,pool,,ILC2,0.34759723790378744
+Oetjen,Oetjen_00000,pool,,ILC3,0.28751447765647015
+Oetjen,Oetjen_00000,pool,,Intermediate macrophages,0.2994438814415631
+Oetjen,Oetjen_00000,pool,,Intestinal macrophages,0.3001463792599508
+Oetjen,Oetjen_00000,pool,,Kidney-resident macrophages,0.3353297942530913
+Oetjen,Oetjen_00000,pool,,Kupffer cells,0.26993795823803396
+Oetjen,Oetjen_00000,pool,,Large pre-B cells,0.3153954858749297
+Oetjen,Oetjen_00000,pool,,Late erythroid,0.3509270631898608
+Oetjen,Oetjen_00000,pool,,MAIT cells,0.35408802911230525
+Oetjen,Oetjen_00000,pool,,MEMP,0.3341110625137912
+Oetjen,Oetjen_00000,pool,,MNP,0.3483937314831888
+Oetjen,Oetjen_00000,pool,,Macrophages,0.15165552456675357
+Oetjen,Oetjen_00000,pool,,Mast cells,0.33401246566547205
+Oetjen,Oetjen_00000,pool,,Megakaryocyte precursor,0.3245767967866103
+Oetjen,Oetjen_00000,pool,,Megakaryocyte-erythroid-mast cell progenitor,0.312205052653737
+Oetjen,Oetjen_00000,pool,,Megakaryocytes/platelets,0.35555443059745045
+Oetjen,Oetjen_00000,pool,,Memory B cells,0.2040340951972054
+Oetjen,Oetjen_00000,pool,,Memory CD4+ cytotoxic T cells,0.33331058875290165
+Oetjen,Oetjen_00000,pool,,Mid erythroid,0.33254516919994503
+Oetjen,Oetjen_00000,pool,,Migratory DCs,0.3076712138691944
+Oetjen,Oetjen_00000,pool,,Mono-mac,0.26468747289939576
+Oetjen,Oetjen_00000,pool,,Monocyte precursor,0.3199090074593819
+Oetjen,Oetjen_00000,pool,,Monocytes,0.16865291386116502
+Oetjen,Oetjen_00000,pool,,Myelocytes,0.354701998145343
+Oetjen,Oetjen_00000,pool,,NK cells,0.05010431244104901
+Oetjen,Oetjen_00000,pool,,NKT cells,0.273744443792321
+Oetjen,Oetjen_00000,pool,,Naive B cells,0.206552508646076
+Oetjen,Oetjen_00000,pool,,Neutrophil-myeloid progenitor,0.3304112895393524
+Oetjen,Oetjen_00000,pool,,Neutrophils,0.3524548270578249
+Oetjen,Oetjen_00000,pool,,Non-classical monocytes,0.2925305282431492
+Oetjen,Oetjen_00000,pool,,Plasma cells,0.3154258420377199
+Oetjen,Oetjen_00000,pool,,Plasmablasts,0.33097671526785477
+Oetjen,Oetjen_00000,pool,,Pre-pro-B cells,0.3379726712160344
+Oetjen,Oetjen_00000,pool,,Pro-B cells,0.33828906380485485
+Oetjen,Oetjen_00000,pool,,Proliferative germinal center B cells,0.3574680645451113
+Oetjen,Oetjen_00000,pool,,Promyelocytes,0.36558824451981053
+Oetjen,Oetjen_00000,pool,,Regulatory T cells,0.2545619929765517
+Oetjen,Oetjen_00000,pool,,Small pre-B cells,0.3175980831386229
+Oetjen,Oetjen_00000,pool,,T(agonist),0.30168411174064863
+Oetjen,Oetjen_00000,pool,,Tcm/Naive cytotoxic T cells,0.26239838488545963
+Oetjen,Oetjen_00000,pool,,Tcm/Naive helper T cells,0.11013953567883285
+Oetjen,Oetjen_00000,pool,,Tem/Effector helper T cells,0.34540841388835725
+Oetjen,Oetjen_00000,pool,,Tem/Effector helper T cells PD1+,0.35314359074501595
+Oetjen,Oetjen_00000,pool,,Tem/Temra cytotoxic T cells,0.32079297680264135
+Oetjen,Oetjen_00000,pool,,Tem/Trm cytotoxic T cells,0.23283622872761534
+Oetjen,Oetjen_00000,pool,,Transitional B cells,0.3436894377395808
+Oetjen,Oetjen_00000,pool,,Transitional DC,0.3243757255444541
+Oetjen,Oetjen_00000,pool,,Transitional NK,0.3407144060826003
+Oetjen,Oetjen_00000,pool,,Treg(diff),0.284657815795047
+Oetjen,Oetjen_00000,pool,,Trm cytotoxic T cells,0.2941691955383527
+Oetjen,Oetjen_00000,pool,,Type 1 helper T cells,0.28808621155462627
+Oetjen,Oetjen_00000,pool,,Type 17 helper T cells,0.28633398588274533
+Oetjen,Oetjen_00000,pool,,gamma-delta T cells,0.3353838654668077
+Oetjen,Oetjen_00000,pool,,pDC,0.3497134193778171
+Oetjen,Oetjen_00000,pool,,pDC precursor,0.3462775823028133
+Oetjen,Oetjen_00001,sample,Oetjen_A,Age-associated B cells,0.6296792900286169
+Oetjen,Oetjen_00001,sample,Oetjen_A,Alveolar macrophages,0.5127835121244066
+Oetjen,Oetjen_00001,sample,Oetjen_A,B cells,0.6454583587100964
+Oetjen,Oetjen_00001,sample,Oetjen_A,CD16+ NK cells,0.591501796957429
+Oetjen,Oetjen_00001,sample,Oetjen_A,CD16- NK cells,0.42128160755429944
+Oetjen,Oetjen_00001,sample,Oetjen_A,CD8a/a,0.63690357332208
+Oetjen,Oetjen_00001,sample,Oetjen_A,CD8a/b(entry),0.46324338396990944
+Oetjen,Oetjen_00001,sample,Oetjen_A,CMP,0.7958760797539799
+Oetjen,Oetjen_00001,sample,Oetjen_A,CRTAM+ gamma-delta T cells,0.5827738708774236
+Oetjen,Oetjen_00001,sample,Oetjen_A,Classical monocytes,0.5468115740015473
+Oetjen,Oetjen_00001,sample,Oetjen_A,Cycling B cells,0.7588334520162412
+Oetjen,Oetjen_00001,sample,Oetjen_A,Cycling DCs,0.7789833468994487
+Oetjen,Oetjen_00001,sample,Oetjen_A,Cycling NK cells,0.7361452137089052
+Oetjen,Oetjen_00001,sample,Oetjen_A,Cycling T cells,0.7398236446132093
+Oetjen,Oetjen_00001,sample,Oetjen_A,Cycling gamma-delta T cells,0.8423244452405854
+Oetjen,Oetjen_00001,sample,Oetjen_A,Cycling monocytes,0.8190517085500366
+Oetjen,Oetjen_00001,sample,Oetjen_A,DC,0.7101824933110221
+Oetjen,Oetjen_00001,sample,Oetjen_A,DC precursor,0.787835429460756
+Oetjen,Oetjen_00001,sample,Oetjen_A,DC1,0.6837204380187359
+Oetjen,Oetjen_00001,sample,Oetjen_A,DC2,0.602891250689247
+Oetjen,Oetjen_00001,sample,Oetjen_A,DC3,0.773035829098306
+Oetjen,Oetjen_00001,sample,Oetjen_A,Double-negative thymocytes,0.5441516133530618
+Oetjen,Oetjen_00001,sample,Oetjen_A,Double-positive thymocytes,0.5456909935968828
+Oetjen,Oetjen_00001,sample,Oetjen_A,ELP,0.7873355574493726
+Oetjen,Oetjen_00001,sample,Oetjen_A,ETP,0.7673604788525507
+Oetjen,Oetjen_00001,sample,Oetjen_A,Early MK,0.7431781512627583
+Oetjen,Oetjen_00001,sample,Oetjen_A,Early erythroid,0.7717331550616175
+Oetjen,Oetjen_00001,sample,Oetjen_A,Early lymphoid/T lymphoid,0.7164825999562331
+Oetjen,Oetjen_00001,sample,Oetjen_A,Endothelial cells,0.7909974916350541
+Oetjen,Oetjen_00001,sample,Oetjen_A,Epithelial cells,0.9738047081950494
+Oetjen,Oetjen_00001,sample,Oetjen_A,Erythrocytes,0.7668106034168429
+Oetjen,Oetjen_00001,sample,Oetjen_A,Erythrophagocytic macrophages,0.7486632059332291
+Oetjen,Oetjen_00001,sample,Oetjen_A,Fibroblasts,0.6597864677538375
+Oetjen,Oetjen_00001,sample,Oetjen_A,Follicular B cells,0.8069478415952376
+Oetjen,Oetjen_00001,sample,Oetjen_A,Follicular helper T cells,0.6135359298704612
+Oetjen,Oetjen_00001,sample,Oetjen_A,GMP,0.7715530879997813
+Oetjen,Oetjen_00001,sample,Oetjen_A,Germinal center B cells,0.8018710841120082
+Oetjen,Oetjen_00001,sample,Oetjen_A,Granulocytes,0.7923319625837261
+Oetjen,Oetjen_00001,sample,Oetjen_A,HSC/MPP,0.8126762178180652
+Oetjen,Oetjen_00001,sample,Oetjen_A,Hofbauer cells,0.8020405609392489
+Oetjen,Oetjen_00001,sample,Oetjen_A,ILC,0.7511590930397349
+Oetjen,Oetjen_00001,sample,Oetjen_A,ILC precursor,0.7275134388016982
+Oetjen,Oetjen_00001,sample,Oetjen_A,ILC1,0.8051681496307758
+Oetjen,Oetjen_00001,sample,Oetjen_A,ILC2,0.7984336122896772
+Oetjen,Oetjen_00001,sample,Oetjen_A,ILC3,0.6593039841478461
+Oetjen,Oetjen_00001,sample,Oetjen_A,Intermediate macrophages,0.6630496907846706
+Oetjen,Oetjen_00001,sample,Oetjen_A,Intestinal macrophages,0.6972993609547203
+Oetjen,Oetjen_00001,sample,Oetjen_A,Kidney-resident macrophages,0.7889670022401563
+Oetjen,Oetjen_00001,sample,Oetjen_A,Kupffer cells,0.6394594412849055
+Oetjen,Oetjen_00001,sample,Oetjen_A,Large pre-B cells,0.775832175138699
+Oetjen,Oetjen_00001,sample,Oetjen_A,Late erythroid,0.8051687585413188
+Oetjen,Oetjen_00001,sample,Oetjen_A,MAIT cells,0.7476078487294137
+Oetjen,Oetjen_00001,sample,Oetjen_A,MEMP,0.7775196315512515
+Oetjen,Oetjen_00001,sample,Oetjen_A,MNP,0.7675419056450435
+Oetjen,Oetjen_00001,sample,Oetjen_A,Macrophages,0.44347349533531855
+Oetjen,Oetjen_00001,sample,Oetjen_A,Mast cells,0.7419417652835785
+Oetjen,Oetjen_00001,sample,Oetjen_A,Megakaryocyte precursor,0.8055208692792072
+Oetjen,Oetjen_00001,sample,Oetjen_A,Megakaryocyte-erythroid-mast cell progenitor,0.7694581551256496
+Oetjen,Oetjen_00001,sample,Oetjen_A,Megakaryocytes/platelets,0.7845801097304189
+Oetjen,Oetjen_00001,sample,Oetjen_A,Memory B cells,0.4450290842824838
+Oetjen,Oetjen_00001,sample,Oetjen_A,Memory CD4+ cytotoxic T cells,0.7297157612574495
+Oetjen,Oetjen_00001,sample,Oetjen_A,Mid erythroid,0.7673464421566205
+Oetjen,Oetjen_00001,sample,Oetjen_A,Migratory DCs,0.7459391188729079
+Oetjen,Oetjen_00001,sample,Oetjen_A,Mono-mac,0.5832477725626202
+Oetjen,Oetjen_00001,sample,Oetjen_A,Monocyte precursor,0.7445461257129629
+Oetjen,Oetjen_00001,sample,Oetjen_A,Monocytes,0.48148303762329153
+Oetjen,Oetjen_00001,sample,Oetjen_A,Myelocytes,0.784467572885864
+Oetjen,Oetjen_00001,sample,Oetjen_A,NK cells,0.1640126040529998
+Oetjen,Oetjen_00001,sample,Oetjen_A,NKT cells,0.6223126186584415
+Oetjen,Oetjen_00001,sample,Oetjen_A,Naive B cells,0.4637455059940875
+Oetjen,Oetjen_00001,sample,Oetjen_A,Neutrophil-myeloid progenitor,0.7496579896823266
+Oetjen,Oetjen_00001,sample,Oetjen_A,Neutrophils,0.8383998570795733
+Oetjen,Oetjen_00001,sample,Oetjen_A,Non-classical monocytes,0.6652649834338147
+Oetjen,Oetjen_00001,sample,Oetjen_A,Plasma cells,0.7014328232265948
+Oetjen,Oetjen_00001,sample,Oetjen_A,Plasmablasts,0.7283164010882017
+Oetjen,Oetjen_00001,sample,Oetjen_A,Pre-pro-B cells,0.7956733808179897
+Oetjen,Oetjen_00001,sample,Oetjen_A,Pro-B cells,0.7760796922421109
+Oetjen,Oetjen_00001,sample,Oetjen_A,Proliferative germinal center B cells,0.7842068997876165
+Oetjen,Oetjen_00001,sample,Oetjen_A,Promyelocytes,0.8115413880085741
+Oetjen,Oetjen_00001,sample,Oetjen_A,Regulatory T cells,0.5108025851648134
+Oetjen,Oetjen_00001,sample,Oetjen_A,Small pre-B cells,0.7777916847223886
+Oetjen,Oetjen_00001,sample,Oetjen_A,T(agonist),0.5658117989344237
+Oetjen,Oetjen_00001,sample,Oetjen_A,Tcm/Naive cytotoxic T cells,0.4919813233428779
+Oetjen,Oetjen_00001,sample,Oetjen_A,Tcm/Naive helper T cells,0.28121614451580923
+Oetjen,Oetjen_00001,sample,Oetjen_A,Tem/Effector helper T cells,0.62358650358463
+Oetjen,Oetjen_00001,sample,Oetjen_A,Tem/Effector helper T cells PD1+,0.8078533866809292
+Oetjen,Oetjen_00001,sample,Oetjen_A,Tem/Temra cytotoxic T cells,0.6623031176346457
+Oetjen,Oetjen_00001,sample,Oetjen_A,Tem/Trm cytotoxic T cells,0.47600579665375353
+Oetjen,Oetjen_00001,sample,Oetjen_A,Transitional B cells,0.7998665393799334
+Oetjen,Oetjen_00001,sample,Oetjen_A,Transitional DC,0.791894305520593
+Oetjen,Oetjen_00001,sample,Oetjen_A,Transitional NK,0.790940724812846
+Oetjen,Oetjen_00001,sample,Oetjen_A,Treg(diff),0.5439052567842048
+Oetjen,Oetjen_00001,sample,Oetjen_A,Trm cytotoxic T cells,0.5826393109743779
+Oetjen,Oetjen_00001,sample,Oetjen_A,Type 1 helper T cells,0.542338510879007
+Oetjen,Oetjen_00001,sample,Oetjen_A,Type 17 helper T cells,0.6080360096184019
+Oetjen,Oetjen_00001,sample,Oetjen_A,gamma-delta T cells,0.7423393317381434
+Oetjen,Oetjen_00001,sample,Oetjen_A,pDC,0.7827075099893421
+Oetjen,Oetjen_00001,sample,Oetjen_A,pDC precursor,0.7892185823778994
+Oetjen,Oetjen_00002,sample,Oetjen_P,Age-associated B cells,0.5776476507959684
+Oetjen,Oetjen_00002,sample,Oetjen_P,Alveolar macrophages,0.3856723227857262
+Oetjen,Oetjen_00002,sample,Oetjen_P,B cells,0.5867102043088679
+Oetjen,Oetjen_00002,sample,Oetjen_P,CD16+ NK cells,0.48246860455337
+Oetjen,Oetjen_00002,sample,Oetjen_P,CD16- NK cells,0.4664092564037501
+Oetjen,Oetjen_00002,sample,Oetjen_P,CD8a/a,0.6009177732709758
+Oetjen,Oetjen_00002,sample,Oetjen_P,CD8a/b(entry),0.44130599743196386
+Oetjen,Oetjen_00002,sample,Oetjen_P,CMP,0.6738695366925636
+Oetjen,Oetjen_00002,sample,Oetjen_P,CRTAM+ gamma-delta T cells,0.5767894605139056
+Oetjen,Oetjen_00002,sample,Oetjen_P,Classical monocytes,0.38735638529834227
+Oetjen,Oetjen_00002,sample,Oetjen_P,Cycling B cells,0.6793070674010442
+Oetjen,Oetjen_00002,sample,Oetjen_P,Cycling DCs,0.6912352844439874
+Oetjen,Oetjen_00002,sample,Oetjen_P,Cycling NK cells,0.6597847131532412
+Oetjen,Oetjen_00002,sample,Oetjen_P,Cycling T cells,0.6655940139222674
+Oetjen,Oetjen_00002,sample,Oetjen_P,Cycling gamma-delta T cells,0.7117153487695896
+Oetjen,Oetjen_00002,sample,Oetjen_P,Cycling monocytes,0.6978371058427948
+Oetjen,Oetjen_00002,sample,Oetjen_P,DC,0.5926940733135952
+Oetjen,Oetjen_00002,sample,Oetjen_P,DC precursor,0.7039004765077661
+Oetjen,Oetjen_00002,sample,Oetjen_P,DC1,0.6105431772098892
+Oetjen,Oetjen_00002,sample,Oetjen_P,DC2,0.472531922220088
+Oetjen,Oetjen_00002,sample,Oetjen_P,DC3,0.6878134632735222
+Oetjen,Oetjen_00002,sample,Oetjen_P,Double-negative thymocytes,0.48705529141314235
+Oetjen,Oetjen_00002,sample,Oetjen_P,Double-positive thymocytes,0.5934046492444615
+Oetjen,Oetjen_00002,sample,Oetjen_P,ELP,0.6766306908137294
+Oetjen,Oetjen_00002,sample,Oetjen_P,ETP,0.670913618893021
+Oetjen,Oetjen_00002,sample,Oetjen_P,Early MK,0.6631420836805141
+Oetjen,Oetjen_00002,sample,Oetjen_P,Early erythroid,0.6433935773658831
+Oetjen,Oetjen_00002,sample,Oetjen_P,Early lymphoid/T lymphoid,0.6463391150631292
+Oetjen,Oetjen_00002,sample,Oetjen_P,Endothelial cells,0.6625396183244405
+Oetjen,Oetjen_00002,sample,Oetjen_P,Epithelial cells,0.9802123378108067
+Oetjen,Oetjen_00002,sample,Oetjen_P,Erythrocytes,0.668496045633418
+Oetjen,Oetjen_00002,sample,Oetjen_P,Erythrophagocytic macrophages,0.6070199075381518
+Oetjen,Oetjen_00002,sample,Oetjen_P,Fibroblasts,0.7003308795638368
+Oetjen,Oetjen_00002,sample,Oetjen_P,Follicular B cells,0.6723901562828706
+Oetjen,Oetjen_00002,sample,Oetjen_P,Follicular helper T cells,0.5529163503368805
+Oetjen,Oetjen_00002,sample,Oetjen_P,GMP,0.6721978586148258
+Oetjen,Oetjen_00002,sample,Oetjen_P,Germinal center B cells,0.6953105514110194
+Oetjen,Oetjen_00002,sample,Oetjen_P,Granulocytes,0.7039573763059336
+Oetjen,Oetjen_00002,sample,Oetjen_P,HSC/MPP,0.6949764850841064
+Oetjen,Oetjen_00002,sample,Oetjen_P,Hofbauer cells,0.7012986754434986
+Oetjen,Oetjen_00002,sample,Oetjen_P,ILC,0.631136451530398
+Oetjen,Oetjen_00002,sample,Oetjen_P,ILC precursor,0.625716237822306
+Oetjen,Oetjen_00002,sample,Oetjen_P,ILC1,0.7201899419894469
+Oetjen,Oetjen_00002,sample,Oetjen_P,ILC2,0.7063930578725328
+Oetjen,Oetjen_00002,sample,Oetjen_P,ILC3,0.5891211277942571
+Oetjen,Oetjen_00002,sample,Oetjen_P,Intermediate macrophages,0.5859156490343755
+Oetjen,Oetjen_00002,sample,Oetjen_P,Intestinal macrophages,0.5943116626838999
+Oetjen,Oetjen_00002,sample,Oetjen_P,Kidney-resident macrophages,0.6961369085907698
+Oetjen,Oetjen_00002,sample,Oetjen_P,Kupffer cells,0.5330025982939781
+Oetjen,Oetjen_00002,sample,Oetjen_P,Large pre-B cells,0.6866056953418904
+Oetjen,Oetjen_00002,sample,Oetjen_P,Late erythroid,0.6967096492146091
+Oetjen,Oetjen_00002,sample,Oetjen_P,MAIT cells,0.6788776569186279
+Oetjen,Oetjen_00002,sample,Oetjen_P,MEMP,0.6855223971076719
+Oetjen,Oetjen_00002,sample,Oetjen_P,MNP,0.7386071792475362
+Oetjen,Oetjen_00002,sample,Oetjen_P,Macrophages,0.3151925737934565
+Oetjen,Oetjen_00002,sample,Oetjen_P,Mast cells,0.6507426867480706
+Oetjen,Oetjen_00002,sample,Oetjen_P,Megakaryocyte precursor,0.6693412039286065
+Oetjen,Oetjen_00002,sample,Oetjen_P,Megakaryocyte-erythroid-mast cell progenitor,0.6804145768425186
+Oetjen,Oetjen_00002,sample,Oetjen_P,Megakaryocytes/platelets,0.7093271705344403
+Oetjen,Oetjen_00002,sample,Oetjen_P,Memory B cells,0.4446252945883628
+Oetjen,Oetjen_00002,sample,Oetjen_P,Memory CD4+ cytotoxic T cells,0.6615403448983933
+Oetjen,Oetjen_00002,sample,Oetjen_P,Mid erythroid,0.677728699625619
+Oetjen,Oetjen_00002,sample,Oetjen_P,Migratory DCs,0.6542849534465313
+Oetjen,Oetjen_00002,sample,Oetjen_P,Mono-mac,0.5398153710921726
+Oetjen,Oetjen_00002,sample,Oetjen_P,Monocyte precursor,0.6411665190533019
+Oetjen,Oetjen_00002,sample,Oetjen_P,Monocytes,0.34788760395674445
+Oetjen,Oetjen_00002,sample,Oetjen_P,Myelocytes,0.7070402287534369
+Oetjen,Oetjen_00002,sample,Oetjen_P,NK cells,0.1782523389170547
+Oetjen,Oetjen_00002,sample,Oetjen_P,NKT cells,0.5634558700915557
+Oetjen,Oetjen_00002,sample,Oetjen_P,Naive B cells,0.45641494631138496
+Oetjen,Oetjen_00002,sample,Oetjen_P,Neutrophil-myeloid progenitor,0.718552072693214
+Oetjen,Oetjen_00002,sample,Oetjen_P,Neutrophils,0.7055515460757444
+Oetjen,Oetjen_00002,sample,Oetjen_P,Non-classical monocytes,0.5669816899106853
+Oetjen,Oetjen_00002,sample,Oetjen_P,Plasma cells,0.5994129574051924
+Oetjen,Oetjen_00002,sample,Oetjen_P,Plasmablasts,0.6713692919046407
+Oetjen,Oetjen_00002,sample,Oetjen_P,Pre-pro-B cells,0.7119769889884006
+Oetjen,Oetjen_00002,sample,Oetjen_P,Pro-B cells,0.6707643114030478
+Oetjen,Oetjen_00002,sample,Oetjen_P,Proliferative germinal center B cells,0.7110336133598932
+Oetjen,Oetjen_00002,sample,Oetjen_P,Promyelocytes,0.710106703168217
+Oetjen,Oetjen_00002,sample,Oetjen_P,Regulatory T cells,0.4689898358963827
+Oetjen,Oetjen_00002,sample,Oetjen_P,Small pre-B cells,0.6761582059136113
+Oetjen,Oetjen_00002,sample,Oetjen_P,T(agonist),0.5189075984701448
+Oetjen,Oetjen_00002,sample,Oetjen_P,Tcm/Naive cytotoxic T cells,0.47861702378445725
+Oetjen,Oetjen_00002,sample,Oetjen_P,Tcm/Naive helper T cells,0.25403803849200285
+Oetjen,Oetjen_00002,sample,Oetjen_P,Tem/Effector helper T cells,0.5576838537462884
+Oetjen,Oetjen_00002,sample,Oetjen_P,Tem/Effector helper T cells PD1+,0.6796589712996334
+Oetjen,Oetjen_00002,sample,Oetjen_P,Tem/Temra cytotoxic T cells,0.5949069635823301
+Oetjen,Oetjen_00002,sample,Oetjen_P,Tem/Trm cytotoxic T cells,0.4410090403541773
+Oetjen,Oetjen_00002,sample,Oetjen_P,Transitional B cells,0.7057966190875614
+Oetjen,Oetjen_00002,sample,Oetjen_P,Transitional DC,0.6936254004550154
+Oetjen,Oetjen_00002,sample,Oetjen_P,Transitional NK,0.6775393913169042
+Oetjen,Oetjen_00002,sample,Oetjen_P,Treg(diff),0.5587401863794511
+Oetjen,Oetjen_00002,sample,Oetjen_P,Trm cytotoxic T cells,0.5352159334593454
+Oetjen,Oetjen_00002,sample,Oetjen_P,Type 1 helper T cells,0.5338986119110538
+Oetjen,Oetjen_00002,sample,Oetjen_P,Type 17 helper T cells,0.5824004851559867
+Oetjen,Oetjen_00002,sample,Oetjen_P,gamma-delta T cells,0.6588294342185014
+Oetjen,Oetjen_00002,sample,Oetjen_P,pDC,0.6735094806800741
+Oetjen,Oetjen_00002,sample,Oetjen_P,pDC precursor,0.687335577790459
+Oetjen,Oetjen_00003,sample,Oetjen_U,Age-associated B cells,0.6137148323314487
+Oetjen,Oetjen_00003,sample,Oetjen_U,Alveolar macrophages,0.43565691772835036
+Oetjen,Oetjen_00003,sample,Oetjen_U,B cells,0.5920933339575423
+Oetjen,Oetjen_00003,sample,Oetjen_U,CD16+ NK cells,0.5622624004202441
+Oetjen,Oetjen_00003,sample,Oetjen_U,CD16- NK cells,0.44874796668254635
+Oetjen,Oetjen_00003,sample,Oetjen_U,CD8a/a,0.5787144186326646
+Oetjen,Oetjen_00003,sample,Oetjen_U,CD8a/b(entry),0.4510110268640338
+Oetjen,Oetjen_00003,sample,Oetjen_U,CMP,0.7064730458425895
+Oetjen,Oetjen_00003,sample,Oetjen_U,CRTAM+ gamma-delta T cells,0.601826579444982
+Oetjen,Oetjen_00003,sample,Oetjen_U,Classical monocytes,0.35908098052430265
+Oetjen,Oetjen_00003,sample,Oetjen_U,Cycling B cells,0.7222696990343002
+Oetjen,Oetjen_00003,sample,Oetjen_U,Cycling DCs,0.6717591319493808
+Oetjen,Oetjen_00003,sample,Oetjen_U,Cycling NK cells,0.6454001159620604
+Oetjen,Oetjen_00003,sample,Oetjen_U,Cycling T cells,0.6788462038253692
+Oetjen,Oetjen_00003,sample,Oetjen_U,Cycling gamma-delta T cells,0.7460670678600237
+Oetjen,Oetjen_00003,sample,Oetjen_U,Cycling monocytes,0.7554779698453513
+Oetjen,Oetjen_00003,sample,Oetjen_U,DC,0.5778343343119301
+Oetjen,Oetjen_00003,sample,Oetjen_U,DC precursor,0.7227565064093209
+Oetjen,Oetjen_00003,sample,Oetjen_U,DC1,0.5925909592755992
+Oetjen,Oetjen_00003,sample,Oetjen_U,DC2,0.49768427837715395
+Oetjen,Oetjen_00003,sample,Oetjen_U,DC3,0.723856356733045
+Oetjen,Oetjen_00003,sample,Oetjen_U,Double-negative thymocytes,0.4487510710752191
+Oetjen,Oetjen_00003,sample,Oetjen_U,Double-positive thymocytes,0.6073108172251327
+Oetjen,Oetjen_00003,sample,Oetjen_U,ELP,0.6861067602649759
+Oetjen,Oetjen_00003,sample,Oetjen_U,ETP,0.711391703604817
+Oetjen,Oetjen_00003,sample,Oetjen_U,Early MK,0.6948285814761704
+Oetjen,Oetjen_00003,sample,Oetjen_U,Early erythroid,0.6487702375100229
+Oetjen,Oetjen_00003,sample,Oetjen_U,Early lymphoid/T lymphoid,0.6207093977460039
+Oetjen,Oetjen_00003,sample,Oetjen_U,Endothelial cells,0.7529418602293247
+Oetjen,Oetjen_00003,sample,Oetjen_U,Epithelial cells,1.1288444848868429
+Oetjen,Oetjen_00003,sample,Oetjen_U,Erythrocytes,0.6856125196324752
+Oetjen,Oetjen_00003,sample,Oetjen_U,Erythrophagocytic macrophages,0.6083669355038196
+Oetjen,Oetjen_00003,sample,Oetjen_U,Fibroblasts,0.7807623410091555
+Oetjen,Oetjen_00003,sample,Oetjen_U,Follicular B cells,0.7042872451977954
+Oetjen,Oetjen_00003,sample,Oetjen_U,Follicular helper T cells,0.5239477522740951
+Oetjen,Oetjen_00003,sample,Oetjen_U,GMP,0.704396599404598
+Oetjen,Oetjen_00003,sample,Oetjen_U,Germinal center B cells,0.7689046682052293
+Oetjen,Oetjen_00003,sample,Oetjen_U,Granulocytes,0.7050025368640798
+Oetjen,Oetjen_00003,sample,Oetjen_U,HSC/MPP,0.7204528433203604
+Oetjen,Oetjen_00003,sample,Oetjen_U,Hofbauer cells,0.71827980051263
+Oetjen,Oetjen_00003,sample,Oetjen_U,ILC,0.6551380709701418
+Oetjen,Oetjen_00003,sample,Oetjen_U,ILC precursor,0.655485213584939
+Oetjen,Oetjen_00003,sample,Oetjen_U,ILC1,0.7131303401827965
+Oetjen,Oetjen_00003,sample,Oetjen_U,ILC2,0.7324749738715635
+Oetjen,Oetjen_00003,sample,Oetjen_U,ILC3,0.6344141723878606
+Oetjen,Oetjen_00003,sample,Oetjen_U,Intermediate macrophages,0.6113233467733443
+Oetjen,Oetjen_00003,sample,Oetjen_U,Intestinal macrophages,0.6104976708376129
+Oetjen,Oetjen_00003,sample,Oetjen_U,Kidney-resident macrophages,0.7115471024829109
+Oetjen,Oetjen_00003,sample,Oetjen_U,Kupffer cells,0.4985057928676898
+Oetjen,Oetjen_00003,sample,Oetjen_U,Large pre-B cells,0.6939202841160756
+Oetjen,Oetjen_00003,sample,Oetjen_U,Late erythroid,0.7102608351192372
+Oetjen,Oetjen_00003,sample,Oetjen_U,MAIT cells,0.7147087770423537
+Oetjen,Oetjen_00003,sample,Oetjen_U,MEMP,0.7172865163965818
+Oetjen,Oetjen_00003,sample,Oetjen_U,MNP,0.712205499063154
+Oetjen,Oetjen_00003,sample,Oetjen_U,Macrophages,0.28220299663249354
+Oetjen,Oetjen_00003,sample,Oetjen_U,Mast cells,0.6752463913931658
+Oetjen,Oetjen_00003,sample,Oetjen_U,Megakaryocyte precursor,0.6946620501297808
+Oetjen,Oetjen_00003,sample,Oetjen_U,Megakaryocyte-erythroid-mast cell progenitor,0.702969551803886
+Oetjen,Oetjen_00003,sample,Oetjen_U,Megakaryocytes/platelets,0.6999189380474883
+Oetjen,Oetjen_00003,sample,Oetjen_U,Memory B cells,0.4204769311052448
+Oetjen,Oetjen_00003,sample,Oetjen_U,Memory CD4+ cytotoxic T cells,0.6716894688756262
+Oetjen,Oetjen_00003,sample,Oetjen_U,Mid erythroid,0.6779275404608512
+Oetjen,Oetjen_00003,sample,Oetjen_U,Migratory DCs,0.6739014876171242
+Oetjen,Oetjen_00003,sample,Oetjen_U,Mono-mac,0.477988356291581
+Oetjen,Oetjen_00003,sample,Oetjen_U,Monocyte precursor,0.6933013189901569
+Oetjen,Oetjen_00003,sample,Oetjen_U,Monocytes,0.3710521864326026
+Oetjen,Oetjen_00003,sample,Oetjen_U,Myelocytes,0.7054290679072657
+Oetjen,Oetjen_00003,sample,Oetjen_U,NK cells,0.128610674899608
+Oetjen,Oetjen_00003,sample,Oetjen_U,NKT cells,0.5768918461438695
+Oetjen,Oetjen_00003,sample,Oetjen_U,Naive B cells,0.42547484957399917
+Oetjen,Oetjen_00003,sample,Oetjen_U,Neutrophil-myeloid progenitor,0.6836558070519938
+Oetjen,Oetjen_00003,sample,Oetjen_U,Neutrophils,0.7380555115692347
+Oetjen,Oetjen_00003,sample,Oetjen_U,Non-classical monocytes,0.5843227441480645
+Oetjen,Oetjen_00003,sample,Oetjen_U,Plasma cells,0.6530000815314781
+Oetjen,Oetjen_00003,sample,Oetjen_U,Plasmablasts,0.6867535793735177
+Oetjen,Oetjen_00003,sample,Oetjen_U,Pre-pro-B cells,0.7011177208670598
+Oetjen,Oetjen_00003,sample,Oetjen_U,Pro-B cells,0.7077114759219693
+Oetjen,Oetjen_00003,sample,Oetjen_U,Proliferative germinal center B cells,0.7193004325938496
+Oetjen,Oetjen_00003,sample,Oetjen_U,Promyelocytes,0.7344810852825298
+Oetjen,Oetjen_00003,sample,Oetjen_U,Regulatory T cells,0.5007676352637651
+Oetjen,Oetjen_00003,sample,Oetjen_U,Small pre-B cells,0.6984987411130392
+Oetjen,Oetjen_00003,sample,Oetjen_U,T(agonist),0.5537919266848345
+Oetjen,Oetjen_00003,sample,Oetjen_U,Tcm/Naive cytotoxic T cells,0.5016249252934455
+Oetjen,Oetjen_00003,sample,Oetjen_U,Tcm/Naive helper T cells,0.2823481264536375
+Oetjen,Oetjen_00003,sample,Oetjen_U,Tem/Effector helper T cells,0.6210648871590505
+Oetjen,Oetjen_00003,sample,Oetjen_U,Tem/Effector helper T cells PD1+,0.7125143848963096
+Oetjen,Oetjen_00003,sample,Oetjen_U,Tem/Temra cytotoxic T cells,0.5964323140886109
+Oetjen,Oetjen_00003,sample,Oetjen_U,Tem/Trm cytotoxic T cells,0.43009051794784847
+Oetjen,Oetjen_00003,sample,Oetjen_U,Transitional B cells,0.7016846278483899
+Oetjen,Oetjen_00003,sample,Oetjen_U,Transitional DC,0.6652052805783262
+Oetjen,Oetjen_00003,sample,Oetjen_U,Transitional NK,0.6945689883627713
+Oetjen,Oetjen_00003,sample,Oetjen_U,Treg(diff),0.5546319758615205
+Oetjen,Oetjen_00003,sample,Oetjen_U,Trm cytotoxic T cells,0.5542364151736667
+Oetjen,Oetjen_00003,sample,Oetjen_U,Type 1 helper T cells,0.53042113769536
+Oetjen,Oetjen_00003,sample,Oetjen_U,Type 17 helper T cells,0.5673925585321515
+Oetjen,Oetjen_00003,sample,Oetjen_U,gamma-delta T cells,0.6620979476300861
+Oetjen,Oetjen_00003,sample,Oetjen_U,pDC,0.6637621041414166
+Oetjen,Oetjen_00003,sample,Oetjen_U,pDC precursor,0.7250056440873629
+Sun,Sun_00000,pool,,Age-associated B cells,0.5448036234575948
+Sun,Sun_00000,pool,,Alveolar macrophages,0.292291478430318
+Sun,Sun_00000,pool,,B cells,0.3768708235721107
+Sun,Sun_00000,pool,,CD16+ NK cells,0.4060426002180744
+Sun,Sun_00000,pool,,CD16- NK cells,0.4264879356858832
+Sun,Sun_00000,pool,,CD8a/a,0.4440905675978228
+Sun,Sun_00000,pool,,CD8a/b(entry),0.2784428544885383
+Sun,Sun_00000,pool,,CMP,0.5880769201419321
+Sun,Sun_00000,pool,,CRTAM+ gamma-delta T cells,0.4977946470790164
+Sun,Sun_00000,pool,,Classical monocytes,0.2065085906061718
+Sun,Sun_00000,pool,,Cycling B cells,0.5726311586016264
+Sun,Sun_00000,pool,,Cycling DCs,0.5823450279842562
+Sun,Sun_00000,pool,,Cycling NK cells,0.5321532664877646
+Sun,Sun_00000,pool,,Cycling T cells,0.5599244490439835
+Sun,Sun_00000,pool,,Cycling gamma-delta T cells,0.5810492024166595
+Sun,Sun_00000,pool,,Cycling monocytes,0.6153841264387178
+Sun,Sun_00000,pool,,DC,0.49450392397850607
+Sun,Sun_00000,pool,,DC precursor,0.5542742942252183
+Sun,Sun_00000,pool,,DC1,0.5484636829690565
+Sun,Sun_00000,pool,,DC2,0.3294165418201717
+Sun,Sun_00000,pool,,DC3,0.5585677825382628
+Sun,Sun_00000,pool,,Double-negative thymocytes,0.2764840869258173
+Sun,Sun_00000,pool,,Double-positive thymocytes,0.5769536395732708
+Sun,Sun_00000,pool,,ELP,0.6155017478722237
+Sun,Sun_00000,pool,,ETP,0.5289521263128315
+Sun,Sun_00000,pool,,Early MK,0.5327646896877563
+Sun,Sun_00000,pool,,Early erythroid,0.4699059469858581
+Sun,Sun_00000,pool,,Early lymphoid/T lymphoid,0.5018307407815951
+Sun,Sun_00000,pool,,Endothelial cells,0.5459134313084218
+Sun,Sun_00000,pool,,Epithelial cells,0.8909599376495978
+Sun,Sun_00000,pool,,Erythrocytes,0.5520329626342737
+Sun,Sun_00000,pool,,Erythrophagocytic macrophages,0.5214491664640856
+Sun,Sun_00000,pool,,Fibroblasts,0.9797110715064182
+Sun,Sun_00000,pool,,Follicular B cells,0.6264717665614767
+Sun,Sun_00000,pool,,Follicular helper T cells,0.4467131749672553
+Sun,Sun_00000,pool,,GMP,0.5833449598994864
+Sun,Sun_00000,pool,,Germinal center B cells,0.6143280017952467
+Sun,Sun_00000,pool,,Granulocytes,0.6160331520349533
+Sun,Sun_00000,pool,,HSC/MPP,0.5246574282711388
+Sun,Sun_00000,pool,,Hofbauer cells,0.599438413597869
+Sun,Sun_00000,pool,,ILC,0.545098775606808
+Sun,Sun_00000,pool,,ILC precursor,0.48261936712635
+Sun,Sun_00000,pool,,ILC1,0.6136693513302106
+Sun,Sun_00000,pool,,ILC2,0.6361542236628835
+Sun,Sun_00000,pool,,ILC3,0.5229707477798256
+Sun,Sun_00000,pool,,Intermediate macrophages,0.4234357036183983
+Sun,Sun_00000,pool,,Intestinal macrophages,0.5097827757040382
+Sun,Sun_00000,pool,,Kidney-resident macrophages,0.5760421316507521
+Sun,Sun_00000,pool,,Kupffer cells,0.32869977457344113
+Sun,Sun_00000,pool,,Large pre-B cells,0.5889036151700395
+Sun,Sun_00000,pool,,Late erythroid,0.616142821644198
+Sun,Sun_00000,pool,,MAIT cells,0.5768458161384359
+Sun,Sun_00000,pool,,MEMP,0.5083467737337821
+Sun,Sun_00000,pool,,MNP,0.5981844760124113
+Sun,Sun_00000,pool,,Macrophages,0.3041574455173108
+Sun,Sun_00000,pool,,Mast cells,0.5788611429154682
+Sun,Sun_00000,pool,,Megakaryocyte precursor,0.5575352665549781
+Sun,Sun_00000,pool,,Megakaryocyte-erythroid-mast cell progenitor,0.505500540805404
+Sun,Sun_00000,pool,,Megakaryocytes/platelets,0.5591997343724682
+Sun,Sun_00000,pool,,Memory B cells,0.317980541192034
+Sun,Sun_00000,pool,,Memory CD4+ cytotoxic T cells,0.5740469957603189
+Sun,Sun_00000,pool,,Mid erythroid,0.5044780756947341
+Sun,Sun_00000,pool,,Migratory DCs,0.529960096103871
+Sun,Sun_00000,pool,,Mono-mac,0.44856614541424933
+Sun,Sun_00000,pool,,Monocyte precursor,0.5371446787560944
+Sun,Sun_00000,pool,,Monocytes,0.3268139629147857
+Sun,Sun_00000,pool,,Myelocytes,0.58904677091586
+Sun,Sun_00000,pool,,NK cells,0.0074459496158176385
+Sun,Sun_00000,pool,,NKT cells,0.41349246566005843
+Sun,Sun_00000,pool,,Naive B cells,0.39707615161069415
+Sun,Sun_00000,pool,,Neutrophil-myeloid progenitor,0.5567864317642056
+Sun,Sun_00000,pool,,Neutrophils,0.6291119071565274
+Sun,Sun_00000,pool,,Non-classical monocytes,0.4087706473986044
+Sun,Sun_00000,pool,,Plasma cells,0.4786335141905622
+Sun,Sun_00000,pool,,Plasmablasts,0.5687699711293932
+Sun,Sun_00000,pool,,Pre-pro-B cells,0.6164400815830122
+Sun,Sun_00000,pool,,Pro-B cells,0.6329462308288483
+Sun,Sun_00000,pool,,Proliferative germinal center B cells,0.5527151671041478
+Sun,Sun_00000,pool,,Promyelocytes,0.5883152427703291
+Sun,Sun_00000,pool,,Regulatory T cells,0.4048230725000828
+Sun,Sun_00000,pool,,Small pre-B cells,0.49442343196192357
+Sun,Sun_00000,pool,,T(agonist),0.5339395633688503
+Sun,Sun_00000,pool,,Tcm/Naive cytotoxic T cells,0.45828644652426426
+Sun,Sun_00000,pool,,Tcm/Naive helper T cells,0.37199586709682303
+Sun,Sun_00000,pool,,Tem/Effector helper T cells,0.4752717366479023
+Sun,Sun_00000,pool,,Tem/Effector helper T cells PD1+,0.5703215858122748
+Sun,Sun_00000,pool,,Tem/Temra cytotoxic T cells,0.47873223423004624
+Sun,Sun_00000,pool,,Tem/Trm cytotoxic T cells,0.36358998078191784
+Sun,Sun_00000,pool,,Transitional B cells,0.5720289745562694
+Sun,Sun_00000,pool,,Transitional DC,0.6001057908621319
+Sun,Sun_00000,pool,,Transitional NK,0.5775532008533588
+Sun,Sun_00000,pool,,Treg(diff),0.4557047368673946
+Sun,Sun_00000,pool,,Trm cytotoxic T cells,0.4278994708528612
+Sun,Sun_00000,pool,,Type 1 helper T cells,0.49524948037809596
+Sun,Sun_00000,pool,,Type 17 helper T cells,0.5597663547854964
+Sun,Sun_00000,pool,,gamma-delta T cells,0.5758320304160307
+Sun,Sun_00000,pool,,pDC,0.5279513986267833
+Sun,Sun_00000,pool,,pDC precursor,0.5955152658533025
+Sun,Sun_00001,sample,Sun_sample1_CS,Age-associated B cells,0.8699398494242998
+Sun,Sun_00001,sample,Sun_sample1_CS,Alveolar macrophages,0.5727513463404805
+Sun,Sun_00001,sample,Sun_sample1_CS,B cells,0.8985846415774722
+Sun,Sun_00001,sample,Sun_sample1_CS,CD16+ NK cells,0.6597099841968989
+Sun,Sun_00001,sample,Sun_sample1_CS,CD16- NK cells,0.7138750907800069
+Sun,Sun_00001,sample,Sun_sample1_CS,CD8a/a,0.8503121412550861
+Sun,Sun_00001,sample,Sun_sample1_CS,CD8a/b(entry),0.6006383658581108
+Sun,Sun_00001,sample,Sun_sample1_CS,CMP,1.0769515269490724
+Sun,Sun_00001,sample,Sun_sample1_CS,CRTAM+ gamma-delta T cells,0.8799165093004646
+Sun,Sun_00001,sample,Sun_sample1_CS,Classical monocytes,0.3712507586788678
+Sun,Sun_00001,sample,Sun_sample1_CS,Cycling B cells,1.032779815943278
+Sun,Sun_00001,sample,Sun_sample1_CS,Cycling DCs,0.9913013198612494
+Sun,Sun_00001,sample,Sun_sample1_CS,Cycling NK cells,0.9262174183305378
+Sun,Sun_00001,sample,Sun_sample1_CS,Cycling T cells,0.9760722738518538
+Sun,Sun_00001,sample,Sun_sample1_CS,Cycling gamma-delta T cells,1.0693487053156603
+Sun,Sun_00001,sample,Sun_sample1_CS,Cycling monocytes,1.0148207421541917
+Sun,Sun_00001,sample,Sun_sample1_CS,DC,0.8646831874201107
+Sun,Sun_00001,sample,Sun_sample1_CS,DC precursor,0.9367859053946348
+Sun,Sun_00001,sample,Sun_sample1_CS,DC1,0.965781348072512
+Sun,Sun_00001,sample,Sun_sample1_CS,DC2,0.5156617907947004
+Sun,Sun_00001,sample,Sun_sample1_CS,DC3,0.9561304882779724
+Sun,Sun_00001,sample,Sun_sample1_CS,Double-negative thymocytes,0.5662236244870642
+Sun,Sun_00001,sample,Sun_sample1_CS,Double-positive thymocytes,0.8780364758374826
+Sun,Sun_00001,sample,Sun_sample1_CS,ELP,1.0462975203378513
+Sun,Sun_00001,sample,Sun_sample1_CS,ETP,0.9215436436383836
+Sun,Sun_00001,sample,Sun_sample1_CS,Early MK,1.0087906843325787
+Sun,Sun_00001,sample,Sun_sample1_CS,Early erythroid,0.8509945752379021
+Sun,Sun_00001,sample,Sun_sample1_CS,Early lymphoid/T lymphoid,0.9722862409902436
+Sun,Sun_00001,sample,Sun_sample1_CS,Endothelial cells,1.0066436359198963
+Sun,Sun_00001,sample,Sun_sample1_CS,Epithelial cells,1.5511985493630662
+Sun,Sun_00001,sample,Sun_sample1_CS,Erythrocytes,1.1403895295656818
+Sun,Sun_00001,sample,Sun_sample1_CS,Erythrophagocytic macrophages,0.9043234066553374
+Sun,Sun_00001,sample,Sun_sample1_CS,Fibroblasts,1.3424385171186848
+Sun,Sun_00001,sample,Sun_sample1_CS,Follicular B cells,1.062645250054993
+Sun,Sun_00001,sample,Sun_sample1_CS,Follicular helper T cells,0.8771526076950846
+Sun,Sun_00001,sample,Sun_sample1_CS,GMP,1.0483575090408852
+Sun,Sun_00001,sample,Sun_sample1_CS,Germinal center B cells,1.1326769459076975
+Sun,Sun_00001,sample,Sun_sample1_CS,Granulocytes,1.0914692879762153
+Sun,Sun_00001,sample,Sun_sample1_CS,HSC/MPP,0.9059281373757256
+Sun,Sun_00001,sample,Sun_sample1_CS,Hofbauer cells,1.0752751268944658
+Sun,Sun_00001,sample,Sun_sample1_CS,ILC,0.9058464913498584
+Sun,Sun_00001,sample,Sun_sample1_CS,ILC precursor,0.9465844308828942
+Sun,Sun_00001,sample,Sun_sample1_CS,ILC1,1.0846977357583305
+Sun,Sun_00001,sample,Sun_sample1_CS,ILC2,1.1178950435053612
+Sun,Sun_00001,sample,Sun_sample1_CS,ILC3,0.9323427270581263
+Sun,Sun_00001,sample,Sun_sample1_CS,Intermediate macrophages,0.7794141808893653
+Sun,Sun_00001,sample,Sun_sample1_CS,Intestinal macrophages,0.9245321792144362
+Sun,Sun_00001,sample,Sun_sample1_CS,Kidney-resident macrophages,1.0667504215479215
+Sun,Sun_00001,sample,Sun_sample1_CS,Kupffer cells,0.6830863524960045
+Sun,Sun_00001,sample,Sun_sample1_CS,Large pre-B cells,1.0061952358911044
+Sun,Sun_00001,sample,Sun_sample1_CS,Late erythroid,1.149669623020154
+Sun,Sun_00001,sample,Sun_sample1_CS,MAIT cells,0.9735039497382842
+Sun,Sun_00001,sample,Sun_sample1_CS,MEMP,0.9535210123636171
+Sun,Sun_00001,sample,Sun_sample1_CS,MNP,1.0602676581781576
+Sun,Sun_00001,sample,Sun_sample1_CS,Macrophages,0.3955220051570529
+Sun,Sun_00001,sample,Sun_sample1_CS,Mast cells,1.0315667680388005
+Sun,Sun_00001,sample,Sun_sample1_CS,Megakaryocyte precursor,1.020497952820991
+Sun,Sun_00001,sample,Sun_sample1_CS,Megakaryocyte-erythroid-mast cell progenitor,0.8945763216297673
+Sun,Sun_00001,sample,Sun_sample1_CS,Megakaryocytes/platelets,1.0162891862848495
+Sun,Sun_00001,sample,Sun_sample1_CS,Memory B cells,0.5520500160619984
+Sun,Sun_00001,sample,Sun_sample1_CS,Memory CD4+ cytotoxic T cells,1.0440681158574039
+Sun,Sun_00001,sample,Sun_sample1_CS,Mid erythroid,0.8346966291540399
+Sun,Sun_00001,sample,Sun_sample1_CS,Migratory DCs,0.9727744106795952
+Sun,Sun_00001,sample,Sun_sample1_CS,Mono-mac,0.742714674962823
+Sun,Sun_00001,sample,Sun_sample1_CS,Monocyte precursor,1.014300623674121
+Sun,Sun_00001,sample,Sun_sample1_CS,Monocytes,0.463126408603765
+Sun,Sun_00001,sample,Sun_sample1_CS,Myelocytes,1.040851094533324
+Sun,Sun_00001,sample,Sun_sample1_CS,NK cells,0.13831750188504724
+Sun,Sun_00001,sample,Sun_sample1_CS,NKT cells,0.838858045635635
+Sun,Sun_00001,sample,Sun_sample1_CS,Naive B cells,0.7253127041530192
+Sun,Sun_00001,sample,Sun_sample1_CS,Neutrophil-myeloid progenitor,1.0156595266006103
+Sun,Sun_00001,sample,Sun_sample1_CS,Neutrophils,1.1102232066206634
+Sun,Sun_00001,sample,Sun_sample1_CS,Non-classical monocytes,0.699286753363432
+Sun,Sun_00001,sample,Sun_sample1_CS,Plasma cells,0.9462737096112357
+Sun,Sun_00001,sample,Sun_sample1_CS,Plasmablasts,0.9503252195826524
+Sun,Sun_00001,sample,Sun_sample1_CS,Pre-pro-B cells,1.1477840385268787
+Sun,Sun_00001,sample,Sun_sample1_CS,Pro-B cells,1.071610076579373
+Sun,Sun_00001,sample,Sun_sample1_CS,Proliferative germinal center B cells,0.9646773923285937
+Sun,Sun_00001,sample,Sun_sample1_CS,Promyelocytes,1.0698888769761783
+Sun,Sun_00001,sample,Sun_sample1_CS,Regulatory T cells,0.6704250764698627
+Sun,Sun_00001,sample,Sun_sample1_CS,Small pre-B cells,0.9991811614366851
+Sun,Sun_00001,sample,Sun_sample1_CS,T(agonist),0.8095586766636212
+Sun,Sun_00001,sample,Sun_sample1_CS,Tcm/Naive cytotoxic T cells,0.7196604042336248
+Sun,Sun_00001,sample,Sun_sample1_CS,Tcm/Naive helper T cells,0.34608919927442233
+Sun,Sun_00001,sample,Sun_sample1_CS,Tem/Effector helper T cells,0.803403788757267
+Sun,Sun_00001,sample,Sun_sample1_CS,Tem/Effector helper T cells PD1+,1.0521633134965718
+Sun,Sun_00001,sample,Sun_sample1_CS,Tem/Temra cytotoxic T cells,0.8257524926064416
+Sun,Sun_00001,sample,Sun_sample1_CS,Tem/Trm cytotoxic T cells,0.7096727384512003
+Sun,Sun_00001,sample,Sun_sample1_CS,Transitional B cells,0.9827061067274394
+Sun,Sun_00001,sample,Sun_sample1_CS,Transitional DC,1.0580924710004882
+Sun,Sun_00001,sample,Sun_sample1_CS,Transitional NK,0.9854465133129333
+Sun,Sun_00001,sample,Sun_sample1_CS,Treg(diff),0.7251182505025925
+Sun,Sun_00001,sample,Sun_sample1_CS,Trm cytotoxic T cells,0.7545840978958132
+Sun,Sun_00001,sample,Sun_sample1_CS,Type 1 helper T cells,0.8463053315555337
+Sun,Sun_00001,sample,Sun_sample1_CS,Type 17 helper T cells,0.8215331223583828
+Sun,Sun_00001,sample,Sun_sample1_CS,gamma-delta T cells,1.050659229274827
+Sun,Sun_00001,sample,Sun_sample1_CS,pDC,0.9731623822584885
+Sun,Sun_00001,sample,Sun_sample1_CS,pDC precursor,1.0838868135161528
+Sun,Sun_00002,sample,Sun_sample2_KC,Age-associated B cells,0.7819561080162856
+Sun,Sun_00002,sample,Sun_sample2_KC,Alveolar macrophages,0.5177986385678253
+Sun,Sun_00002,sample,Sun_sample2_KC,B cells,0.8025732227761797
+Sun,Sun_00002,sample,Sun_sample2_KC,CD16+ NK cells,0.5934945743145683
+Sun,Sun_00002,sample,Sun_sample2_KC,CD16- NK cells,0.5322858684946339
+Sun,Sun_00002,sample,Sun_sample2_KC,CD8a/a,0.6531126397395584
+Sun,Sun_00002,sample,Sun_sample2_KC,CD8a/b(entry),0.4854311637054672
+Sun,Sun_00002,sample,Sun_sample2_KC,CMP,0.9487415844395
+Sun,Sun_00002,sample,Sun_sample2_KC,CRTAM+ gamma-delta T cells,0.811274132897737
+Sun,Sun_00002,sample,Sun_sample2_KC,Classical monocytes,0.33337071773694454
+Sun,Sun_00002,sample,Sun_sample2_KC,Cycling B cells,0.9411263773872944
+Sun,Sun_00002,sample,Sun_sample2_KC,Cycling DCs,0.9481341294410114
+Sun,Sun_00002,sample,Sun_sample2_KC,Cycling NK cells,0.8867822461929121
+Sun,Sun_00002,sample,Sun_sample2_KC,Cycling T cells,0.9489088004604488
+Sun,Sun_00002,sample,Sun_sample2_KC,Cycling gamma-delta T cells,1.0110606320072166
+Sun,Sun_00002,sample,Sun_sample2_KC,Cycling monocytes,1.0432421669252303
+Sun,Sun_00002,sample,Sun_sample2_KC,DC,0.7312331984691022
+Sun,Sun_00002,sample,Sun_sample2_KC,DC precursor,0.826022485331867
+Sun,Sun_00002,sample,Sun_sample2_KC,DC1,0.8786823119368256
+Sun,Sun_00002,sample,Sun_sample2_KC,DC2,0.5583544688292215
+Sun,Sun_00002,sample,Sun_sample2_KC,DC3,0.896082954717952
+Sun,Sun_00002,sample,Sun_sample2_KC,Double-negative thymocytes,0.6224593970296675
+Sun,Sun_00002,sample,Sun_sample2_KC,Double-positive thymocytes,0.8906703861453378
+Sun,Sun_00002,sample,Sun_sample2_KC,ELP,0.9764807845488154
+Sun,Sun_00002,sample,Sun_sample2_KC,ETP,0.8701566768609506
+Sun,Sun_00002,sample,Sun_sample2_KC,Early MK,0.9301693142979248
+Sun,Sun_00002,sample,Sun_sample2_KC,Early erythroid,0.7851700945306346
+Sun,Sun_00002,sample,Sun_sample2_KC,Early lymphoid/T lymphoid,0.9358013963487186
+Sun,Sun_00002,sample,Sun_sample2_KC,Endothelial cells,0.9299827769932216
+Sun,Sun_00002,sample,Sun_sample2_KC,Epithelial cells,1.4070152739571757
+Sun,Sun_00002,sample,Sun_sample2_KC,Erythrocytes,0.9663747492846394
+Sun,Sun_00002,sample,Sun_sample2_KC,Erythrophagocytic macrophages,0.7884935925395297
+Sun,Sun_00002,sample,Sun_sample2_KC,Fibroblasts,1.4195706987590853
+Sun,Sun_00002,sample,Sun_sample2_KC,Follicular B cells,1.003684542926937
+Sun,Sun_00002,sample,Sun_sample2_KC,Follicular helper T cells,0.7515991895394737
+Sun,Sun_00002,sample,Sun_sample2_KC,GMP,1.01999019726951
+Sun,Sun_00002,sample,Sun_sample2_KC,Germinal center B cells,1.0411667427299756
+Sun,Sun_00002,sample,Sun_sample2_KC,Granulocytes,1.0235367636181962
+Sun,Sun_00002,sample,Sun_sample2_KC,HSC/MPP,0.8664327659087263
+Sun,Sun_00002,sample,Sun_sample2_KC,Hofbauer cells,0.9506581747410211
+Sun,Sun_00002,sample,Sun_sample2_KC,ILC,0.8258325852324828
+Sun,Sun_00002,sample,Sun_sample2_KC,ILC precursor,0.9324597051447572
+Sun,Sun_00002,sample,Sun_sample2_KC,ILC1,1.0254089492230356
+Sun,Sun_00002,sample,Sun_sample2_KC,ILC2,1.0143904827093222
+Sun,Sun_00002,sample,Sun_sample2_KC,ILC3,0.8824475713664237
+Sun,Sun_00002,sample,Sun_sample2_KC,Intermediate macrophages,0.7396905156018386
+Sun,Sun_00002,sample,Sun_sample2_KC,Intestinal macrophages,0.8240522071331321
+Sun,Sun_00002,sample,Sun_sample2_KC,Kidney-resident macrophages,0.9892974479997783
+Sun,Sun_00002,sample,Sun_sample2_KC,Kupffer cells,0.6420794082896418
+Sun,Sun_00002,sample,Sun_sample2_KC,Large pre-B cells,0.9469866626377088
+Sun,Sun_00002,sample,Sun_sample2_KC,Late erythroid,1.003269340064425
+Sun,Sun_00002,sample,Sun_sample2_KC,MAIT cells,0.8866302534187022
+Sun,Sun_00002,sample,Sun_sample2_KC,MEMP,0.8089915269400184
+Sun,Sun_00002,sample,Sun_sample2_KC,MNP,0.9464718944806095
+Sun,Sun_00002,sample,Sun_sample2_KC,Macrophages,0.41211381964044796
+Sun,Sun_00002,sample,Sun_sample2_KC,Mast cells,0.9335422590970957
+Sun,Sun_00002,sample,Sun_sample2_KC,Megakaryocyte precursor,0.8817311536276788
+Sun,Sun_00002,sample,Sun_sample2_KC,Megakaryocyte-erythroid-mast cell progenitor,0.8765506085330366
+Sun,Sun_00002,sample,Sun_sample2_KC,Megakaryocytes/platelets,0.9984016975289858
+Sun,Sun_00002,sample,Sun_sample2_KC,Memory B cells,0.5671022684072715
+Sun,Sun_00002,sample,Sun_sample2_KC,Memory CD4+ cytotoxic T cells,0.9960514299646676
+Sun,Sun_00002,sample,Sun_sample2_KC,Mid erythroid,0.8497400994115427
+Sun,Sun_00002,sample,Sun_sample2_KC,Migratory DCs,0.9327033560950676
+Sun,Sun_00002,sample,Sun_sample2_KC,Mono-mac,0.6609320585121274
+Sun,Sun_00002,sample,Sun_sample2_KC,Monocyte precursor,1.0174078931807031
+Sun,Sun_00002,sample,Sun_sample2_KC,Monocytes,0.4328638057198128
+Sun,Sun_00002,sample,Sun_sample2_KC,Myelocytes,0.9875333095424446
+Sun,Sun_00002,sample,Sun_sample2_KC,NK cells,-0.018208297420740267
+Sun,Sun_00002,sample,Sun_sample2_KC,NKT cells,0.7217238079530686
+Sun,Sun_00002,sample,Sun_sample2_KC,Naive B cells,0.5940686247887174
+Sun,Sun_00002,sample,Sun_sample2_KC,Neutrophil-myeloid progenitor,0.8856270242628758
+Sun,Sun_00002,sample,Sun_sample2_KC,Neutrophils,1.050770191009497
+Sun,Sun_00002,sample,Sun_sample2_KC,Non-classical monocytes,0.6423855081741225
+Sun,Sun_00002,sample,Sun_sample2_KC,Plasma cells,0.7452799065267336
+Sun,Sun_00002,sample,Sun_sample2_KC,Plasmablasts,0.9155038622317643
+Sun,Sun_00002,sample,Sun_sample2_KC,Pre-pro-B cells,0.9706585324605161
+Sun,Sun_00002,sample,Sun_sample2_KC,Pro-B cells,0.983830693589097
+Sun,Sun_00002,sample,Sun_sample2_KC,Proliferative germinal center B cells,0.9653181577356087
+Sun,Sun_00002,sample,Sun_sample2_KC,Promyelocytes,0.9990422953102736
+Sun,Sun_00002,sample,Sun_sample2_KC,Regulatory T cells,0.5118056376976863
+Sun,Sun_00002,sample,Sun_sample2_KC,Small pre-B cells,0.8869221989438374
+Sun,Sun_00002,sample,Sun_sample2_KC,T(agonist),0.7158651220944452
+Sun,Sun_00002,sample,Sun_sample2_KC,Tcm/Naive cytotoxic T cells,0.6094424487923412
+Sun,Sun_00002,sample,Sun_sample2_KC,Tcm/Naive helper T cells,0.41499591600754393
+Sun,Sun_00002,sample,Sun_sample2_KC,Tem/Effector helper T cells,0.6300171384628347
+Sun,Sun_00002,sample,Sun_sample2_KC,Tem/Effector helper T cells PD1+,1.014977784032364
+Sun,Sun_00002,sample,Sun_sample2_KC,Tem/Temra cytotoxic T cells,0.7471466648724637
+Sun,Sun_00002,sample,Sun_sample2_KC,Tem/Trm cytotoxic T cells,0.5139891939362603
+Sun,Sun_00002,sample,Sun_sample2_KC,Transitional B cells,0.9387155636237914
+Sun,Sun_00002,sample,Sun_sample2_KC,Transitional DC,0.983128026651639
+Sun,Sun_00002,sample,Sun_sample2_KC,Transitional NK,0.9716169346020676
+Sun,Sun_00002,sample,Sun_sample2_KC,Treg(diff),0.6085742149004866
+Sun,Sun_00002,sample,Sun_sample2_KC,Trm cytotoxic T cells,0.7303138775319533
+Sun,Sun_00002,sample,Sun_sample2_KC,Type 1 helper T cells,0.7359198084478527
+Sun,Sun_00002,sample,Sun_sample2_KC,Type 17 helper T cells,0.7872701528750577
+Sun,Sun_00002,sample,Sun_sample2_KC,gamma-delta T cells,0.9416003741980502
+Sun,Sun_00002,sample,Sun_sample2_KC,pDC,0.8656483130114891
+Sun,Sun_00002,sample,Sun_sample2_KC,pDC precursor,0.9980546791330852
+Sun,Sun_00003,sample,Sun_sample3_TB,Age-associated B cells,0.9592933047938657
+Sun,Sun_00003,sample,Sun_sample3_TB,Alveolar macrophages,0.614852335116981
+Sun,Sun_00003,sample,Sun_sample3_TB,B cells,0.8382664294889822
+Sun,Sun_00003,sample,Sun_sample3_TB,CD16+ NK cells,0.6823041391856481
+Sun,Sun_00003,sample,Sun_sample3_TB,CD16- NK cells,0.6485577753931562
+Sun,Sun_00003,sample,Sun_sample3_TB,CD8a/a,0.8121864289358309
+Sun,Sun_00003,sample,Sun_sample3_TB,CD8a/b(entry),0.6266320445217131
+Sun,Sun_00003,sample,Sun_sample3_TB,CMP,1.0128900686520097
+Sun,Sun_00003,sample,Sun_sample3_TB,CRTAM+ gamma-delta T cells,0.944673986603859
+Sun,Sun_00003,sample,Sun_sample3_TB,Classical monocytes,0.4894989763028808
+Sun,Sun_00003,sample,Sun_sample3_TB,Cycling B cells,0.9862435291497467
+Sun,Sun_00003,sample,Sun_sample3_TB,Cycling DCs,1.0490136646492978
+Sun,Sun_00003,sample,Sun_sample3_TB,Cycling NK cells,0.8867103833798642
+Sun,Sun_00003,sample,Sun_sample3_TB,Cycling T cells,0.9595141075316878
+Sun,Sun_00003,sample,Sun_sample3_TB,Cycling gamma-delta T cells,1.1034402248464412
+Sun,Sun_00003,sample,Sun_sample3_TB,Cycling monocytes,1.0505153926493485
+Sun,Sun_00003,sample,Sun_sample3_TB,DC,0.8152807088625843
+Sun,Sun_00003,sample,Sun_sample3_TB,DC precursor,0.9239463784919018
+Sun,Sun_00003,sample,Sun_sample3_TB,DC1,0.9190922638895289
+Sun,Sun_00003,sample,Sun_sample3_TB,DC2,0.7446294036409612
+Sun,Sun_00003,sample,Sun_sample3_TB,DC3,0.9745519555147248
+Sun,Sun_00003,sample,Sun_sample3_TB,Double-negative thymocytes,0.6495473296266229
+Sun,Sun_00003,sample,Sun_sample3_TB,Double-positive thymocytes,0.5856890482104018
+Sun,Sun_00003,sample,Sun_sample3_TB,ELP,1.0546716493060015
+Sun,Sun_00003,sample,Sun_sample3_TB,ETP,0.9478072494181755
+Sun,Sun_00003,sample,Sun_sample3_TB,Early MK,1.0090282849000731
+Sun,Sun_00003,sample,Sun_sample3_TB,Early erythroid,0.8140433223912448
+Sun,Sun_00003,sample,Sun_sample3_TB,Early lymphoid/T lymphoid,0.9159455665721538
+Sun,Sun_00003,sample,Sun_sample3_TB,Endothelial cells,1.006332361240402
+Sun,Sun_00003,sample,Sun_sample3_TB,Epithelial cells,1.5160897904509092
+Sun,Sun_00003,sample,Sun_sample3_TB,Erythrocytes,1.0734460399508152
+Sun,Sun_00003,sample,Sun_sample3_TB,Erythrophagocytic macrophages,0.8796919010698414
+Sun,Sun_00003,sample,Sun_sample3_TB,Fibroblasts,1.4996443243961437
+Sun,Sun_00003,sample,Sun_sample3_TB,Follicular B cells,1.1930629211725268
+Sun,Sun_00003,sample,Sun_sample3_TB,Follicular helper T cells,0.8724440253159181
+Sun,Sun_00003,sample,Sun_sample3_TB,GMP,1.1158629464430232
+Sun,Sun_00003,sample,Sun_sample3_TB,Germinal center B cells,1.1307290780750465
+Sun,Sun_00003,sample,Sun_sample3_TB,Granulocytes,1.0798910875817116
+Sun,Sun_00003,sample,Sun_sample3_TB,HSC/MPP,0.9544830268251835
+Sun,Sun_00003,sample,Sun_sample3_TB,Hofbauer cells,1.026965886135821
+Sun,Sun_00003,sample,Sun_sample3_TB,ILC,0.8774710678211798
+Sun,Sun_00003,sample,Sun_sample3_TB,ILC precursor,0.8674490710531431
+Sun,Sun_00003,sample,Sun_sample3_TB,ILC1,1.0949288433245064
+Sun,Sun_00003,sample,Sun_sample3_TB,ILC2,1.0823950442670756
+Sun,Sun_00003,sample,Sun_sample3_TB,ILC3,0.9240079144967122
+Sun,Sun_00003,sample,Sun_sample3_TB,Intermediate macrophages,0.7720568481048627
+Sun,Sun_00003,sample,Sun_sample3_TB,Intestinal macrophages,0.9359393492414196
+Sun,Sun_00003,sample,Sun_sample3_TB,Kidney-resident macrophages,1.0413987144752128
+Sun,Sun_00003,sample,Sun_sample3_TB,Kupffer cells,0.6421928826107255
+Sun,Sun_00003,sample,Sun_sample3_TB,Large pre-B cells,0.9966726033780672
+Sun,Sun_00003,sample,Sun_sample3_TB,Late erythroid,1.089975612697459
+Sun,Sun_00003,sample,Sun_sample3_TB,MAIT cells,0.9745140986851615
+Sun,Sun_00003,sample,Sun_sample3_TB,MEMP,0.8552835917210445
+Sun,Sun_00003,sample,Sun_sample3_TB,MNP,1.0886857578881428
+Sun,Sun_00003,sample,Sun_sample3_TB,Macrophages,0.36899211321345704
+Sun,Sun_00003,sample,Sun_sample3_TB,Mast cells,1.0923083377691436
+Sun,Sun_00003,sample,Sun_sample3_TB,Megakaryocyte precursor,0.9726875234912726
+Sun,Sun_00003,sample,Sun_sample3_TB,Megakaryocyte-erythroid-mast cell progenitor,0.9617433755904797
+Sun,Sun_00003,sample,Sun_sample3_TB,Megakaryocytes/platelets,1.0437313845326914
+Sun,Sun_00003,sample,Sun_sample3_TB,Memory B cells,0.3893387521030094
+Sun,Sun_00003,sample,Sun_sample3_TB,Memory CD4+ cytotoxic T cells,1.0449008789778276
+Sun,Sun_00003,sample,Sun_sample3_TB,Mid erythroid,0.8103154071621187
+Sun,Sun_00003,sample,Sun_sample3_TB,Migratory DCs,0.9818042776076501
+Sun,Sun_00003,sample,Sun_sample3_TB,Mono-mac,0.6538646548436321
+Sun,Sun_00003,sample,Sun_sample3_TB,Monocyte precursor,0.9813646282868127
+Sun,Sun_00003,sample,Sun_sample3_TB,Monocytes,0.4960738587920676
+Sun,Sun_00003,sample,Sun_sample3_TB,Myelocytes,0.9467651908381534
+Sun,Sun_00003,sample,Sun_sample3_TB,NK cells,-9.901473133181599e-05
+Sun,Sun_00003,sample,Sun_sample3_TB,NKT cells,0.9000116110903751
+Sun,Sun_00003,sample,Sun_sample3_TB,Naive B cells,0.7633186298724607
+Sun,Sun_00003,sample,Sun_sample3_TB,Neutrophil-myeloid progenitor,1.0490796276920389
+Sun,Sun_00003,sample,Sun_sample3_TB,Neutrophils,1.1165088649649664
+Sun,Sun_00003,sample,Sun_sample3_TB,Non-classical monocytes,0.6771322063754462
+Sun,Sun_00003,sample,Sun_sample3_TB,Plasma cells,0.8632094501820273
+Sun,Sun_00003,sample,Sun_sample3_TB,Plasmablasts,0.8869946699808045
+Sun,Sun_00003,sample,Sun_sample3_TB,Pre-pro-B cells,1.0941997603335265
+Sun,Sun_00003,sample,Sun_sample3_TB,Pro-B cells,1.0898039825296324
+Sun,Sun_00003,sample,Sun_sample3_TB,Proliferative germinal center B cells,0.9141891462945172
+Sun,Sun_00003,sample,Sun_sample3_TB,Promyelocytes,1.095650474325161
+Sun,Sun_00003,sample,Sun_sample3_TB,Regulatory T cells,0.6566335445054745
+Sun,Sun_00003,sample,Sun_sample3_TB,Small pre-B cells,1.0278556884273569
+Sun,Sun_00003,sample,Sun_sample3_TB,T(agonist),0.8023973544049503
+Sun,Sun_00003,sample,Sun_sample3_TB,Tcm/Naive cytotoxic T cells,0.7949757647340668
+Sun,Sun_00003,sample,Sun_sample3_TB,Tcm/Naive helper T cells,0.4551530032773017
+Sun,Sun_00003,sample,Sun_sample3_TB,Tem/Effector helper T cells,0.8691265396696884
+Sun,Sun_00003,sample,Sun_sample3_TB,Tem/Effector helper T cells PD1+,1.056044302899358
+Sun,Sun_00003,sample,Sun_sample3_TB,Tem/Temra cytotoxic T cells,0.8897859414669098
+Sun,Sun_00003,sample,Sun_sample3_TB,Tem/Trm cytotoxic T cells,0.6129962385285482
+Sun,Sun_00003,sample,Sun_sample3_TB,Transitional B cells,0.9348875737042028
+Sun,Sun_00003,sample,Sun_sample3_TB,Transitional DC,1.1198536554034617
+Sun,Sun_00003,sample,Sun_sample3_TB,Transitional NK,1.042035132352442
+Sun,Sun_00003,sample,Sun_sample3_TB,Treg(diff),0.8582392597852898
+Sun,Sun_00003,sample,Sun_sample3_TB,Trm cytotoxic T cells,0.7114148799345329
+Sun,Sun_00003,sample,Sun_sample3_TB,Type 1 helper T cells,0.8086752772204512
+Sun,Sun_00003,sample,Sun_sample3_TB,Type 17 helper T cells,0.8937484284665875
+Sun,Sun_00003,sample,Sun_sample3_TB,gamma-delta T cells,1.0384065180725657
+Sun,Sun_00003,sample,Sun_sample3_TB,pDC,0.9224362606952835
+Sun,Sun_00003,sample,Sun_sample3_TB,pDC precursor,1.127751059470132
+Sun,Sun_00004,sample,Sun_sample4_TC,Age-associated B cells,0.8267174683691795
+Sun,Sun_00004,sample,Sun_sample4_TC,Alveolar macrophages,0.5976255399286114
+Sun,Sun_00004,sample,Sun_sample4_TC,B cells,0.639200530066548
+Sun,Sun_00004,sample,Sun_sample4_TC,CD16+ NK cells,0.7121672502346831
+Sun,Sun_00004,sample,Sun_sample4_TC,CD16- NK cells,0.5958017597132229
+Sun,Sun_00004,sample,Sun_sample4_TC,CD8a/a,0.708909521565698
+Sun,Sun_00004,sample,Sun_sample4_TC,CD8a/b(entry),0.41094062345203525
+Sun,Sun_00004,sample,Sun_sample4_TC,CMP,0.9965783111129491
+Sun,Sun_00004,sample,Sun_sample4_TC,CRTAM+ gamma-delta T cells,0.8889418570871178
+Sun,Sun_00004,sample,Sun_sample4_TC,Classical monocytes,0.3279330331043642
+Sun,Sun_00004,sample,Sun_sample4_TC,Cycling B cells,0.9245038601390696
+Sun,Sun_00004,sample,Sun_sample4_TC,Cycling DCs,1.0054905830084997
+Sun,Sun_00004,sample,Sun_sample4_TC,Cycling NK cells,0.8852654949237597
+Sun,Sun_00004,sample,Sun_sample4_TC,Cycling T cells,0.9843453371399833
+Sun,Sun_00004,sample,Sun_sample4_TC,Cycling gamma-delta T cells,1.036920512611039
+Sun,Sun_00004,sample,Sun_sample4_TC,Cycling monocytes,1.0225849090447579
+Sun,Sun_00004,sample,Sun_sample4_TC,DC,0.7759442790839025
+Sun,Sun_00004,sample,Sun_sample4_TC,DC precursor,0.8264196121439495
+Sun,Sun_00004,sample,Sun_sample4_TC,DC1,0.8797774764973935
+Sun,Sun_00004,sample,Sun_sample4_TC,DC2,0.534013356219477
+Sun,Sun_00004,sample,Sun_sample4_TC,DC3,0.9158802571168988
+Sun,Sun_00004,sample,Sun_sample4_TC,Double-negative thymocytes,0.6536288608221892
+Sun,Sun_00004,sample,Sun_sample4_TC,Double-positive thymocytes,0.9129180094969209
+Sun,Sun_00004,sample,Sun_sample4_TC,ELP,1.0139644369367897
+Sun,Sun_00004,sample,Sun_sample4_TC,ETP,0.9648082786660047
+Sun,Sun_00004,sample,Sun_sample4_TC,Early MK,0.9068087753807721
+Sun,Sun_00004,sample,Sun_sample4_TC,Early erythroid,0.7633654860801484
+Sun,Sun_00004,sample,Sun_sample4_TC,Early lymphoid/T lymphoid,0.8346896617002648
+Sun,Sun_00004,sample,Sun_sample4_TC,Endothelial cells,1.0304716676536956
+Sun,Sun_00004,sample,Sun_sample4_TC,Epithelial cells,1.4970488904494654
+Sun,Sun_00004,sample,Sun_sample4_TC,Erythrocytes,1.041128698138208
+Sun,Sun_00004,sample,Sun_sample4_TC,Erythrophagocytic macrophages,0.9127805974732754
+Sun,Sun_00004,sample,Sun_sample4_TC,Fibroblasts,1.4753974391581262
+Sun,Sun_00004,sample,Sun_sample4_TC,Follicular B cells,1.0283939194545777
+Sun,Sun_00004,sample,Sun_sample4_TC,Follicular helper T cells,0.7561316359788908
+Sun,Sun_00004,sample,Sun_sample4_TC,GMP,1.0660260842587586
+Sun,Sun_00004,sample,Sun_sample4_TC,Germinal center B cells,1.0192271041226428
+Sun,Sun_00004,sample,Sun_sample4_TC,Granulocytes,1.026952930023273
+Sun,Sun_00004,sample,Sun_sample4_TC,HSC/MPP,0.8562020038068888
+Sun,Sun_00004,sample,Sun_sample4_TC,Hofbauer cells,1.0292119944632394
+Sun,Sun_00004,sample,Sun_sample4_TC,ILC,0.8546083775412239
+Sun,Sun_00004,sample,Sun_sample4_TC,ILC precursor,0.8543444357964353
+Sun,Sun_00004,sample,Sun_sample4_TC,ILC1,1.0582584746303598
+Sun,Sun_00004,sample,Sun_sample4_TC,ILC2,1.0763642586408964
+Sun,Sun_00004,sample,Sun_sample4_TC,ILC3,0.8672076526228937
+Sun,Sun_00004,sample,Sun_sample4_TC,Intermediate macrophages,0.7569183717038211
+Sun,Sun_00004,sample,Sun_sample4_TC,Intestinal macrophages,0.8703970413781554
+Sun,Sun_00004,sample,Sun_sample4_TC,Kidney-resident macrophages,1.0282859089354517
+Sun,Sun_00004,sample,Sun_sample4_TC,Kupffer cells,0.5484612455657556
+Sun,Sun_00004,sample,Sun_sample4_TC,Large pre-B cells,0.9499968044515039
+Sun,Sun_00004,sample,Sun_sample4_TC,Late erythroid,1.0182192793667049
+Sun,Sun_00004,sample,Sun_sample4_TC,MAIT cells,0.9991990480771987
+Sun,Sun_00004,sample,Sun_sample4_TC,MEMP,0.8164028745555464
+Sun,Sun_00004,sample,Sun_sample4_TC,MNP,1.0160628080253147
+Sun,Sun_00004,sample,Sun_sample4_TC,Macrophages,0.4700985410471983
+Sun,Sun_00004,sample,Sun_sample4_TC,Mast cells,1.007774403106845
+Sun,Sun_00004,sample,Sun_sample4_TC,Megakaryocyte precursor,0.9567498723890009
+Sun,Sun_00004,sample,Sun_sample4_TC,Megakaryocyte-erythroid-mast cell progenitor,0.8803302107480742
+Sun,Sun_00004,sample,Sun_sample4_TC,Megakaryocytes/platelets,0.9965224549385889
+Sun,Sun_00004,sample,Sun_sample4_TC,Memory B cells,0.5223376088093727
+Sun,Sun_00004,sample,Sun_sample4_TC,Memory CD4+ cytotoxic T cells,1.062329123943264
+Sun,Sun_00004,sample,Sun_sample4_TC,Mid erythroid,0.9169438099745513
+Sun,Sun_00004,sample,Sun_sample4_TC,Migratory DCs,0.9501740060734009
+Sun,Sun_00004,sample,Sun_sample4_TC,Mono-mac,0.701920559165567
+Sun,Sun_00004,sample,Sun_sample4_TC,Monocyte precursor,0.8896110804304467
+Sun,Sun_00004,sample,Sun_sample4_TC,Monocytes,0.4716443196463732
+Sun,Sun_00004,sample,Sun_sample4_TC,Myelocytes,1.0692974689512322
+Sun,Sun_00004,sample,Sun_sample4_TC,NK cells,0.02238622662325534
+Sun,Sun_00004,sample,Sun_sample4_TC,NKT cells,0.8406309566437283
+Sun,Sun_00004,sample,Sun_sample4_TC,Naive B cells,0.6552168219025424
+Sun,Sun_00004,sample,Sun_sample4_TC,Neutrophil-myeloid progenitor,0.9405085931045432
+Sun,Sun_00004,sample,Sun_sample4_TC,Neutrophils,1.086987339657093
+Sun,Sun_00004,sample,Sun_sample4_TC,Non-classical monocytes,0.6181986954648981
+Sun,Sun_00004,sample,Sun_sample4_TC,Plasma cells,0.7566287263551051
+Sun,Sun_00004,sample,Sun_sample4_TC,Plasmablasts,0.9239179345892441
+Sun,Sun_00004,sample,Sun_sample4_TC,Pre-pro-B cells,0.9724312907673913
+Sun,Sun_00004,sample,Sun_sample4_TC,Pro-B cells,1.0276384159849603
+Sun,Sun_00004,sample,Sun_sample4_TC,Proliferative germinal center B cells,0.9619489669120074
+Sun,Sun_00004,sample,Sun_sample4_TC,Promyelocytes,1.0182314856794872
+Sun,Sun_00004,sample,Sun_sample4_TC,Regulatory T cells,0.5741867776042294
+Sun,Sun_00004,sample,Sun_sample4_TC,Small pre-B cells,0.9487904359578201
+Sun,Sun_00004,sample,Sun_sample4_TC,T(agonist),0.8729556100365748
+Sun,Sun_00004,sample,Sun_sample4_TC,Tcm/Naive cytotoxic T cells,0.7473499049205768
+Sun,Sun_00004,sample,Sun_sample4_TC,Tcm/Naive helper T cells,0.510186312746474
+Sun,Sun_00004,sample,Sun_sample4_TC,Tem/Effector helper T cells,0.8461084977686857
+Sun,Sun_00004,sample,Sun_sample4_TC,Tem/Effector helper T cells PD1+,1.0404895339775093
+Sun,Sun_00004,sample,Sun_sample4_TC,Tem/Temra cytotoxic T cells,0.7491843959068761
+Sun,Sun_00004,sample,Sun_sample4_TC,Tem/Trm cytotoxic T cells,0.6717571132831777
+Sun,Sun_00004,sample,Sun_sample4_TC,Transitional B cells,0.9596565043545265
+Sun,Sun_00004,sample,Sun_sample4_TC,Transitional DC,1.0374977387827415
+Sun,Sun_00004,sample,Sun_sample4_TC,Transitional NK,1.023084458239407
+Sun,Sun_00004,sample,Sun_sample4_TC,Treg(diff),0.6902629979266137
+Sun,Sun_00004,sample,Sun_sample4_TC,Trm cytotoxic T cells,0.710243927562145
+Sun,Sun_00004,sample,Sun_sample4_TC,Type 1 helper T cells,0.7493537335416846
+Sun,Sun_00004,sample,Sun_sample4_TC,Type 17 helper T cells,0.8887253214099612
+Sun,Sun_00004,sample,Sun_sample4_TC,gamma-delta T cells,0.9736047321740383
+Sun,Sun_00004,sample,Sun_sample4_TC,pDC,0.8973016655088243
+Sun,Sun_00004,sample,Sun_sample4_TC,pDC precursor,1.0007211675582561

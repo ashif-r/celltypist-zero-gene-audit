@@ -1,0 +1,5 @@
+cells,flips,fraction,pooled_vs_subquery_flips,B_near_ties,max_score_residual,confidence_crossings_0.5,confidence_crossings_0.9,confidence_crossings_0.95
+2700,86,0.03185185185185185,0,0,1.7763568394002505e-14,238,239,227
+32,3,0.09375,2,0,8.881784197001252e-15,2,1,2
+128,8,0.0625,5,0,8.881784197001252e-15,11,9,4
+512,30,0.05859375,13,0,1.4210854715202004e-14,48,54,49

@@ -1,0 +1,61 @@
+{
+  "status": "unresolved_template_not_valid_for_main_run",
+  "protocol_version": "0.4-draft",
+  "model": {
+    "official_download_url": null,
+    "sha256": null,
+    "metadata_version": null,
+    "with_mean": null,
+    "class_count": null,
+    "model_feature_count": null,
+    "class_order_sha256": null,
+    "feature_order_sha256": null
+  },
+  "environment": {
+    "python_version": null,
+    "platform_architecture": null,
+    "package_lock_path": null,
+    "package_lock_sha256": null,
+    "thread_settings": null,
+    "runtime_memory_limit_bytes": null,
+    "git_version": null
+  },
+  "pilot": {
+    "source_url": null,
+    "artifact_sha256": null,
+    "gate_report_sha256": null,
+    "controls_passed": null,
+    "original_feature_mapping_manifest_sha256": null,
+    "identifier_exclusion_manifest_sha256": null,
+    "normalization_deficit_checks_passed": null
+  },
+  "main": {
+    "artifact_url_or_identifier": null,
+    "artifact_sha256": null,
+    "license": null,
+    "input_provenance_manifest_sha256": null,
+    "sample_manifest_sha256": null,
+    "cell_eligibility_manifest_sha256": null,
+    "feature_schema_manifest_sha256": null,
+    "partition_manifest_sha256": null,
+    "study_mapping_evidence": null,
+    "input_matrix_selection_by_study": null,
+    "normalization_denominator_by_study": null,
+    "mechanism_eligible_studies": null,
+    "composition_eligible_studies": null,
+    "resolved_scope": null,
+    "main_predictions_not_yet_run": null,
+    "original_feature_mapping_manifest_sha256": null,
+    "identifier_exclusion_manifest_sha256": null,
+    "normalization_deficit_checks_passed": null,
+    "preparation_provenance_manifest_sha256": null
+  },
+  "validation": {
+    "effective_atol": null,
+    "effective_rtol": null,
+    "tolerance_amendments": null,
+    "synthetic_test_report_sha256": null,
+    "gate_review_decision": null,
+    "remaining_blocking_checks": null
+  }
+}

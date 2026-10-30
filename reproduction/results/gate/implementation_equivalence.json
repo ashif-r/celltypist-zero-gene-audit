@@ -1,0 +1,406 @@
+{
+  "preserved_initial_run": "main_initial_performance_run",
+  "queries_compared": 79,
+  "all_native_B_C_scores_exact": true,
+  "normalization_and_masks_unchanged": true,
+  "workers": 4,
+  "elapsed_seconds": 51.588362374999974,
+  "queries": [
+    {
+      "query_id": "Oetjen_00000",
+      "cells": 9581,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00001",
+      "cells": 2586,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00002",
+      "cells": 3265,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00003",
+      "cells": 3730,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00004",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00005",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00006",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00007",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00008",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00009",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00010",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00011",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00012",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00013",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00014",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00015",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00016",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00017",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00018",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00019",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00020",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00021",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00022",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00023",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00024",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00025",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00026",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00027",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00028",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00029",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00030",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00031",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00032",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00033",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00034",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00035",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00036",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00037",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00038",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00039",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00040",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00041",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00042",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00043",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00044",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00045",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00046",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00047",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00048",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00049",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00050",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00051",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00052",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00053",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00054",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00055",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00056",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00057",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00058",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00059",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00060",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00061",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00062",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00063",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00064",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00065",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00066",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00067",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00068",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00069",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00070",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00071",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00072",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00073",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00074",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00075",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00076",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00077",
+      "cells": 32,
+      "B_C_scores_exact": true
+    },
+    {
+      "query_id": "Oetjen_00078",
+      "cells": 32,
+      "B_C_scores_exact": true
+    }
+  ],
+  "process_worker_queries_exact": 8
+}

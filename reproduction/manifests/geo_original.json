@@ -1,0 +1,193 @@
+{
+  "artifacts": [
+    {
+      "batch": "Oetjen_A",
+      "accession": "GSM3396161",
+      "kind": "matrix",
+      "name": "GSM3396161_matrix_A.mtx.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396161/suppl/GSM3396161_matrix_A.mtx.gz",
+      "sha256": "472e330ad4d5842a26e00b6a514a57dfe13f0dea5d0b334edcaf09cb6507fa9b",
+      "bytes": 15819338
+    },
+    {
+      "batch": "Oetjen_A",
+      "accession": "GSM3396161",
+      "kind": "barcodes",
+      "name": "GSM3396161_barcodes_A.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396161/suppl/GSM3396161_barcodes_A.tsv.gz",
+      "sha256": "be40c4cd6dd0cf2202b0154e3b58bfaeed17169e61d7121e82494bbb9898359d",
+      "bytes": 13059
+    },
+    {
+      "batch": "Oetjen_A",
+      "accession": "GSM3396161",
+      "kind": "genes",
+      "name": "GSM3396161_genes_A.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396161/suppl/GSM3396161_genes_A.tsv.gz",
+      "sha256": "4995d136039faada79a20a26964ca2628210a8833abff7b46cd2480c66efc99f",
+      "bytes": 264785
+    },
+    {
+      "batch": "Oetjen_P",
+      "accession": "GSM3396176",
+      "kind": "matrix",
+      "name": "GSM3396176_matrix_P.mtx.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396176/suppl/GSM3396176_matrix_P.mtx.gz",
+      "sha256": "9b9fae7c8f3d9a693a9ebc55c683b1f89cd5b12962feb2c64de6dd4bbbc13958",
+      "bytes": 19925575
+    },
+    {
+      "batch": "Oetjen_P",
+      "accession": "GSM3396176",
+      "kind": "barcodes",
+      "name": "GSM3396176_barcodes_P.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396176/suppl/GSM3396176_barcodes_P.tsv.gz",
+      "sha256": "80863254564f79e992e1f95b3f8cf1afeb50f1591095527e956715a1da810790",
+      "bytes": 14575
+    },
+    {
+      "batch": "Oetjen_P",
+      "accession": "GSM3396176",
+      "kind": "genes",
+      "name": "GSM3396176_genes_P.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396176/suppl/GSM3396176_genes_P.tsv.gz",
+      "sha256": "0acf9cf6e8a8e27454e54b571fbfbf2f9b0848fd3ebf6c335a260bacd49b6351",
+      "bytes": 264785
+    },
+    {
+      "batch": "Oetjen_U",
+      "accession": "GSM3396184",
+      "kind": "matrix",
+      "name": "GSM3396184_matrix_U.mtx.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396184/suppl/GSM3396184_matrix_U.mtx.gz",
+      "sha256": "e72518a15b49bc8fdedf776d9ba5cc7828c04a3bc3064ea240ba0aa9ac5e30da",
+      "bytes": 17707248
+    },
+    {
+      "batch": "Oetjen_U",
+      "accession": "GSM3396184",
+      "kind": "barcodes",
+      "name": "GSM3396184_barcodes_U.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396184/suppl/GSM3396184_barcodes_U.tsv.gz",
+      "sha256": "0b7ad1bac2bef513033650704bd6a8e0a57bdf8758c355bd080fd97c0adfc184",
+      "bytes": 17441
+    },
+    {
+      "batch": "Oetjen_U",
+      "accession": "GSM3396184",
+      "kind": "genes",
+      "name": "GSM3396184_genes_U.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3396nnn/GSM3396184/suppl/GSM3396184_genes_U.tsv.gz",
+      "sha256": "01ff27d44948e618512a1fecb4bef6c8f7bf6f918ddc38136db1dc91ce78dcd1",
+      "bytes": 264785
+    },
+    {
+      "batch": "Sun_sample1_CS",
+      "accession": "GSM3665016",
+      "kind": "matrix",
+      "name": "GSM3665016_CS_PBL_matrix.mtx.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665016/suppl/GSM3665016_CS_PBL_matrix.mtx.gz",
+      "sha256": "83f2a46261ccc23fe92e2454345fba0745307e9789250b63f06b1b66c30bee90",
+      "bytes": 7346347
+    },
+    {
+      "batch": "Sun_sample1_CS",
+      "accession": "GSM3665016",
+      "kind": "barcodes",
+      "name": "GSM3665016_CS_PBL_barcodes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665016/suppl/GSM3665016_CS_PBL_barcodes.tsv.gz",
+      "sha256": "a2e5a27fcb4e9c0544bf8de41cf08a15b066b55cb1cd12bde2b628027ffec3ca",
+      "bytes": 8148
+    },
+    {
+      "batch": "Sun_sample1_CS",
+      "accession": "GSM3665016",
+      "kind": "genes",
+      "name": "GSM3665016_CS_PBL_genes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665016/suppl/GSM3665016_CS_PBL_genes.tsv.gz",
+      "sha256": "1a0666f5904bd0c80864fa9780e771399007de22db382ed870fc7a24a5e24ed0",
+      "bytes": 257279
+    },
+    {
+      "batch": "Sun_sample2_KC",
+      "accession": "GSM3665017",
+      "kind": "matrix",
+      "name": "GSM3665017_KC_PBL_matrix.mtx.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665017/suppl/GSM3665017_KC_PBL_matrix.mtx.gz",
+      "sha256": "64dd4e20e77e3b2b54805ad663cf2f86929171c3673ea4c7ef8c37295ade7cbb",
+      "bytes": 9403249
+    },
+    {
+      "batch": "Sun_sample2_KC",
+      "accession": "GSM3665017",
+      "kind": "barcodes",
+      "name": "GSM3665017_KC_PBL_barcodes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665017/suppl/GSM3665017_KC_PBL_barcodes.tsv.gz",
+      "sha256": "cd253e2baff1d181986378478e81d346c61e4df7ae3d0dd33e123c50b10af31c",
+      "bytes": 10325
+    },
+    {
+      "batch": "Sun_sample2_KC",
+      "accession": "GSM3665017",
+      "kind": "genes",
+      "name": "GSM3665017_KC_PBL_genes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665017/suppl/GSM3665017_KC_PBL_genes.tsv.gz",
+      "sha256": "4f4b15194be358a2c8122671f30a3f020b02f61bac2e4774f79ba4a790c24413",
+      "bytes": 257279
+    },
+    {
+      "batch": "Sun_sample3_TB",
+      "accession": "GSM3665018",
+      "kind": "matrix",
+      "name": "GSM3665018_TB_PBL_matrix.mtx.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665018/suppl/GSM3665018_TB_PBL_matrix.mtx.gz",
+      "sha256": "f79b0a8d7336b3827ec1f306ed906318675f3322506c84fc1c69be3b4f88648e",
+      "bytes": 8580235
+    },
+    {
+      "batch": "Sun_sample3_TB",
+      "accession": "GSM3665018",
+      "kind": "barcodes",
+      "name": "GSM3665018_TB_PBL_barcodes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665018/suppl/GSM3665018_TB_PBL_barcodes.tsv.gz",
+      "sha256": "da711dd78131460f3fb097ea68bea9a000eb15a10ee9dd187c48f3175d002b7e",
+      "bytes": 10795
+    },
+    {
+      "batch": "Sun_sample3_TB",
+      "accession": "GSM3665018",
+      "kind": "genes",
+      "name": "GSM3665018_TB_PBL_genes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665018/suppl/GSM3665018_TB_PBL_genes.tsv.gz",
+      "sha256": "ccae806356c323cd17c80ffadad62070c18d5b98503b082fb53f777e0331e916",
+      "bytes": 257279
+    },
+    {
+      "batch": "Sun_sample4_TC",
+      "accession": "GSM3665019",
+      "kind": "matrix",
+      "name": "GSM3665019_TC_PBL_matrix.mtx.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665019/suppl/GSM3665019_TC_PBL_matrix.mtx.gz",
+      "sha256": "06755f6f2d86dd17d0e3522f074115aa2029576f835b9f2076adc1f81701e173",
+      "bytes": 8334168
+    },
+    {
+      "batch": "Sun_sample4_TC",
+      "accession": "GSM3665019",
+      "kind": "barcodes",
+      "name": "GSM3665019_TC_PBL_barcodes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665019/suppl/GSM3665019_TC_PBL_barcodes.tsv.gz",
+      "sha256": "0ce4a436ac5bc7542e6414b2d12450a6e92570c10e655584c7eb3db956100b32",
+      "bytes": 10918
+    },
+    {
+      "batch": "Sun_sample4_TC",
+      "accession": "GSM3665019",
+      "kind": "genes",
+      "name": "GSM3665019_TC_PBL_genes.tsv.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3665nnn/GSM3665019/suppl/GSM3665019_TC_PBL_genes.tsv.gz",
+      "sha256": "adbaccecbf51deb7196ed67318bd8c41775b16cfb12c781343e7f06286b9c4e3",
+      "bytes": 257279
+    }
+  ]
+}

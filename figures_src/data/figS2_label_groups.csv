@@ -1,0 +1,76 @@
+study,sample,A_label,A_label_cells,mechanism_changes,mechanism_fraction,composition_changes,composition_fraction
+Oetjen,Oetjen_A,Classical monocytes,259,1,0.0038610038610038,1,0.0038610038610038
+Oetjen,Oetjen_A,Erythrocytes,73,0,0.0,0,0.0
+Oetjen,Oetjen_A,HSC/MPP,155,0,0.0,0,0.0
+Oetjen,Oetjen_A,Late erythroid,86,0,0.0,0,0.0
+Oetjen,Oetjen_A,Mid erythroid,123,0,0.0,0,0.0
+Oetjen,Oetjen_A,Monocytes,183,8,0.0437158469945355,1,0.0054644808743169
+Oetjen,Oetjen_A,Neutrophil-myeloid progenitor,96,0,0.0,0,0.0
+Oetjen,Oetjen_A,Non-classical monocytes,64,0,0.0,0,0.0
+Oetjen,Oetjen_A,Pro-B cells,66,0,0.0,0,0.0
+Oetjen,Oetjen_A,Tcm/Naive cytotoxic T cells,78,0,0.0,0,0.0
+Oetjen,Oetjen_A,Tcm/Naive helper T cells,469,7,0.0149253731343283,2,0.0042643923240938
+Oetjen,Oetjen_A,Tem/Effector helper T cells,171,2,0.0116959064327485,2,0.0116959064327485
+Oetjen,Oetjen_A,Tem/Trm cytotoxic T cells,192,7,0.0364583333333333,2,0.0104166666666666
+Oetjen,Oetjen_A,pDC,67,0,0.0,0,0.0
+Oetjen,Oetjen_P,Classical monocytes,68,0,0.0,0,0.0
+Oetjen,Oetjen_P,Erythrocytes,204,2,0.0098039215686274,2,0.0098039215686274
+Oetjen,Oetjen_P,HSC/MPP,128,0,0.0,0,0.0
+Oetjen,Oetjen_P,Late erythroid,828,0,0.0,0,0.0
+Oetjen,Oetjen_P,Mid erythroid,349,0,0.0,0,0.0
+Oetjen,Oetjen_P,Monocytes,451,33,0.073170731707317,13,0.0288248337028824
+Oetjen,Oetjen_P,Tcm/Naive cytotoxic T cells,90,1,0.0111111111111111,1,0.0111111111111111
+Oetjen,Oetjen_P,Tcm/Naive helper T cells,588,15,0.0255102040816326,3,0.0051020408163265
+Oetjen,Oetjen_P,Tem/Effector helper T cells,126,0,0.0,0,0.0
+Oetjen,Oetjen_U,B cells,87,0,0.0,0,0.0
+Oetjen,Oetjen_U,CD16+ NK cells,56,0,0.0,0,0.0
+Oetjen,Oetjen_U,Classical monocytes,314,1,0.0031847133757961,1,0.0031847133757961
+Oetjen,Oetjen_U,Erythrocytes,52,0,0.0,0,0.0
+Oetjen,Oetjen_U,HSC/MPP,50,0,0.0,0,0.0
+Oetjen,Oetjen_U,Late erythroid,89,0,0.0,0,0.0
+Oetjen,Oetjen_U,Memory B cells,149,4,0.0268456375838926,2,0.0134228187919463
+Oetjen,Oetjen_U,Mid erythroid,83,0,0.0,0,0.0
+Oetjen,Oetjen_U,Monocytes,164,5,0.0304878048780487,4,0.024390243902439
+Oetjen,Oetjen_U,Naive B cells,142,0,0.0,0,0.0
+Oetjen,Oetjen_U,Neutrophil-myeloid progenitor,57,0,0.0,0,0.0
+Oetjen,Oetjen_U,Non-classical monocytes,81,0,0.0,0,0.0
+Oetjen,Oetjen_U,Tcm/Naive cytotoxic T cells,210,0,0.0,0,0.0
+Oetjen,Oetjen_U,Tcm/Naive helper T cells,888,37,0.0416666666666666,11,0.0123873873873873
+Oetjen,Oetjen_U,Tem/Effector helper T cells,765,0,0.0,0,0.0
+Oetjen,Oetjen_U,Tem/Trm cytotoxic T cells,102,4,0.0392156862745098,3,0.0294117647058823
+Sun,Sun_1_CS,CD16+ NK cells,82,0,0.0,0,0.0
+Sun,Sun_1_CS,Classical monocytes,212,0,0.0,0,0.0
+Sun,Sun_1_CS,Tcm/Naive helper T cells,868,18,0.02073732718894,15,0.0172811059907834
+Sun,Sun_1_CS,Tem/Effector helper T cells,95,0,0.0,0,0.0
+Sun,Sun_1_CS,Tem/Temra cytotoxic T cells,98,0,0.0,0,0.0
+Sun,Sun_1_CS,Tem/Trm cytotoxic T cells,79,0,0.0,0,0.0
+Sun,Sun_2_KC,B cells,75,0,0.0,0,0.0
+Sun,Sun_2_KC,CD16+ NK cells,167,0,0.0,0,0.0
+Sun,Sun_2_KC,Classical monocytes,475,5,0.0105263157894736,2,0.0042105263157894
+Sun,Sun_2_KC,Naive B cells,53,1,0.0188679245283018,1,0.0188679245283018
+Sun,Sun_2_KC,Non-classical monocytes,134,0,0.0,0,0.0
+Sun,Sun_2_KC,Tcm/Naive cytotoxic T cells,104,0,0.0,0,0.0
+Sun,Sun_2_KC,Tcm/Naive helper T cells,1059,11,0.0103871576959395,8,0.0075542965061378
+Sun,Sun_3_TB,B cells,60,0,0.0,0,0.0
+Sun,Sun_3_TB,CD16+ NK cells,84,1,0.0119047619047619,0,0.0
+Sun,Sun_3_TB,Classical monocytes,318,2,0.0062893081761006,2,0.0062893081761006
+Sun,Sun_3_TB,MAIT cells,60,0,0.0,0,0.0
+Sun,Sun_3_TB,NK cells,96,26,0.2708333333333333,8,0.0833333333333333
+Sun,Sun_3_TB,Non-classical monocytes,108,2,0.0185185185185185,1,0.0092592592592592
+Sun,Sun_3_TB,Regulatory T cells,54,0,0.0,0,0.0
+Sun,Sun_3_TB,Tcm/Naive cytotoxic T cells,337,0,0.0,0,0.0
+Sun,Sun_3_TB,Tcm/Naive helper T cells,839,22,0.0262216924910607,16,0.0190703218116805
+Sun,Sun_3_TB,Tem/Effector helper T cells,140,1,0.0071428571428571,0,0.0
+Sun,Sun_3_TB,Tem/Temra cytotoxic T cells,94,0,0.0,0,0.0
+Sun,Sun_3_TB,Tem/Trm cytotoxic T cells,75,0,0.0,0,0.0
+Sun,Sun_4_TC,B cells,92,1,0.0108695652173913,0,0.0
+Sun,Sun_4_TC,CD16+ NK cells,239,1,0.00418410041841,0,0.0
+Sun,Sun_4_TC,Classical monocytes,335,4,0.0119402985074626,0,0.0
+Sun,Sun_4_TC,MAIT cells,60,0,0.0,0,0.0
+Sun,Sun_4_TC,NK cells,161,53,0.3291925465838509,21,0.1304347826086956
+Sun,Sun_4_TC,Non-classical monocytes,51,0,0.0,0,0.0
+Sun,Sun_4_TC,Tcm/Naive cytotoxic T cells,193,1,0.005181347150259,0,0.0
+Sun,Sun_4_TC,Tcm/Naive helper T cells,860,14,0.0162790697674418,10,0.0116279069767441
+Sun,Sun_4_TC,Tem/Effector helper T cells,90,0,0.0,0,0.0
+Sun,Sun_4_TC,Tem/Temra cytotoxic T cells,80,1,0.0125,1,0.0125
+Sun,Sun_4_TC,Tem/Trm cytotoxic T cells,77,1,0.0129870129870129,1,0.0129870129870129

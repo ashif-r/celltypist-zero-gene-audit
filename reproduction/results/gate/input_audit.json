@@ -1,0 +1,19 @@
+{
+  "source_mapping": "exact original symbol matches after excluding all ambiguous symbols; no suffix stripping",
+  "measured_support_verified_studies": [
+    "Oetjen",
+    "Sun"
+  ],
+  "eligible_natural_samples": 7,
+  "eligible_cells": 18410,
+  "eligible_multisample_studies": 2,
+  "available_feature_count": 12303,
+  "count_checks_passed": true,
+  "main_predictions_computed": false,
+  "limits": [
+    "Reduced cross-study intersection inherited from benchmark; no direction assumed for effect size",
+    "Original full transcriptome counts not reconstructed",
+    "10X/Freytag identifier provenance not resolved; Villani TPM excluded",
+    "Only 10x natural samples qualify, so no Smart-seq2 composition claim"
+  ]
+}

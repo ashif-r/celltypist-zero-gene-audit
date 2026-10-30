@@ -1,0 +1,20 @@
+{
+  "recorded_utc": "2026-10-27T04:43:18.034108+00:00",
+  "reason": "performance-only implementation revision; no design/endpoint/input selection changes",
+  "initial_completed_queries": 79,
+  "original_run_terminal_evidence": "KeyboardInterrupt traceback in logs/main_initial_performance_run.log; no main worker live on inspection",
+  "partial_main_outcomes_available": true,
+  "original_private_snapshot_preserved": "deliverables/protocol_freeze_v0.4_private.zip",
+  "initial_outputs_preserved": "results/main_initial_performance_run",
+  "changes": [
+    "native API input limited to already matched model features after validating the original matrix; no normalization or mask change",
+    "object-array membership replaced with ordered set lookup",
+    "four isolated worker processes with bounded submission; planned output order preserved"
+  ],
+  "planned_verification": "all saved initial-query B/C score arrays exact; eight worker query archives exact; full clean reproduction of final experiment",
+  "verified_equivalence": {
+    "preserved_queries_B_C_exact": 79,
+    "isolated_worker_queries_all_arrays_exact": 8,
+    "tests_passed": 58
+  }
+}

@@ -1,0 +1,22 @@
+# Private local collections: do not commit or upload these by accident.
+reproduction/data/
+reproduction/results/**/queries/
+reproduction/results/**/*_reference.npz
+reproduction/results/**/predictions/
+reproduction/results/**/score_matrices/
+reproduction/results/gate/pilot/*.npz
+reproduction/results/main_initial_performance_run/
+reproduction/logs/
+reproduction/runs/
+reproduction/private/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
+**/.env
+**/.env.*
+**/.mpl/
+**/.numba/
+**/.cache/
+**/.pytest_cache/
+**/build/

@@ -1,0 +1,49 @@
+{
+  "completed_utc": "2026-10-23T11:58:13.871342+00:00",
+  "clean_runner_exit_status": 0,
+  "same_artifacts_same_locked_environment": true,
+  "compared_to": "pilot_initial",
+  "arrays": [
+    {
+      "file": "normalization.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "observed_B_128.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "observed_B_2700.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "observed_B_32.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "observed_B_512.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "predicted_B_128.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "predicted_B_2700.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "predicted_B_32.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "predicted_B_512.npz",
+      "all_arrays_exactly_equal": true
+    },
+    {
+      "file": "reference.npz",
+      "all_arrays_exactly_equal": true
+    }
+  ],
+  "scope": "pilot exact reproduction, not main analysis reproduction"
+}

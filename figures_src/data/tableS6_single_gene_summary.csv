@@ -1,0 +1,8 @@
+sample,removed_model_genes,genes_changing_labels,labels_changed_all_genes,sum_single_gene_changes,max_single_gene_changes,max_effect_genes
+Oetjen_A,331,42,41,55,3,FABP1;KDM5D
+Oetjen_P,313,155,58,264,7,AC007952.4
+Oetjen_U,341,123,54,176,6,IGFBP1
+Sun_1_CS,641,109,36,160,4,CH25H
+Sun_2_KC,627,338,26,451,4,AC007952.4;CH25H;CXCL12
+Sun_3_TB,651,371,57,703,13,RPS4Y1
+Sun_4_TC,625,109,79,183,8,HBG1

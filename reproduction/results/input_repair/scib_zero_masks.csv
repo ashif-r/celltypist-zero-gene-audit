@@ -1,0 +1,10 @@
+study,query,cells,recorded_features,all_zero_features,min_cells3_removed
+Oetjen,Oetjen_A,2586,12303,159,528
+Oetjen,Oetjen_P,3265,12303,140,493
+Oetjen,Oetjen_U,3730,12303,141,486
+Oetjen,Oetjen_pool,9581,12303,0,120
+Sun,Sun_sample1_CS,1725,12303,513,1334
+Sun,Sun_sample2_KC,2281,12303,432,1227
+Sun,Sun_sample3_TB,2403,12303,499,1275
+Sun,Sun_sample4_TC,2420,12303,466,1251
+Sun,Sun_pool,8829,12303,0,345

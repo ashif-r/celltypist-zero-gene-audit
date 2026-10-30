@@ -1,0 +1,93 @@
+{
+  "samples": [
+    {
+      "study": "Oetjen",
+      "sample": "Oetjen_A",
+      "cells": 2586,
+      "all_original_rows_for_normalization": 33694,
+      "scoring_columns": 33626,
+      "count_entries_checked_including_implicit_zeros": 86956836,
+      "count_mismatches": 0,
+      "maximum_normalized_value_difference": 1.7763568394002505e-15,
+      "source_hashes_verified": true,
+      "no_empty_libraries": true
+    },
+    {
+      "study": "Oetjen",
+      "sample": "Oetjen_P",
+      "cells": 3265,
+      "all_original_rows_for_normalization": 33694,
+      "scoring_columns": 33626,
+      "count_entries_checked_including_implicit_zeros": 109788890,
+      "count_mismatches": 0,
+      "maximum_normalized_value_difference": 1.7763568394002505e-15,
+      "source_hashes_verified": true,
+      "no_empty_libraries": true
+    },
+    {
+      "study": "Oetjen",
+      "sample": "Oetjen_U",
+      "cells": 3730,
+      "all_original_rows_for_normalization": 33694,
+      "scoring_columns": 33626,
+      "count_entries_checked_including_implicit_zeros": 125424980,
+      "count_mismatches": 0,
+      "maximum_normalized_value_difference": 1.7763568394002505e-15,
+      "source_hashes_verified": true,
+      "no_empty_libraries": true
+    },
+    {
+      "study": "Sun",
+      "sample": "Sun_sample1_CS",
+      "cells": 1725,
+      "all_original_rows_for_normalization": 32738,
+      "scoring_columns": 32552,
+      "count_entries_checked_including_implicit_zeros": 56152200,
+      "count_mismatches": 0,
+      "maximum_normalized_value_difference": 8.881784197001252e-16,
+      "source_hashes_verified": true,
+      "no_empty_libraries": true
+    },
+    {
+      "study": "Sun",
+      "sample": "Sun_sample2_KC",
+      "cells": 2281,
+      "all_original_rows_for_normalization": 32738,
+      "scoring_columns": 32552,
+      "count_entries_checked_including_implicit_zeros": 74251112,
+      "count_mismatches": 0,
+      "maximum_normalized_value_difference": 8.881784197001252e-16,
+      "source_hashes_verified": true,
+      "no_empty_libraries": true
+    },
+    {
+      "study": "Sun",
+      "sample": "Sun_sample3_TB",
+      "cells": 2403,
+      "all_original_rows_for_normalization": 32738,
+      "scoring_columns": 32552,
+      "count_entries_checked_including_implicit_zeros": 78222456,
+      "count_mismatches": 0,
+      "maximum_normalized_value_difference": 8.881784197001252e-16,
+      "source_hashes_verified": true,
+      "no_empty_libraries": true
+    },
+    {
+      "study": "Sun",
+      "sample": "Sun_sample4_TC",
+      "cells": 2420,
+      "all_original_rows_for_normalization": 32738,
+      "scoring_columns": 32552,
+      "count_entries_checked_including_implicit_zeros": 78775840,
+      "count_mismatches": 0,
+      "maximum_normalized_value_difference": 8.881784197001252e-16,
+      "source_hashes_verified": true,
+      "no_empty_libraries": true
+    }
+  ],
+  "cells_verified": 18410,
+  "scoring_count_entries_verified": 609572314,
+  "all_original_normalization_totals_exact": true,
+  "all_source_hashes_verified": true,
+  "method": "Counter duplicate policy and direct raw-UMI elementwise log1p formula; no project preprocessing helper used"
+}

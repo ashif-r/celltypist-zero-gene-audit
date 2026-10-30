@@ -1,0 +1,70 @@
+{
+  "scope": "skeptical-review edit of existing LaTeX document in place",
+  "source_of_truth": "manuscript/latex/main.tex",
+  "prior_exported_pdf_and_archive_are_historical_snapshots": true,
+  "new_separate_pdf_compiled": false,
+  "original_frozen_files_still_verified": true,
+  "original_result_tables_unchanged_vs_prior_archive": [
+    "results/main/tables/primary.csv",
+    "results/main/tables/per_cell_primary.csv.gz",
+    "results/main/queries.csv",
+    "results/main/validation.csv",
+    "results/main/tables/study_summary.csv",
+    "results/main/tables/stress_summary.csv",
+    "results/main/tables/all_query_class_shifts.csv.gz"
+  ],
+  "primary_results_changed": false,
+  "proof_and_impact_record": "results/reviewer_revision/proof_and_impact_checks.json",
+  "main_figures": 6,
+  "supplementary_figures": 3,
+  "main_tables": 4,
+  "supplementary_tables": 4,
+  "references": 16,
+  "public_release_authorized": false,
+  "files": [
+    {
+      "path": "manuscript/latex/main.tex",
+      "sha256": "a67aa80ddc071519abb0e4bc85b39bcfeca21ccb464c5d6c39644aad841e953c"
+    },
+    {
+      "path": "manuscript/latex/proofs.tex",
+      "sha256": "629ed89369e578c0d16f28453aee02524387f870a8bf71cf7f519e2b5ee5f6f6"
+    },
+    {
+      "path": "manuscript/latex/impact_figure.tex",
+      "sha256": "5e568de3d718f4543e0af12691f8364c435e97afba56b6e37b2497679382d686"
+    },
+    {
+      "path": "scripts/44_skeptical_review_checks.py",
+      "sha256": "b817d08687e20475f5342f522f8abee26e031b4d1265f24401376607885e09eb"
+    },
+    {
+      "path": "scripts/45_revise_open_tex.py",
+      "sha256": "93fbdfd364a38e729f8da79e3a105ff1fde592b187d184704ea0d1e7571a8e9c"
+    },
+    {
+      "path": "manuscript/SKEPTICAL_REVIEW_RESPONSE.md",
+      "sha256": "ecab54fb21bbcf282698d7e401bf7ed8c99584c7b07df17403299df0e97edba4"
+    },
+    {
+      "path": "results/reviewer_revision/proof_and_impact_checks.json",
+      "sha256": "91593de07376cea5857add21f4f36dce434e1b1ab5d16b46b31e9bb1d9a9cd7e"
+    },
+    {
+      "path": "results/reviewer_revision/predicted_count_summary.csv",
+      "sha256": "f1b51ac3ff0ccecf990797a17da372b88cf18fc07ac1c49c380c4e303a959250"
+    },
+    {
+      "path": "results/reviewer_revision/all_predicted_label_counts.csv",
+      "sha256": "fd013e9d10843bf694f9a7764b1350542630980912e0dac67284fa99469a32d1"
+    },
+    {
+      "path": "results/reviewer_revision/all_query_recovery_checks.csv",
+      "sha256": "8a44554898f2fd54ab4758a32dca48b9ca6052a6e5d2f9991c44c1037153f5c5"
+    }
+  ],
+  "native_editor_compile": "success after final saved edits",
+  "proof_check_completed": true,
+  "score_offset_recovery_label_mismatches": 0,
+  "current_exported_pdf_created": false
+}

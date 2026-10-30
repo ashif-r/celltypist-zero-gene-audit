@@ -1,0 +1,12 @@
+{
+  "all_queries_independently_audited": 3794,
+  "primary_comparisons_verified": 14,
+  "all_valid_denominators_verified": true,
+  "model_algebra_recomputed_without_primary_helpers": true,
+  "clean_reproduction_compared": null,
+  "score_tolerances": {
+    "atol": 1e-06,
+    "rtol": 1e-06
+  },
+  "labels_masks_and_counts_exact_when_compared": false
+}

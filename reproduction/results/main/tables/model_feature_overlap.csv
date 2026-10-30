@@ -1,0 +1,10 @@
+study,context,sample,query_id,fixed_scoring_columns,checkpoint_model_genes,A_matched_model_genes,model_genes_absent_or_identifier_excluded_in_A,B_removed_model_genes,B_matched_model_genes,unmeasured_model_genes_zero_filled
+Oetjen,pool,,Oetjen_00000,33626,6639,5648,991,172,5476,False
+Oetjen,sample,Oetjen_A,Oetjen_00001,33626,6639,5648,991,331,5317,False
+Oetjen,sample,Oetjen_P,Oetjen_00002,33626,6639,5648,991,313,5335,False
+Oetjen,sample,Oetjen_U,Oetjen_00003,33626,6639,5648,991,341,5307,False
+Sun,pool,,Sun_00000,32552,6639,5256,1383,369,4887,False
+Sun,sample,Sun_sample1_CS,Sun_00001,32552,6639,5256,1383,641,4615,False
+Sun,sample,Sun_sample2_KC,Sun_00002,32552,6639,5256,1383,627,4629,False
+Sun,sample,Sun_sample3_TB,Sun_00003,32552,6639,5256,1383,651,4605,False
+Sun,sample,Sun_sample4_TC,Sun_00004,32552,6639,5256,1383,625,4631,False

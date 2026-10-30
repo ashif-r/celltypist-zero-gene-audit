@@ -1,0 +1,12 @@
+{
+  "queries": 9,
+  "primary_comparisons": 14,
+  "all_class_score_arrays_exact_on_reproduction": true,
+  "archives_compared": 27,
+  "arrays_compared": 144,
+  "max_B_score_residual": 1.5987211554602254e-14,
+  "max_C_score_residual": 0.0,
+  "B_destination_mismatches": 0,
+  "near_tie_B_count": 0,
+  "interpretation": "Sensitivity of reduced input; available-feature normalization differs from original GEO input. No sole-cause attribution for cross-representation differences."
+}

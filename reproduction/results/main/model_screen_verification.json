@@ -1,0 +1,9 @@
+{
+  "plain_array_export": true,
+  "allow_pickle_false_loads_all_fields": true,
+  "features": 6639,
+  "classes": 98,
+  "gene_range_diagnostic_verified": true,
+  "sum_gene_ranges_bound_verified_queries": 3794,
+  "positive_bound_violation": 0.0
+}

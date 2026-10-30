@@ -1,0 +1,9 @@
+{
+  "dataset": "PBMC3k first 32 archive-order cells",
+  "cells": 32,
+  "public_API": "celltypist.annotate",
+  "mode": "best match",
+  "majority_voting": false,
+  "scores_probabilities_labels_exactly_equal": true,
+  "main_inference": false
+}

@@ -1,0 +1,5 @@
+endpoint,study,cells,discordant_cells,discordance_percent,redistribution_mass_cells,total_variation_percent,largest_absolute_label_count_change,label_with_largest_absolute_change
+mechanism,Oetjen,9581,153,1.5969105521344327,135,1.4090387224715584,59,Tcm/Naive helper T cells
+mechanism,Sun,8829,198,2.2426095820591234,180,2.038735983690112,99,NK cells
+composition,Oetjen,9581,61,0.6366767560797412,53,0.5531781651184636,16,Tcm/Naive helper T cells
+composition,Sun,8829,105,1.1892626571525655,95,1.0759995469475592,50,Tcm/Naive helper T cells

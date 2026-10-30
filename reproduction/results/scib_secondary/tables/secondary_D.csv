@@ -1,0 +1,10 @@
+study,sample,context,valid,changed,fraction,status
+Oetjen,,pool,9581,34,0.003548690115854295,passed
+Oetjen,Oetjen_A,sample,2586,20,0.007733952049497293,passed
+Oetjen,Oetjen_P,sample,3265,67,0.020520673813169986,passed
+Oetjen,Oetjen_U,sample,3730,23,0.0061662198391420914,passed
+Sun,,pool,8829,24,0.0027183146449201497,passed
+Sun,Sun_sample1_CS,sample,1725,22,0.012753623188405797,passed
+Sun,Sun_sample2_KC,sample,2281,23,0.010083296799649276,passed
+Sun,Sun_sample3_TB,sample,2403,36,0.0149812734082397,passed
+Sun,Sun_sample4_TC,sample,2420,52,0.021487603305785124,passed

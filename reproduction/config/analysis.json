@@ -1,0 +1,177 @@
+{
+  "protocol_version": "0.4-draft",
+  "state": "private_prospective_snapshot_authorized_main_not_started",
+  "model": {
+    "name": "Immune_All_Low.pkl",
+    "release_version": "v2",
+    "prediction_mode": "best match",
+    "majority_voting": false,
+    "require_centering_for_main_route": true,
+    "automatic_checkpoint_substitution": false
+  },
+  "datasets": {
+    "pilot": "PBMC3k_original_10x_matrix_barcodes_and_feature_table",
+    "main_candidate": "original_GEO_counts_for_scIB_selected_Oetjen_and_Sun_cells",
+    "artifact_selection": "provenance_and_metadata_before_predictions",
+    "automatic_backup_dataset": false,
+    "one_eligible_study": "accept_single_study_case_scope",
+    "zero_eligible_studies": "mechanism_report_only_no_preprint_under_this_plan",
+    "practical_study_minimum_samples": 2,
+    "cross_study_scope_minimum_studies": 2,
+    "secondary_input": "scIB_reduced_count_matrix",
+    "required_reconciliation": "all_18410_cells_x_12303_shared_genes_exact_count_equality",
+    "secondary_scib_contexts": [
+      "natural_sample",
+      "within_study_pool"
+    ],
+    "secondary_scib_stress": false
+  },
+  "input": {
+    "counts_target_sum": 10000,
+    "transform": "natural_log1p",
+    "already_compatible_input": "use_without_renormalization",
+    "normalization_feature_set": "all_documented_available_features_before_fixed_identifier_exclusions",
+    "renormalize_after_filtering": false,
+    "zero_definition": "exact_recorded_zero",
+    "detection_definition": "expression_greater_than_zero",
+    "unknown_measurement_support": "ineligible_until_resolved",
+    "duplicate_or_ambiguous_features": "exclude_all_copies_after_normalization_with_fixed_study_wide_metadata_mask",
+    "new_biological_qc": false,
+    "empty_count_library": "exclude_and_report",
+    "duplicate_policy": {
+      "identity_source": "original_stable_feature_ids_symbols_and_row_identities",
+      "duplicate_definition": "multiple_rows_sharing_symbol_within_a_source_feature_table",
+      "scope": "union_of_ambiguous_symbols_across_eligible_sources_within_study",
+      "apply_to": "every_arm_sample_pool_and_stress_partition",
+      "normalization_includes_excluded_features": true,
+      "exclude_individually_identified_missing_or_unresolved_symbols": true,
+      "select_first_copy": false,
+      "aggregate_distinct_features": false,
+      "suffix_or_strip_names": false,
+      "unrecoverable_preexisting_renaming": "source_ineligible",
+      "save_exclusion_manifest": true,
+      "assert_unique_scoring_symbols": true
+    },
+    "explained_sum_deficit": "record_and_reconcile_no_renormalization_or_raw_fallback"
+  },
+  "arms": {
+    "A": "retain_fixed_unambiguous_parent_scoring_schema",
+    "B": "remove_query_all_zero_columns",
+    "C": "restore_B_removed_known_zero_columns",
+    "D": "remove_genes_detected_in_fewer_than_3_query_cells"
+  },
+  "contexts": {
+    "primary": [
+      "natural_sample",
+      "within_study_pool"
+    ],
+    "cross_study_pool": false,
+    "sample_definitions_from": "acquisition_metadata",
+    "stress_partition_sizes": [
+      32,
+      128,
+      512
+    ],
+    "stress_seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "stress_partition_base": "sorted_globally_unique_cell_ids_within_study",
+    "retain_final_short_partition": true,
+    "save_actual_memberships": true,
+    "stress_arms": [
+      "A",
+      "B",
+      "C"
+    ],
+    "D_contexts": [
+      "natural_sample",
+      "within_study_pool"
+    ],
+    "computation_chunk_size": 512,
+    "mask_fixed_across_computation_chunks": true
+  },
+  "primary_endpoints": [
+    {
+      "id": "mechanism",
+      "comparison": "A_sample_vs_B_sample",
+      "quantity": "label_disagreement_fraction"
+    },
+    {
+      "id": "composition",
+      "comparison": "B_sample_vs_B_within_study_pool",
+      "quantity": "label_disagreement_fraction"
+    }
+  ],
+  "summaries": {
+    "sample": "changed_cells_divided_by_valid_paired_cells_with_eligible_and_failure_counts",
+    "study": "total_changed_divided_by_total_valid_paired_cells",
+    "across_studies": "equal_weight_mean_of_study_fractions",
+    "incomplete_primary_comparison": "flag_and_block_complete_result_claim",
+    "thresholds": [
+      0.5,
+      0.9,
+      0.95
+    ],
+    "threshold_operator": ">=",
+    "both_arms_high_confidence_threshold": 0.9,
+    "confidence_change_quantiles": [
+      0,
+      0.25,
+      0.5,
+      0.75,
+      0.95,
+      0.99,
+      1
+    ],
+    "bootstrap": false,
+    "confirmatory_significance_tests": false,
+    "biological_accuracy_analysis": false,
+    "calibration_fitting": false,
+    "post_pilot_secondary_additions": [
+      "query_class_shift_vectors",
+      "per_A_label_changes_minimum_50_cells",
+      "margin_greater_than_shift_spread_certification"
+    ],
+    "per_A_label_minimum_cells": 50
+  },
+  "validation": {
+    "diagnostic_dtype": "float64",
+    "score_atol": 1e-06,
+    "score_rtol": 1e-06,
+    "tie_band": "2*(atol+rtol*max_abs_compared_score_per_cell)",
+    "keep_near_ties_in_primary_denominator": true,
+    "predict_using_all_classes": true,
+    "model_gene_ranking_selects_masks": false,
+    "unexplained_primary_mismatch": "stop_interpretation",
+    "D_input_contract_failure": "report_secondary_failure_without_changing_input",
+    "annotate_vs_classifier_control_required": true
+  },
+  "freeze": {
+    "gate_review_required": true,
+    "resolved_run_lock_required": true,
+    "private_prospective_snapshot_required": true,
+    "external_timestamp_before_main_required": false,
+    "independent_external_timestamp_obtained": false,
+    "author_private_completion_instruction_recorded": true,
+    "source_hash_verification_required": true,
+    "local_commit_alone_sufficient": false,
+    "amendment": "amendments.md version 0.4",
+    "public_posting_authorized_now": false
+  },
+  "executor": "Codex_in_this_chat_only",
+  "material_effect_rule": {
+    "fraction_at_least": 0.01,
+    "unit": "at_least_one_eligible_natural_sample",
+    "endpoints": [
+      "mechanism",
+      "composition"
+    ],
+    "decision_timing": "after_PBMC3k_pilot_before_main",
+    "role": "headline_wording_only",
+    "valid_results_reported_regardless_of_effect_size": true
+  }
+}

@@ -1,0 +1,5 @@
+query_cells,removed_genes,removed_model_genes,observed_flips,predicted_flips,destination_mismatches,score_max_residual
+2700,16002,690,86,86,0,1.7763568394002505e-14
+32,25506,2763,3,3,0,8.881784197001252e-15
+128,22058,1898,8,8,0,8.881784197001252e-15
+512,19111,1178,30,30,0,1.4210854715202004e-14

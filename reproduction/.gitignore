@@ -1,0 +1,17 @@
+private/
+data/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+results/predictions/
+results/score_matrices/
+logs/private/
+.env
+.env.*
+
+.uv-cache/
+.python/
+.mpl/
+.numba/
+.pytest_cache/

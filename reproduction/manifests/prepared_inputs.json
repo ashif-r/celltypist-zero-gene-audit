@@ -1,0 +1,25 @@
+{
+  "main_predictions_computed": false,
+  "studies": [
+    {
+      "study": "Oetjen",
+      "cells": 9581,
+      "features": 33626,
+      "original_features": 33694,
+      "pool_all_zero_genes": 10721,
+      "prepared_file": "data/prepared/Oetjen_original.h5ad",
+      "sha256": "5c5bdf9ef04ad4606031936514ec10c21948b15cba42c7e5777f7be9c524fbba",
+      "normalization": "log1p CP10k over every original recorded feature, before fixed duplicate exclusions"
+    },
+    {
+      "study": "Sun",
+      "cells": 8829,
+      "features": 32552,
+      "original_features": 32738,
+      "pool_all_zero_genes": 12264,
+      "prepared_file": "data/prepared/Sun_original.h5ad",
+      "sha256": "1dfaae0f4fc86c6de3a51e068a1afef0471d29a4a5ab16c40ff3c9460003196a",
+      "normalization": "log1p CP10k over every original recorded feature, before fixed duplicate exclusions"
+    }
+  ]
+}

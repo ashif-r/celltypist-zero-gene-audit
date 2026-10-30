@@ -1,0 +1,128 @@
+[
+ {
+  "contrast": "deletion",
+  "study": "Oetjen",
+  "sample": "Oetjen_A",
+  "cells": 2586,
+  "changed": 41,
+  "pct": 1.585460170146945,
+  "deleted_model_genes": 331
+ },
+ {
+  "contrast": "deletion",
+  "study": "Oetjen",
+  "sample": "Oetjen_P",
+  "cells": 3265,
+  "changed": 58,
+  "pct": 1.776416539050536,
+  "deleted_model_genes": 313
+ },
+ {
+  "contrast": "deletion",
+  "study": "Oetjen",
+  "sample": "Oetjen_U",
+  "cells": 3730,
+  "changed": 54,
+  "pct": 1.447721179624665,
+  "deleted_model_genes": 341
+ },
+ {
+  "contrast": "deletion",
+  "study": "Sun",
+  "sample": "Sun_1_CS",
+  "cells": 1725,
+  "changed": 36,
+  "pct": 2.0869565217391304,
+  "deleted_model_genes": 641
+ },
+ {
+  "contrast": "deletion",
+  "study": "Sun",
+  "sample": "Sun_2_KC",
+  "cells": 2281,
+  "changed": 26,
+  "pct": 1.1398509425690486,
+  "deleted_model_genes": 627
+ },
+ {
+  "contrast": "deletion",
+  "study": "Sun",
+  "sample": "Sun_3_TB",
+  "cells": 2403,
+  "changed": 57,
+  "pct": 2.3720349563046192,
+  "deleted_model_genes": 651
+ },
+ {
+  "contrast": "deletion",
+  "study": "Sun",
+  "sample": "Sun_4_TC",
+  "cells": 2420,
+  "changed": 79,
+  "pct": 3.2644628099173554,
+  "deleted_model_genes": 625
+ },
+ {
+  "contrast": "composition",
+  "study": "Oetjen",
+  "sample": "Oetjen_A",
+  "cells": 2586,
+  "changed": 16,
+  "pct": 0.6187161639597835,
+  "deleted_model_genes": 331
+ },
+ {
+  "contrast": "composition",
+  "study": "Oetjen",
+  "sample": "Oetjen_P",
+  "cells": 3265,
+  "changed": 22,
+  "pct": 0.6738131699846861,
+  "deleted_model_genes": 313
+ },
+ {
+  "contrast": "composition",
+  "study": "Oetjen",
+  "sample": "Oetjen_U",
+  "cells": 3730,
+  "changed": 23,
+  "pct": 0.6166219839142091,
+  "deleted_model_genes": 341
+ },
+ {
+  "contrast": "composition",
+  "study": "Sun",
+  "sample": "Sun_1_CS",
+  "cells": 1725,
+  "changed": 21,
+  "pct": 1.2173913043478262,
+  "deleted_model_genes": 641
+ },
+ {
+  "contrast": "composition",
+  "study": "Sun",
+  "sample": "Sun_2_KC",
+  "cells": 2281,
+  "changed": 19,
+  "pct": 0.8329679964927663,
+  "deleted_model_genes": 627
+ },
+ {
+  "contrast": "composition",
+  "study": "Sun",
+  "sample": "Sun_3_TB",
+  "cells": 2403,
+  "changed": 30,
+  "pct": 1.2484394506866416,
+  "deleted_model_genes": 651
+ },
+ {
+  "contrast": "composition",
+  "study": "Sun",
+  "sample": "Sun_4_TC",
+  "cells": 2420,
+  "changed": 35,
+  "pct": 1.4462809917355373,
+  "deleted_model_genes": 625
+ }
+]

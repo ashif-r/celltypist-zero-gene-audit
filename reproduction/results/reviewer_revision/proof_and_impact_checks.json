@@ -1,0 +1,72 @@
+{
+  "scope": "post-analysis skeptical-review checks; unchanged main inference and primary endpoints",
+  "queries": 3794,
+  "reference_exact_tie_occurrences": 0,
+  "native_B_exact_tie_occurrences": 0,
+  "all_predicted_counts_independently_checked_against_transition_tables": true,
+  "cell_query_occurrences": 312970,
+  "score_offset_recovery_max_absolute_residual": 2.4868995751603507e-14,
+  "recovered_label_mismatches": 0,
+  "all_competitor_condition_mismatches_outside_tolerance_band": 0,
+  "all_competitor_boundary_band_cell_query_occurrences": 0,
+  "spread_certificate_violations": 0,
+  "synthetic_vectors_checked": 5000,
+  "synthetic_cases": [
+    "all-competitor equivalence",
+    "spread sufficiency",
+    "sum-of-gene-range bound",
+    "non-necessity counterexample",
+    "tie boundary",
+    "common-offset rank invariance"
+  ],
+  "primary_mechanism_changes": 351,
+  "primary_composition_changes": 166,
+  "count_summary": [
+    {
+      "endpoint": "mechanism",
+      "study": "Oetjen",
+      "cells": 9581,
+      "discordant_cells": 153,
+      "discordance_percent": 1.5969105521344327,
+      "redistribution_mass_cells": 135,
+      "total_variation_percent": 1.4090387224715584,
+      "largest_absolute_label_count_change": 59,
+      "label_with_largest_absolute_change": "Tcm/Naive helper T cells"
+    },
+    {
+      "endpoint": "mechanism",
+      "study": "Sun",
+      "cells": 8829,
+      "discordant_cells": 198,
+      "discordance_percent": 2.2426095820591234,
+      "redistribution_mass_cells": 180,
+      "total_variation_percent": 2.038735983690112,
+      "largest_absolute_label_count_change": 99,
+      "label_with_largest_absolute_change": "NK cells"
+    },
+    {
+      "endpoint": "composition",
+      "study": "Oetjen",
+      "cells": 9581,
+      "discordant_cells": 61,
+      "discordance_percent": 0.6366767560797412,
+      "redistribution_mass_cells": 53,
+      "total_variation_percent": 0.5531781651184636,
+      "largest_absolute_label_count_change": 16,
+      "label_with_largest_absolute_change": "Tcm/Naive helper T cells"
+    },
+    {
+      "endpoint": "composition",
+      "study": "Sun",
+      "cells": 8829,
+      "discordant_cells": 105,
+      "discordance_percent": 1.1892626571525655,
+      "redistribution_mass_cells": 95,
+      "total_variation_percent": 1.0759995469475592,
+      "largest_absolute_label_count_change": 50,
+      "label_with_largest_absolute_change": "Tcm/Naive helper T cells"
+    }
+  ],
+  "no_biological_accuracy_claim": true,
+  "public_release_authorized": false
+}

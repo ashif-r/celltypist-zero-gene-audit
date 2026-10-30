@@ -1,0 +1,18 @@
+{
+  "studies": [
+    {
+      "study": "Oetjen",
+      "prepared_file": "data/prepared/Oetjen_scib.h5ad",
+      "sha256": "97dd369b8ae4267936a5a5dad3f2abb4fff5a1f8b2492b52b690c7d4a3a45919",
+      "normalization": "available 12303 scIB features, before fixed identifier exclusions",
+      "role": "secondary_input_sensitivity_not_independent_dataset"
+    },
+    {
+      "study": "Sun",
+      "prepared_file": "data/prepared/Sun_scib.h5ad",
+      "sha256": "45d42854cccebaac6c56339108fdc6810fa61fe3c36b74978aee042093ba41f8",
+      "normalization": "available 12303 scIB features, before fixed identifier exclusions",
+      "role": "secondary_input_sensitivity_not_independent_dataset"
+    }
+  ]
+}

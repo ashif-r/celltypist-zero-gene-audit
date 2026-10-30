@@ -1,0 +1,12 @@
+{
+  "queries": 3794,
+  "query_archives_compared": 7597,
+  "arrays_compared": 49349,
+  "decoded_label_vectors_exact": 15194,
+  "all_float_arrays_bit_exact": true,
+  "max_float_residual": 0.0,
+  "cell_and_class_orders_exact": true,
+  "removed_gene_lists_and_stability_flags_exact": true,
+  "reference_archives_exact": 2,
+  "note": "Exact labels are checked per cell, in addition to primary counts and float tolerances."
+}

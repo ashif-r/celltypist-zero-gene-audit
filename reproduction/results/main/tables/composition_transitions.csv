@@ -1,0 +1,383 @@
+study,sample,B_pool_label,B_sample_label,cells
+Oetjen,Oetjen_A,Age-associated B cells,Age-associated B cells,2
+Oetjen,Oetjen_A,Alveolar macrophages,Alveolar macrophages,1
+Oetjen,Oetjen_A,B cells,B cells,16
+Oetjen,Oetjen_A,CD16+ NK cells,CD16+ NK cells,34
+Oetjen,Oetjen_A,CD16- NK cells,CD16- NK cells,1
+Oetjen,Oetjen_A,CD8a/a,CD8a/a,1
+Oetjen,Oetjen_A,CMP,CMP,18
+Oetjen,Oetjen_A,CRTAM+ gamma-delta T cells,CRTAM+ gamma-delta T cells,2
+Oetjen,Oetjen_A,Classical monocytes,Classical monocytes,260
+Oetjen,Oetjen_A,Classical monocytes,Neutrophil-myeloid progenitor,1
+Oetjen,Oetjen_A,Cycling T cells,Cycling T cells,1
+Oetjen,Oetjen_A,DC,DC,5
+Oetjen,Oetjen_A,DC precursor,DC precursor,8
+Oetjen,Oetjen_A,DC1,DC1,11
+Oetjen,Oetjen_A,DC2,DC2,41
+Oetjen,Oetjen_A,DC2,Transitional DC,1
+Oetjen,Oetjen_A,DC3,DC3,7
+Oetjen,Oetjen_A,Double-negative thymocytes,CMP,1
+Oetjen,Oetjen_A,Double-negative thymocytes,Double-negative thymocytes,1
+Oetjen,Oetjen_A,Double-negative thymocytes,Megakaryocyte precursor,1
+Oetjen,Oetjen_A,Double-positive thymocytes,Double-positive thymocytes,3
+Oetjen,Oetjen_A,ETP,ETP,5
+Oetjen,Oetjen_A,Early MK,Early MK,3
+Oetjen,Oetjen_A,Early erythroid,Early erythroid,17
+Oetjen,Oetjen_A,Early lymphoid/T lymphoid,Early lymphoid/T lymphoid,1
+Oetjen,Oetjen_A,Erythrocytes,Erythrocytes,73
+Oetjen,Oetjen_A,Fibroblasts,Fibroblasts,8
+Oetjen,Oetjen_A,Follicular helper T cells,Follicular helper T cells,1
+Oetjen,Oetjen_A,GMP,GMP,17
+Oetjen,Oetjen_A,HSC/MPP,HSC/MPP,155
+Oetjen,Oetjen_A,ILC,ILC,1
+Oetjen,Oetjen_A,Large pre-B cells,Large pre-B cells,22
+Oetjen,Oetjen_A,Late erythroid,Late erythroid,88
+Oetjen,Oetjen_A,MAIT cells,MAIT cells,29
+Oetjen,Oetjen_A,MEMP,MEMP,24
+Oetjen,Oetjen_A,MNP,MNP,1
+Oetjen,Oetjen_A,Macrophages,Macrophages,1
+Oetjen,Oetjen_A,Mast cells,Mast cells,3
+Oetjen,Oetjen_A,Megakaryocyte precursor,Megakaryocyte precursor,19
+Oetjen,Oetjen_A,Megakaryocyte-erythroid-mast cell progenitor,Megakaryocyte-erythroid-mast cell progenitor,10
+Oetjen,Oetjen_A,Megakaryocytes/platelets,Megakaryocytes/platelets,3
+Oetjen,Oetjen_A,Memory B cells,DC3,1
+Oetjen,Oetjen_A,Memory B cells,Memory B cells,15
+Oetjen,Oetjen_A,Mid erythroid,Mid erythroid,124
+Oetjen,Oetjen_A,Monocytes,Late erythroid,1
+Oetjen,Oetjen_A,Monocytes,Monocytes,175
+Oetjen,Oetjen_A,NK cells,CD16+ NK cells,1
+Oetjen,Oetjen_A,NK cells,NK cells,23
+Oetjen,Oetjen_A,NK cells,NKT cells,1
+Oetjen,Oetjen_A,NK cells,Tem/Effector helper T cells,1
+Oetjen,Oetjen_A,NK cells,Tem/Temra cytotoxic T cells,1
+Oetjen,Oetjen_A,NKT cells,NKT cells,5
+Oetjen,Oetjen_A,Naive B cells,Naive B cells,14
+Oetjen,Oetjen_A,Neutrophil-myeloid progenitor,Neutrophil-myeloid progenitor,97
+Oetjen,Oetjen_A,Non-classical monocytes,Non-classical monocytes,65
+Oetjen,Oetjen_A,Plasma cells,Plasma cells,36
+Oetjen,Oetjen_A,Plasmablasts,Plasmablasts,1
+Oetjen,Oetjen_A,Pro-B cells,Pro-B cells,66
+Oetjen,Oetjen_A,Promyelocytes,Promyelocytes,23
+Oetjen,Oetjen_A,Regulatory T cells,Regulatory T cells,4
+Oetjen,Oetjen_A,Small pre-B cells,Small pre-B cells,2
+Oetjen,Oetjen_A,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,80
+Oetjen,Oetjen_A,Tcm/Naive helper T cells,Tcm/Naive helper T cells,462
+Oetjen,Oetjen_A,Tcm/Naive helper T cells,Treg(diff),1
+Oetjen,Oetjen_A,Tcm/Naive helper T cells,Trm cytotoxic T cells,1
+Oetjen,Oetjen_A,Tem/Effector helper T cells,MAIT cells,2
+Oetjen,Oetjen_A,Tem/Effector helper T cells,Tem/Effector helper T cells,172
+Oetjen,Oetjen_A,Tem/Temra cytotoxic T cells,Tem/Temra cytotoxic T cells,42
+Oetjen,Oetjen_A,Tem/Trm cytotoxic T cells,MAIT cells,2
+Oetjen,Oetjen_A,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,186
+Oetjen,Oetjen_A,Treg(diff),Treg(diff),9
+Oetjen,Oetjen_A,Trm cytotoxic T cells,Trm cytotoxic T cells,8
+Oetjen,Oetjen_A,Type 17 helper T cells,Type 17 helper T cells,1
+Oetjen,Oetjen_A,pDC,pDC,67
+Oetjen,Oetjen_P,Age-associated B cells,Age-associated B cells,1
+Oetjen,Oetjen_P,B cells,B cells,2
+Oetjen,Oetjen_P,CD16+ NK cells,CD16+ NK cells,27
+Oetjen,Oetjen_P,CMP,CMP,21
+Oetjen,Oetjen_P,Classical monocytes,Classical monocytes,68
+Oetjen,Oetjen_P,Classical monocytes,Monocytes,1
+Oetjen,Oetjen_P,DC,DC,2
+Oetjen,Oetjen_P,DC precursor,DC precursor,1
+Oetjen,Oetjen_P,DC1,DC1,6
+Oetjen,Oetjen_P,DC2,DC2,22
+Oetjen,Oetjen_P,Double-negative thymocytes,Double-negative thymocytes,3
+Oetjen,Oetjen_P,Double-positive thymocytes,Double-positive thymocytes,2
+Oetjen,Oetjen_P,ELP,ELP,1
+Oetjen,Oetjen_P,ETP,ETP,2
+Oetjen,Oetjen_P,Early MK,Early MK,2
+Oetjen,Oetjen_P,Early erythroid,Early erythroid,18
+Oetjen,Oetjen_P,Early erythroid,Erythrocytes,1
+Oetjen,Oetjen_P,Erythrocytes,Erythrocytes,203
+Oetjen,Oetjen_P,Erythrocytes,Late erythroid,1
+Oetjen,Oetjen_P,Erythrocytes,Mid erythroid,1
+Oetjen,Oetjen_P,Fibroblasts,Fibroblasts,2
+Oetjen,Oetjen_P,Follicular helper T cells,Follicular helper T cells,1
+Oetjen,Oetjen_P,GMP,GMP,4
+Oetjen,Oetjen_P,GMP,Neutrophil-myeloid progenitor,1
+Oetjen,Oetjen_P,HSC/MPP,HSC/MPP,129
+Oetjen,Oetjen_P,Large pre-B cells,Large pre-B cells,24
+Oetjen,Oetjen_P,Late erythroid,Late erythroid,833
+Oetjen,Oetjen_P,MAIT cells,MAIT cells,4
+Oetjen,Oetjen_P,MEMP,MEMP,5
+Oetjen,Oetjen_P,Macrophages,Macrophages,1
+Oetjen,Oetjen_P,Mast cells,Mast cells,4
+Oetjen,Oetjen_P,Megakaryocyte precursor,Megakaryocyte precursor,7
+Oetjen,Oetjen_P,Megakaryocyte-erythroid-mast cell progenitor,Megakaryocyte-erythroid-mast cell progenitor,21
+Oetjen,Oetjen_P,Memory B cells,Memory B cells,11
+Oetjen,Oetjen_P,Mid erythroid,Mid erythroid,350
+Oetjen,Oetjen_P,Monocytes,Erythrocytes,2
+Oetjen,Oetjen_P,Monocytes,Late erythroid,8
+Oetjen,Oetjen_P,Monocytes,Monocytes,421
+Oetjen,Oetjen_P,Monocytes,Naive B cells,1
+Oetjen,Oetjen_P,Monocytes,Tem/Effector helper T cells,1
+Oetjen,Oetjen_P,Myelocytes,Myelocytes,1
+Oetjen,Oetjen_P,NK cells,NK cells,2
+Oetjen,Oetjen_P,Naive B cells,Naive B cells,17
+Oetjen,Oetjen_P,Neutrophil-myeloid progenitor,Neutrophil-myeloid progenitor,50
+Oetjen,Oetjen_P,Non-classical monocytes,Non-classical monocytes,28
+Oetjen,Oetjen_P,Plasma cells,Plasma cells,40
+Oetjen,Oetjen_P,Pro-B cells,Pro-B cells,23
+Oetjen,Oetjen_P,Promyelocytes,Promyelocytes,7
+Oetjen,Oetjen_P,Regulatory T cells,Regulatory T cells,5
+Oetjen,Oetjen_P,Small pre-B cells,Small pre-B cells,2
+Oetjen,Oetjen_P,Tcm/Naive cytotoxic T cells,Epithelial cells,1
+Oetjen,Oetjen_P,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,90
+Oetjen,Oetjen_P,Tcm/Naive helper T cells,Monocytes,1
+Oetjen,Oetjen_P,Tcm/Naive helper T cells,Tcm/Naive helper T cells,573
+Oetjen,Oetjen_P,Tcm/Naive helper T cells,Tem/Effector helper T cells,2
+Oetjen,Oetjen_P,Tem/Effector helper T cells,Tem/Effector helper T cells,137
+Oetjen,Oetjen_P,Tem/Trm cytotoxic T cells,Late erythroid,1
+Oetjen,Oetjen_P,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,16
+Oetjen,Oetjen_P,Treg(diff),Treg(diff),5
+Oetjen,Oetjen_P,Trm cytotoxic T cells,Trm cytotoxic T cells,1
+Oetjen,Oetjen_P,Type 17 helper T cells,Type 17 helper T cells,1
+Oetjen,Oetjen_P,pDC,pDC,47
+Oetjen,Oetjen_U,Age-associated B cells,Age-associated B cells,22
+Oetjen,Oetjen_U,B cells,B cells,89
+Oetjen,Oetjen_U,CD16+ NK cells,CD16+ NK cells,56
+Oetjen,Oetjen_U,CD16- NK cells,CD16- NK cells,2
+Oetjen,Oetjen_U,CMP,CMP,11
+Oetjen,Oetjen_U,Classical monocytes,Classical monocytes,313
+Oetjen,Oetjen_U,Classical monocytes,Monocytes,1
+Oetjen,Oetjen_U,Classical monocytes,Neutrophil-myeloid progenitor,1
+Oetjen,Oetjen_U,DC,DC,1
+Oetjen,Oetjen_U,DC precursor,DC precursor,5
+Oetjen,Oetjen_U,DC1,DC1,4
+Oetjen,Oetjen_U,DC2,DC2,43
+Oetjen,Oetjen_U,DC3,DC3,1
+Oetjen,Oetjen_U,Double-negative thymocytes,Double-negative thymocytes,2
+Oetjen,Oetjen_U,Double-positive thymocytes,Double-positive thymocytes,4
+Oetjen,Oetjen_U,ELP,ELP,1
+Oetjen,Oetjen_U,ETP,ETP,3
+Oetjen,Oetjen_U,Early MK,Early MK,2
+Oetjen,Oetjen_U,Early erythroid,Early erythroid,18
+Oetjen,Oetjen_U,Erythrocytes,Erythrocytes,52
+Oetjen,Oetjen_U,Fibroblasts,Fibroblasts,1
+Oetjen,Oetjen_U,Follicular helper T cells,Follicular helper T cells,3
+Oetjen,Oetjen_U,Follicular helper T cells,Tem/Effector helper T cells,1
+Oetjen,Oetjen_U,GMP,GMP,2
+Oetjen,Oetjen_U,HSC/MPP,HSC/MPP,50
+Oetjen,Oetjen_U,ILC,ILC,1
+Oetjen,Oetjen_U,ILC3,ILC3,1
+Oetjen,Oetjen_U,Large pre-B cells,Large pre-B cells,34
+Oetjen,Oetjen_U,Late erythroid,Late erythroid,89
+Oetjen,Oetjen_U,MAIT cells,MAIT cells,10
+Oetjen,Oetjen_U,MEMP,MEMP,7
+Oetjen,Oetjen_U,Macrophages,Macrophages,2
+Oetjen,Oetjen_U,Mast cells,Mast cells,4
+Oetjen,Oetjen_U,Megakaryocyte precursor,Megakaryocyte precursor,10
+Oetjen,Oetjen_U,Megakaryocyte-erythroid-mast cell progenitor,Megakaryocyte-erythroid-mast cell progenitor,3
+Oetjen,Oetjen_U,Megakaryocytes/platelets,Megakaryocytes/platelets,2
+Oetjen,Oetjen_U,Memory B cells,B cells,2
+Oetjen,Oetjen_U,Memory B cells,Memory B cells,145
+Oetjen,Oetjen_U,Mid erythroid,Mid erythroid,83
+Oetjen,Oetjen_U,Monocytes,DC precursor,1
+Oetjen,Oetjen_U,Monocytes,Late erythroid,1
+Oetjen,Oetjen_U,Monocytes,Monocytes,158
+Oetjen,Oetjen_U,Monocytes,Neutrophil-myeloid progenitor,1
+Oetjen,Oetjen_U,NK cells,NK cells,15
+Oetjen,Oetjen_U,NKT cells,NKT cells,4
+Oetjen,Oetjen_U,Naive B cells,Naive B cells,142
+Oetjen,Oetjen_U,Neutrophil-myeloid progenitor,Neutrophil-myeloid progenitor,57
+Oetjen,Oetjen_U,Non-classical monocytes,Non-classical monocytes,81
+Oetjen,Oetjen_U,Plasma cells,Plasma cells,41
+Oetjen,Oetjen_U,Pro-B cells,Pro-B cells,40
+Oetjen,Oetjen_U,Promyelocytes,Promyelocytes,15
+Oetjen,Oetjen_U,Regulatory T cells,Regulatory T cells,34
+Oetjen,Oetjen_U,Small pre-B cells,Small pre-B cells,9
+Oetjen,Oetjen_U,T(agonist),T(agonist),1
+Oetjen,Oetjen_U,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,213
+Oetjen,Oetjen_U,Tcm/Naive helper T cells,CD16+ NK cells,1
+Oetjen,Oetjen_U,Tcm/Naive helper T cells,Kupffer cells,1
+Oetjen,Oetjen_U,Tcm/Naive helper T cells,Tcm/Naive cytotoxic T cells,2
+Oetjen,Oetjen_U,Tcm/Naive helper T cells,Tcm/Naive helper T cells,851
+Oetjen,Oetjen_U,Tcm/Naive helper T cells,Tem/Effector helper T cells,7
+Oetjen,Oetjen_U,Tem/Effector helper T cells,Tem/Effector helper T cells,788
+Oetjen,Oetjen_U,Tem/Temra cytotoxic T cells,Tem/Temra cytotoxic T cells,12
+Oetjen,Oetjen_U,Tem/Trm cytotoxic T cells,Tcm/Naive cytotoxic T cells,1
+Oetjen,Oetjen_U,Tem/Trm cytotoxic T cells,Tem/Effector helper T cells,2
+Oetjen,Oetjen_U,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,99
+Oetjen,Oetjen_U,Transitional B cells,Transitional B cells,2
+Oetjen,Oetjen_U,Treg(diff),Treg(diff),12
+Oetjen,Oetjen_U,Trm cytotoxic T cells,Trm cytotoxic T cells,9
+Oetjen,Oetjen_U,Type 1 helper T cells,Tem/Effector helper T cells,1
+Oetjen,Oetjen_U,Type 1 helper T cells,Type 1 helper T cells,1
+Oetjen,Oetjen_U,Type 17 helper T cells,Type 17 helper T cells,1
+Oetjen,Oetjen_U,pDC,pDC,46
+Sun,Sun_sample1_CS,B cells,B cells,40
+Sun,Sun_sample1_CS,CD16+ NK cells,CD16+ NK cells,82
+Sun,Sun_sample1_CS,CD16- NK cells,CD16- NK cells,10
+Sun,Sun_sample1_CS,CD8a/b(entry),CD8a/b(entry),1
+Sun,Sun_sample1_CS,CRTAM+ gamma-delta T cells,CRTAM+ gamma-delta T cells,2
+Sun,Sun_sample1_CS,Classical monocytes,Classical monocytes,212
+Sun,Sun_sample1_CS,Cycling NK cells,Cycling NK cells,1
+Sun,Sun_sample1_CS,DC,DC,2
+Sun,Sun_sample1_CS,DC2,DC2,9
+Sun,Sun_sample1_CS,DC2,DC3,1
+Sun,Sun_sample1_CS,DC3,DC3,1
+Sun,Sun_sample1_CS,Follicular B cells,Follicular B cells,1
+Sun,Sun_sample1_CS,HSC/MPP,HSC/MPP,2
+Sun,Sun_sample1_CS,MAIT cells,MAIT cells,24
+Sun,Sun_sample1_CS,Macrophages,Macrophages,11
+Sun,Sun_sample1_CS,Megakaryocytes/platelets,Megakaryocytes/platelets,5
+Sun,Sun_sample1_CS,Memory B cells,Memory B cells,6
+Sun,Sun_sample1_CS,NK cells,NK cells,21
+Sun,Sun_sample1_CS,NK cells,Tem/Temra cytotoxic T cells,2
+Sun,Sun_sample1_CS,NK cells,Tem/Trm cytotoxic T cells,2
+Sun,Sun_sample1_CS,NKT cells,NKT cells,1
+Sun,Sun_sample1_CS,Naive B cells,B cells,1
+Sun,Sun_sample1_CS,Naive B cells,Naive B cells,6
+Sun,Sun_sample1_CS,Non-classical monocytes,Non-classical monocytes,33
+Sun,Sun_sample1_CS,Regulatory T cells,Regulatory T cells,40
+Sun,Sun_sample1_CS,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,48
+Sun,Sun_sample1_CS,Tcm/Naive helper T cells,Double-positive thymocytes,1
+Sun,Sun_sample1_CS,Tcm/Naive helper T cells,Regulatory T cells,1
+Sun,Sun_sample1_CS,Tcm/Naive helper T cells,Tcm/Naive helper T cells,850
+Sun,Sun_sample1_CS,Tcm/Naive helper T cells,Tem/Effector helper T cells,10
+Sun,Sun_sample1_CS,Tcm/Naive helper T cells,Tem/Trm cytotoxic T cells,2
+Sun,Sun_sample1_CS,Tcm/Naive helper T cells,Treg(diff),1
+Sun,Sun_sample1_CS,Tem/Effector helper T cells,Tem/Effector helper T cells,96
+Sun,Sun_sample1_CS,Tem/Temra cytotoxic T cells,Tem/Temra cytotoxic T cells,103
+Sun,Sun_sample1_CS,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,80
+Sun,Sun_sample1_CS,Treg(diff),Treg(diff),8
+Sun,Sun_sample1_CS,Trm cytotoxic T cells,Trm cytotoxic T cells,4
+Sun,Sun_sample1_CS,Type 1 helper T cells,Type 1 helper T cells,1
+Sun,Sun_sample1_CS,pDC,pDC,4
+Sun,Sun_sample2_KC,Age-associated B cells,Age-associated B cells,2
+Sun,Sun_sample2_KC,B cells,B cells,75
+Sun,Sun_sample2_KC,CD16+ NK cells,CD16+ NK cells,167
+Sun,Sun_sample2_KC,CD16- NK cells,CD16- NK cells,12
+Sun,Sun_sample2_KC,Classical monocytes,Classical monocytes,469
+Sun,Sun_sample2_KC,Classical monocytes,Myelocytes,1
+Sun,Sun_sample2_KC,DC2,DC2,6
+Sun,Sun_sample2_KC,DC2,Myelocytes,1
+Sun,Sun_sample2_KC,DC3,DC3,2
+Sun,Sun_sample2_KC,Follicular helper T cells,Follicular helper T cells,1
+Sun,Sun_sample2_KC,MAIT cells,MAIT cells,8
+Sun,Sun_sample2_KC,Macrophages,Classical monocytes,1
+Sun,Sun_sample2_KC,Macrophages,Macrophages,14
+Sun,Sun_sample2_KC,Megakaryocyte precursor,Megakaryocyte precursor,1
+Sun,Sun_sample2_KC,Megakaryocytes/platelets,Megakaryocytes/platelets,5
+Sun,Sun_sample2_KC,Memory B cells,B cells,1
+Sun,Sun_sample2_KC,Memory B cells,Memory B cells,13
+Sun,Sun_sample2_KC,Monocytes,Monocytes,6
+Sun,Sun_sample2_KC,Myelocytes,Myelocytes,6
+Sun,Sun_sample2_KC,NK cells,CRTAM+ gamma-delta T cells,1
+Sun,Sun_sample2_KC,NK cells,Follicular B cells,1
+Sun,Sun_sample2_KC,NK cells,NK cells,10
+Sun,Sun_sample2_KC,NK cells,Tem/Temra cytotoxic T cells,1
+Sun,Sun_sample2_KC,NKT cells,NKT cells,1
+Sun,Sun_sample2_KC,Naive B cells,B cells,1
+Sun,Sun_sample2_KC,Naive B cells,Naive B cells,52
+Sun,Sun_sample2_KC,Non-classical monocytes,Non-classical monocytes,135
+Sun,Sun_sample2_KC,Regulatory T cells,Regulatory T cells,41
+Sun,Sun_sample2_KC,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,105
+Sun,Sun_sample2_KC,Tcm/Naive helper T cells,Regulatory T cells,1
+Sun,Sun_sample2_KC,Tcm/Naive helper T cells,Tcm/Naive cytotoxic T cells,3
+Sun,Sun_sample2_KC,Tcm/Naive helper T cells,Tcm/Naive helper T cells,1048
+Sun,Sun_sample2_KC,Tcm/Naive helper T cells,Tem/Effector helper T cells,3
+Sun,Sun_sample2_KC,Tcm/Naive helper T cells,Tem/Temra cytotoxic T cells,1
+Sun,Sun_sample2_KC,Tem/Effector helper T cells,Tem/Effector helper T cells,37
+Sun,Sun_sample2_KC,Tem/Temra cytotoxic T cells,Tem/Temra cytotoxic T cells,20
+Sun,Sun_sample2_KC,Tem/Trm cytotoxic T cells,Tem/Temra cytotoxic T cells,2
+Sun,Sun_sample2_KC,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,15
+Sun,Sun_sample2_KC,Treg(diff),Follicular B cells,1
+Sun,Sun_sample2_KC,Treg(diff),Treg(diff),4
+Sun,Sun_sample2_KC,Type 17 helper T cells,Type 17 helper T cells,1
+Sun,Sun_sample2_KC,pDC,pDC,6
+Sun,Sun_sample3_TB,B cells,B cells,60
+Sun,Sun_sample3_TB,CD16+ NK cells,CD16+ NK cells,83
+Sun,Sun_sample3_TB,CD16- NK cells,CD16- NK cells,16
+Sun,Sun_sample3_TB,CD8a/a,CD8a/a,1
+Sun,Sun_sample3_TB,Classical monocytes,Classical monocytes,315
+Sun,Sun_sample3_TB,Classical monocytes,Myelocytes,1
+Sun,Sun_sample3_TB,DC,DC,4
+Sun,Sun_sample3_TB,DC2,DC2,25
+Sun,Sun_sample3_TB,Double-negative thymocytes,Double-negative thymocytes,1
+Sun,Sun_sample3_TB,Epithelial cells,Epithelial cells,1
+Sun,Sun_sample3_TB,Follicular B cells,Follicular B cells,1
+Sun,Sun_sample3_TB,MAIT cells,MAIT cells,65
+Sun,Sun_sample3_TB,Macrophages,Classical monocytes,1
+Sun,Sun_sample3_TB,Macrophages,MAIT cells,1
+Sun,Sun_sample3_TB,Macrophages,Macrophages,23
+Sun,Sun_sample3_TB,Memory B cells,B cells,1
+Sun,Sun_sample3_TB,Memory B cells,Memory B cells,3
+Sun,Sun_sample3_TB,Monocytes,Classical monocytes,1
+Sun,Sun_sample3_TB,Monocytes,Monocytes,16
+Sun,Sun_sample3_TB,Myelocytes,Myelocytes,6
+Sun,Sun_sample3_TB,NK cells,MAIT cells,3
+Sun,Sun_sample3_TB,NK cells,NK cells,70
+Sun,Sun_sample3_TB,NK cells,Tem/Temra cytotoxic T cells,4
+Sun,Sun_sample3_TB,NKT cells,NKT cells,3
+Sun,Sun_sample3_TB,Naive B cells,Naive B cells,16
+Sun,Sun_sample3_TB,Non-classical monocytes,Follicular B cells,1
+Sun,Sun_sample3_TB,Non-classical monocytes,Non-classical monocytes,106
+Sun,Sun_sample3_TB,Plasma cells,Plasma cells,1
+Sun,Sun_sample3_TB,Regulatory T cells,Regulatory T cells,54
+Sun,Sun_sample3_TB,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,340
+Sun,Sun_sample3_TB,Tcm/Naive helper T cells,B cells,1
+Sun,Sun_sample3_TB,Tcm/Naive helper T cells,MAIT cells,2
+Sun,Sun_sample3_TB,Tcm/Naive helper T cells,Tcm/Naive cytotoxic T cells,3
+Sun,Sun_sample3_TB,Tcm/Naive helper T cells,Tcm/Naive helper T cells,817
+Sun,Sun_sample3_TB,Tcm/Naive helper T cells,Tem/Effector helper T cells,8
+Sun,Sun_sample3_TB,Tcm/Naive helper T cells,Tem/Temra cytotoxic T cells,1
+Sun,Sun_sample3_TB,Tcm/Naive helper T cells,Treg(diff),1
+Sun,Sun_sample3_TB,Tem/Effector helper T cells,Tem/Effector helper T cells,141
+Sun,Sun_sample3_TB,Tem/Temra cytotoxic T cells,Tem/Temra cytotoxic T cells,104
+Sun,Sun_sample3_TB,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,77
+Sun,Sun_sample3_TB,Treg(diff),Tem/Temra cytotoxic T cells,1
+Sun,Sun_sample3_TB,Treg(diff),Treg(diff),2
+Sun,Sun_sample3_TB,Trm cytotoxic T cells,Trm cytotoxic T cells,4
+Sun,Sun_sample3_TB,Type 1 helper T cells,Type 1 helper T cells,1
+Sun,Sun_sample3_TB,pDC,pDC,17
+Sun,Sun_sample4_TC,Age-associated B cells,Age-associated B cells,2
+Sun,Sun_sample4_TC,B cells,B cells,91
+Sun,Sun_sample4_TC,CD16+ NK cells,CD16+ NK cells,240
+Sun,Sun_sample4_TC,CD16+ NK cells,MAIT cells,1
+Sun,Sun_sample4_TC,CD16- NK cells,CD16- NK cells,18
+Sun,Sun_sample4_TC,CD8a/a,CD8a/a,2
+Sun,Sun_sample4_TC,Classical monocytes,Classical monocytes,331
+Sun,Sun_sample4_TC,Cycling T cells,Cycling T cells,1
+Sun,Sun_sample4_TC,DC,DC,2
+Sun,Sun_sample4_TC,DC2,DC2,13
+Sun,Sun_sample4_TC,DC3,DC3,1
+Sun,Sun_sample4_TC,Follicular B cells,Follicular B cells,3
+Sun,Sun_sample4_TC,ILC,ILC,1
+Sun,Sun_sample4_TC,MAIT cells,MAIT cells,65
+Sun,Sun_sample4_TC,Macrophages,Macrophages,21
+Sun,Sun_sample4_TC,Macrophages,Transitional DC,1
+Sun,Sun_sample4_TC,Memory B cells,Memory B cells,8
+Sun,Sun_sample4_TC,Monocytes,Monocytes,22
+Sun,Sun_sample4_TC,NK cells,CD16+ NK cells,6
+Sun,Sun_sample4_TC,NK cells,Follicular B cells,1
+Sun,Sun_sample4_TC,NK cells,MAIT cells,2
+Sun,Sun_sample4_TC,NK cells,NK cells,108
+Sun,Sun_sample4_TC,NK cells,NKT cells,1
+Sun,Sun_sample4_TC,NK cells,Tcm/Naive cytotoxic T cells,1
+Sun,Sun_sample4_TC,NK cells,Tem/Temra cytotoxic T cells,6
+Sun,Sun_sample4_TC,NK cells,Tem/Trm cytotoxic T cells,1
+Sun,Sun_sample4_TC,NKT cells,NKT cells,10
+Sun,Sun_sample4_TC,Naive B cells,Naive B cells,22
+Sun,Sun_sample4_TC,Non-classical monocytes,Non-classical monocytes,52
+Sun,Sun_sample4_TC,Regulatory T cells,Regulatory T cells,37
+Sun,Sun_sample4_TC,Tcm/Naive cytotoxic T cells,Tcm/Naive cytotoxic T cells,193
+Sun,Sun_sample4_TC,Tcm/Naive helper T cells,Follicular B cells,1
+Sun,Sun_sample4_TC,Tcm/Naive helper T cells,MAIT cells,1
+Sun,Sun_sample4_TC,Tcm/Naive helper T cells,Tcm/Naive cytotoxic T cells,2
+Sun,Sun_sample4_TC,Tcm/Naive helper T cells,Tcm/Naive helper T cells,848
+Sun,Sun_sample4_TC,Tcm/Naive helper T cells,Tem/Effector helper T cells,6
+Sun,Sun_sample4_TC,Tcm/Naive helper T cells,Tem/Temra cytotoxic T cells,1
+Sun,Sun_sample4_TC,Tem/Effector helper T cells,Tem/Effector helper T cells,95
+Sun,Sun_sample4_TC,Tem/Temra cytotoxic T cells,MAIT cells,1
+Sun,Sun_sample4_TC,Tem/Temra cytotoxic T cells,Tem/Temra cytotoxic T cells,99
+Sun,Sun_sample4_TC,Tem/Temra cytotoxic T cells,Tem/Trm cytotoxic T cells,1
+Sun,Sun_sample4_TC,Tem/Trm cytotoxic T cells,MAIT cells,1
+Sun,Sun_sample4_TC,Tem/Trm cytotoxic T cells,Tem/Trm cytotoxic T cells,76
+Sun,Sun_sample4_TC,Treg(diff),Treg(diff),3
+Sun,Sun_sample4_TC,Trm cytotoxic T cells,Tem/Effector helper T cells,1
+Sun,Sun_sample4_TC,Trm cytotoxic T cells,Trm cytotoxic T cells,4
+Sun,Sun_sample4_TC,Type 1 helper T cells,Type 1 helper T cells,1
+Sun,Sun_sample4_TC,pDC,pDC,16

@@ -1,0 +1,15 @@
+study,sample,endpoint,eligible,valid,failed,changed,fraction,role
+Oetjen,Oetjen_A,mechanism,2586,2586,0,9,0.0034802784222737818,secondary_reduced_input
+Oetjen,Oetjen_A,composition,2586,2586,0,9,0.0034802784222737818,secondary_reduced_input
+Oetjen,Oetjen_P,mechanism,3265,3265,0,21,0.006431852986217458,secondary_reduced_input
+Oetjen,Oetjen_P,composition,3265,3265,0,21,0.006431852986217458,secondary_reduced_input
+Oetjen,Oetjen_U,mechanism,3730,3730,0,7,0.0018766756032171583,secondary_reduced_input
+Oetjen,Oetjen_U,composition,3730,3730,0,7,0.0018766756032171583,secondary_reduced_input
+Sun,Sun_sample1_CS,mechanism,1725,1725,0,11,0.006376811594202898,secondary_reduced_input
+Sun,Sun_sample1_CS,composition,1725,1725,0,11,0.006376811594202898,secondary_reduced_input
+Sun,Sun_sample2_KC,mechanism,2281,2281,0,6,0.00263042525208242,secondary_reduced_input
+Sun,Sun_sample2_KC,composition,2281,2281,0,6,0.00263042525208242,secondary_reduced_input
+Sun,Sun_sample3_TB,mechanism,2403,2403,0,14,0.005826050769870994,secondary_reduced_input
+Sun,Sun_sample3_TB,composition,2403,2403,0,14,0.005826050769870994,secondary_reduced_input
+Sun,Sun_sample4_TC,mechanism,2420,2420,0,16,0.006611570247933884,secondary_reduced_input
+Sun,Sun_sample4_TC,composition,2420,2420,0,16,0.006611570247933884,secondary_reduced_input

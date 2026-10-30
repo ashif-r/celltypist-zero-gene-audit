@@ -1,0 +1,17 @@
+{
+  "protocol_version": "0.4-draft",
+  "method": "private_prospective_snapshot",
+  "created_utc": "2026-10-23T15:51:21.919034+00:00",
+  "verified_utc": "2026-10-23T15:51:32.462666+00:00",
+  "user_authorized_private_completion": true,
+  "author_instruction": "keep it private - i will go through it first. but, complete the project",
+  "approved_prospective_amendment": true,
+  "independent_external_timestamp": false,
+  "verified_external_timestamp": false,
+  "public_release_authorized": false,
+  "manifest_path": "manifests/freeze_inputs.json",
+  "manifest_sha256": "70dc02f37cab3e4a6e76183073bb89c6f7cd864dddf5bc8b9e2678368249aa91",
+  "bundle_path": "deliverables/protocol_freeze_v0.4_private.zip",
+  "bundle_sha256": "587c637e1b50d597ee0465da2a9f0024e6e20ce2d7bd9a85edcf3168d6a46e88",
+  "main_annotation_outcomes_seen_before_snapshot": false
+}

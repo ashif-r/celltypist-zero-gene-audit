@@ -1,0 +1,10 @@
+{
+  "all_primary_pairs_complete": true,
+  "primary_comparisons": 14,
+  "max_B_score_residual": 2.4868995751603507e-14,
+  "max_C_score_residual": 0.0,
+  "B_destination_mismatches": 0,
+  "near_tie_B_count_across_queries": 0,
+  "queries": 3794,
+  "note": "Query-level counts across repeated partitions are not unique-cell population counts."
+}

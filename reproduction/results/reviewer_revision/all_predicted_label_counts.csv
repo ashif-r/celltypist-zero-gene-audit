@@ -1,0 +1,227 @@
+endpoint,study,label,reference_count,sample_B_count,count_delta,denominator
+mechanism,Oetjen,Age-associated B cells,25,25,0,9581
+mechanism,Oetjen,Alveolar macrophages,1,1,0,9581
+mechanism,Oetjen,B cells,105,109,4,9581
+mechanism,Oetjen,CD16+ NK cells,116,119,3,9581
+mechanism,Oetjen,CD16- NK cells,3,3,0,9581
+mechanism,Oetjen,CD8a/a,1,1,0,9581
+mechanism,Oetjen,CMP,49,51,2,9581
+mechanism,Oetjen,CRTAM+ gamma-delta T cells,2,2,0,9581
+mechanism,Oetjen,Classical monocytes,641,641,0,9581
+mechanism,Oetjen,Cycling T cells,1,1,0,9581
+mechanism,Oetjen,DC,6,8,2,9581
+mechanism,Oetjen,DC precursor,14,15,1,9581
+mechanism,Oetjen,DC1,21,21,0,9581
+mechanism,Oetjen,DC2,109,106,-3,9581
+mechanism,Oetjen,DC3,6,9,3,9581
+mechanism,Oetjen,Double-negative thymocytes,9,6,-3,9581
+mechanism,Oetjen,Double-positive thymocytes,9,9,0,9581
+mechanism,Oetjen,ELP,2,2,0,9581
+mechanism,Oetjen,ETP,10,10,0,9581
+mechanism,Oetjen,Early MK,7,7,0,9581
+mechanism,Oetjen,Early erythroid,54,53,-1,9581
+mechanism,Oetjen,Early lymphoid/T lymphoid,1,1,0,9581
+mechanism,Oetjen,Epithelial cells,0,1,1,9581
+mechanism,Oetjen,Erythrocytes,329,331,2,9581
+mechanism,Oetjen,Fibroblasts,11,11,0,9581
+mechanism,Oetjen,Follicular helper T cells,6,5,-1,9581
+mechanism,Oetjen,GMP,24,23,-1,9581
+mechanism,Oetjen,HSC/MPP,333,334,1,9581
+mechanism,Oetjen,ILC,2,2,0,9581
+mechanism,Oetjen,ILC3,1,1,0,9581
+mechanism,Oetjen,Kupffer cells,0,1,1,9581
+mechanism,Oetjen,Large pre-B cells,80,80,0,9581
+mechanism,Oetjen,Late erythroid,1003,1022,19,9581
+mechanism,Oetjen,MAIT cells,41,47,6,9581
+mechanism,Oetjen,MEMP,36,36,0,9581
+mechanism,Oetjen,MNP,1,1,0,9581
+mechanism,Oetjen,Macrophages,4,4,0,9581
+mechanism,Oetjen,Mast cells,11,11,0,9581
+mechanism,Oetjen,Megakaryocyte precursor,36,37,1,9581
+mechanism,Oetjen,Megakaryocyte-erythroid-mast cell progenitor,33,34,1,9581
+mechanism,Oetjen,Megakaryocytes/platelets,5,5,0,9581
+mechanism,Oetjen,Memory B cells,177,171,-6,9581
+mechanism,Oetjen,Mid erythroid,555,558,3,9581
+mechanism,Oetjen,Monocytes,798,757,-41,9581
+mechanism,Oetjen,Myelocytes,0,1,1,9581
+mechanism,Oetjen,NK cells,50,40,-10,9581
+mechanism,Oetjen,NKT cells,8,10,2,9581
+mechanism,Oetjen,Naive B cells,174,174,0,9581
+mechanism,Oetjen,Neutrophil-myeloid progenitor,200,208,8,9581
+mechanism,Oetjen,Non-classical monocytes,173,174,1,9581
+mechanism,Oetjen,Plasma cells,116,117,1,9581
+mechanism,Oetjen,Plasmablasts,1,1,0,9581
+mechanism,Oetjen,Pro-B cells,128,129,1,9581
+mechanism,Oetjen,Promyelocytes,43,45,2,9581
+mechanism,Oetjen,Regulatory T cells,43,43,0,9581
+mechanism,Oetjen,Small pre-B cells,12,13,1,9581
+mechanism,Oetjen,T(agonist),1,1,0,9581
+mechanism,Oetjen,Tcm/Naive cytotoxic T cells,378,386,8,9581
+mechanism,Oetjen,Tcm/Naive helper T cells,1945,1886,-59,9581
+mechanism,Oetjen,Tem/Effector helper T cells,1062,1112,50,9581
+mechanism,Oetjen,Tem/Temra cytotoxic T cells,49,55,6,9581
+mechanism,Oetjen,Tem/Trm cytotoxic T cells,310,301,-9,9581
+mechanism,Oetjen,Transitional B cells,2,2,0,9581
+mechanism,Oetjen,Transitional DC,0,1,1,9581
+mechanism,Oetjen,Treg(diff),25,27,2,9581
+mechanism,Oetjen,Trm cytotoxic T cells,18,19,1,9581
+mechanism,Oetjen,Type 1 helper T cells,2,1,-1,9581
+mechanism,Oetjen,Type 17 helper T cells,3,3,0,9581
+mechanism,Oetjen,pDC,160,160,0,9581
+mechanism,Sun,Age-associated B cells,4,4,0,8829
+mechanism,Sun,B cells,268,271,3,8829
+mechanism,Sun,CD16+ NK cells,572,578,6,8829
+mechanism,Sun,CD16- NK cells,51,56,5,8829
+mechanism,Sun,CD8a/a,3,3,0,8829
+mechanism,Sun,CD8a/b(entry),0,1,1,8829
+mechanism,Sun,CRTAM+ gamma-delta T cells,1,3,2,8829
+mechanism,Sun,Classical monocytes,1340,1330,-10,8829
+mechanism,Sun,Cycling NK cells,0,1,1,8829
+mechanism,Sun,Cycling T cells,1,1,0,8829
+mechanism,Sun,DC,7,8,1,8829
+mechanism,Sun,DC2,55,53,-2,8829
+mechanism,Sun,DC3,3,5,2,8829
+mechanism,Sun,Double-negative thymocytes,1,1,0,8829
+mechanism,Sun,Double-positive thymocytes,0,1,1,8829
+mechanism,Sun,Epithelial cells,0,1,1,8829
+mechanism,Sun,Follicular B cells,4,10,6,8829
+mechanism,Sun,Follicular helper T cells,1,1,0,8829
+mechanism,Sun,HSC/MPP,2,2,0,8829
+mechanism,Sun,ILC,1,1,0,8829
+mechanism,Sun,MAIT cells,151,174,23,8829
+mechanism,Sun,Macrophages,72,69,-3,8829
+mechanism,Sun,Megakaryocyte precursor,1,1,0,8829
+mechanism,Sun,Megakaryocytes/platelets,10,10,0,8829
+mechanism,Sun,Memory B cells,32,30,-2,8829
+mechanism,Sun,Monocytes,42,44,2,8829
+mechanism,Sun,Myelocytes,8,15,7,8829
+mechanism,Sun,NK cells,308,209,-99,8829
+mechanism,Sun,NKT cells,14,16,2,8829
+mechanism,Sun,Naive B cells,97,96,-1,8829
+mechanism,Sun,Non-classical monocytes,326,326,0,8829
+mechanism,Sun,Plasma cells,1,1,0,8829
+mechanism,Sun,Regulatory T cells,171,174,3,8829
+mechanism,Sun,Tcm/Naive cytotoxic T cells,681,695,14,8829
+mechanism,Sun,Tcm/Naive helper T cells,3626,3563,-63,8829
+mechanism,Sun,Tem/Effector helper T cells,361,397,36,8829
+mechanism,Sun,Tem/Temra cytotoxic T cells,291,345,54,8829
+mechanism,Sun,Tem/Trm cytotoxic T cells,247,254,7,8829
+mechanism,Sun,Transitional DC,0,1,1,8829
+mechanism,Sun,Treg(diff),17,19,2,8829
+mechanism,Sun,Trm cytotoxic T cells,12,12,0,8829
+mechanism,Sun,Type 1 helper T cells,3,3,0,8829
+mechanism,Sun,Type 17 helper T cells,1,1,0,8829
+mechanism,Sun,pDC,43,43,0,8829
+composition,Oetjen,Age-associated B cells,25,25,0,9581
+composition,Oetjen,Alveolar macrophages,1,1,0,9581
+composition,Oetjen,B cells,107,109,2,9581
+composition,Oetjen,CD16+ NK cells,117,119,2,9581
+composition,Oetjen,CD16- NK cells,3,3,0,9581
+composition,Oetjen,CD8a/a,1,1,0,9581
+composition,Oetjen,CMP,50,51,1,9581
+composition,Oetjen,CRTAM+ gamma-delta T cells,2,2,0,9581
+composition,Oetjen,Classical monocytes,645,641,-4,9581
+composition,Oetjen,Cycling T cells,1,1,0,9581
+composition,Oetjen,DC,8,8,0,9581
+composition,Oetjen,DC precursor,14,15,1,9581
+composition,Oetjen,DC1,21,21,0,9581
+composition,Oetjen,DC2,107,106,-1,9581
+composition,Oetjen,DC3,8,9,1,9581
+composition,Oetjen,Double-negative thymocytes,8,6,-2,9581
+composition,Oetjen,Double-positive thymocytes,9,9,0,9581
+composition,Oetjen,ELP,2,2,0,9581
+composition,Oetjen,ETP,10,10,0,9581
+composition,Oetjen,Early MK,7,7,0,9581
+composition,Oetjen,Early erythroid,54,53,-1,9581
+composition,Oetjen,Early lymphoid/T lymphoid,1,1,0,9581
+composition,Oetjen,Epithelial cells,0,1,1,9581
+composition,Oetjen,Erythrocytes,330,331,1,9581
+composition,Oetjen,Fibroblasts,11,11,0,9581
+composition,Oetjen,Follicular helper T cells,6,5,-1,9581
+composition,Oetjen,GMP,24,23,-1,9581
+composition,Oetjen,HSC/MPP,334,334,0,9581
+composition,Oetjen,ILC,2,2,0,9581
+composition,Oetjen,ILC3,1,1,0,9581
+composition,Oetjen,Kupffer cells,0,1,1,9581
+composition,Oetjen,Large pre-B cells,80,80,0,9581
+composition,Oetjen,Late erythroid,1010,1022,12,9581
+composition,Oetjen,MAIT cells,43,47,4,9581
+composition,Oetjen,MEMP,36,36,0,9581
+composition,Oetjen,MNP,1,1,0,9581
+composition,Oetjen,Macrophages,4,4,0,9581
+composition,Oetjen,Mast cells,11,11,0,9581
+composition,Oetjen,Megakaryocyte precursor,36,37,1,9581
+composition,Oetjen,Megakaryocyte-erythroid-mast cell progenitor,34,34,0,9581
+composition,Oetjen,Megakaryocytes/platelets,5,5,0,9581
+composition,Oetjen,Memory B cells,174,171,-3,9581
+composition,Oetjen,Mid erythroid,557,558,1,9581
+composition,Oetjen,Monocytes,770,757,-13,9581
+composition,Oetjen,Myelocytes,1,1,0,9581
+composition,Oetjen,NK cells,44,40,-4,9581
+composition,Oetjen,NKT cells,9,10,1,9581
+composition,Oetjen,Naive B cells,173,174,1,9581
+composition,Oetjen,Neutrophil-myeloid progenitor,204,208,4,9581
+composition,Oetjen,Non-classical monocytes,174,174,0,9581
+composition,Oetjen,Plasma cells,117,117,0,9581
+composition,Oetjen,Plasmablasts,1,1,0,9581
+composition,Oetjen,Pro-B cells,129,129,0,9581
+composition,Oetjen,Promyelocytes,45,45,0,9581
+composition,Oetjen,Regulatory T cells,43,43,0,9581
+composition,Oetjen,Small pre-B cells,13,13,0,9581
+composition,Oetjen,T(agonist),1,1,0,9581
+composition,Oetjen,Tcm/Naive cytotoxic T cells,384,386,2,9581
+composition,Oetjen,Tcm/Naive helper T cells,1902,1886,-16,9581
+composition,Oetjen,Tem/Effector helper T cells,1099,1112,13,9581
+composition,Oetjen,Tem/Temra cytotoxic T cells,54,55,1,9581
+composition,Oetjen,Tem/Trm cytotoxic T cells,307,301,-6,9581
+composition,Oetjen,Transitional B cells,2,2,0,9581
+composition,Oetjen,Transitional DC,0,1,1,9581
+composition,Oetjen,Treg(diff),26,27,1,9581
+composition,Oetjen,Trm cytotoxic T cells,18,19,1,9581
+composition,Oetjen,Type 1 helper T cells,2,1,-1,9581
+composition,Oetjen,Type 17 helper T cells,3,3,0,9581
+composition,Oetjen,pDC,160,160,0,9581
+composition,Sun,Age-associated B cells,4,4,0,8829
+composition,Sun,B cells,266,271,5,8829
+composition,Sun,CD16+ NK cells,573,578,5,8829
+composition,Sun,CD16- NK cells,56,56,0,8829
+composition,Sun,CD8a/a,3,3,0,8829
+composition,Sun,CD8a/b(entry),1,1,0,8829
+composition,Sun,CRTAM+ gamma-delta T cells,2,3,1,8829
+composition,Sun,Classical monocytes,1329,1330,1,8829
+composition,Sun,Cycling NK cells,1,1,0,8829
+composition,Sun,Cycling T cells,1,1,0,8829
+composition,Sun,DC,8,8,0,8829
+composition,Sun,DC2,55,53,-2,8829
+composition,Sun,DC3,4,5,1,8829
+composition,Sun,Double-negative thymocytes,1,1,0,8829
+composition,Sun,Double-positive thymocytes,0,1,1,8829
+composition,Sun,Epithelial cells,1,1,0,8829
+composition,Sun,Follicular B cells,5,10,5,8829
+composition,Sun,Follicular helper T cells,1,1,0,8829
+composition,Sun,HSC/MPP,2,2,0,8829
+composition,Sun,ILC,1,1,0,8829
+composition,Sun,MAIT cells,162,174,12,8829
+composition,Sun,Macrophages,73,69,-4,8829
+composition,Sun,Megakaryocyte precursor,1,1,0,8829
+composition,Sun,Megakaryocytes/platelets,10,10,0,8829
+composition,Sun,Memory B cells,32,30,-2,8829
+composition,Sun,Monocytes,45,44,-1,8829
+composition,Sun,Myelocytes,12,15,3,8829
+composition,Sun,NK cells,241,209,-32,8829
+composition,Sun,NKT cells,15,16,1,8829
+composition,Sun,Naive B cells,98,96,-2,8829
+composition,Sun,Non-classical monocytes,327,326,-1,8829
+composition,Sun,Plasma cells,1,1,0,8829
+composition,Sun,Regulatory T cells,172,174,2,8829
+composition,Sun,Tcm/Naive cytotoxic T cells,686,695,9,8829
+composition,Sun,Tcm/Naive helper T cells,3613,3563,-50,8829
+composition,Sun,Tem/Effector helper T cells,369,397,28,8829
+composition,Sun,Tem/Temra cytotoxic T cells,328,345,17,8829
+composition,Sun,Tem/Trm cytotoxic T cells,251,254,3,8829
+composition,Sun,Transitional DC,0,1,1,8829
+composition,Sun,Treg(diff),19,19,0,8829
+composition,Sun,Trm cytotoxic T cells,13,12,-1,8829
+composition,Sun,Type 1 helper T cells,3,3,0,8829
+composition,Sun,Type 17 helper T cells,1,1,0,8829
+composition,Sun,pDC,43,43,0,8829

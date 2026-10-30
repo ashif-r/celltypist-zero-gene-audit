@@ -1,0 +1,12 @@
+{
+  "queries": 3794,
+  "contrasts": 7588,
+  "class_shift_rows": 371812,
+  "all_class_composition_predictions_checked": true,
+  "destination_mismatches": 0,
+  "max_composition_prediction_residual": 2.1316282072803006e-14,
+  "max_confidence_prediction_residual": 3.1086244689504383e-15,
+  "threshold_decision_mismatches": 0,
+  "normalization_rows_verified": 18410,
+  "method_note": "Labels, sigmoids and thresholds decoded after inference from score predictions that were saved before each native B call; composition is additionally checked from pooled B plus the sample/partition-minus-pool shift."
+}

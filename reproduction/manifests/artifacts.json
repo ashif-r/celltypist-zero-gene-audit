@@ -1,0 +1,26 @@
+{
+  "retrieved_utc": "2026-10-23T11:45:19.287667+00:00",
+  "artifacts": [
+    {
+      "name": "Immune_ALL_human.h5ad",
+      "url": "https://ndownloader.figshare.com/files/25717328",
+      "bytes": 2064748344,
+      "sha256": "96709b5fa677d5eafc734793a7873a2c763453ba8abddad24c0fba39e0d7f2c8",
+      "md5": "482a6a3117432d41a46effd8376b8ee0"
+    },
+    {
+      "name": "pbmc3k.tar.gz",
+      "url": "https://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz",
+      "bytes": 7621991,
+      "sha256": "847d6ebd9a1ec9a768f2be7e40ca42cbfe75ebeb6d76a4c24167041699dc28b5",
+      "md5": "f76d73bf7a582aaf32b798bcae9574d3"
+    },
+    {
+      "name": "Immune_All_Low.pkl",
+      "url": "https://celltypist.cog.sanger.ac.uk/models/Pan_Immune_CellTypist/v2/Immune_All_Low.pkl",
+      "bytes": 2824990,
+      "sha256": "290874d35dac039d4c9218c343fde4aac1077709b72a331ce7266f6828c36502",
+      "md5": "f0ecbcf5687f2dff6dc5a46cecc9dab5"
+    }
+  ]
+}

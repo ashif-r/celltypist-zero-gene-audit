@@ -1,0 +1,26 @@
+{
+  "started_utc": "2026-10-27T04:55:45.834514+00:00",
+  "freeze": {
+    "protocol_version": "0.4-draft",
+    "method": "private_prospective_snapshot",
+    "created_utc": "2026-10-23T15:51:21.919034+00:00",
+    "verified_utc": "2026-10-27T04:43:56.893960+00:00",
+    "user_authorized_private_completion": true,
+    "author_instruction": "keep it private - i will go through it first. but, complete the project",
+    "approved_prospective_amendment": true,
+    "independent_external_timestamp": false,
+    "verified_external_timestamp": false,
+    "public_release_authorized": false,
+    "manifest_path": "manifests/freeze_inputs.json",
+    "manifest_sha256": "ecf3108c7f6494bb908a2065c87b897e272d99d0988d0bb676a77e78cefca750",
+    "bundle_path": "deliverables/implementation_revision_v0.4.1_private.zip",
+    "bundle_sha256": "af845dd70829e2c584f461f2883138c8572c2acfc3298c49a6e45542609e733e",
+    "main_annotation_outcomes_seen_before_snapshot": false,
+    "implementation_revision": "0.4.1",
+    "implementation_snapshot_utc": "2026-10-27T04:43:56.227876+00:00",
+    "partial_main_outcomes_seen_before_implementation_revision": true,
+    "original_prospective_record": "manifests/history/freeze_record_v0.4_initial.json",
+    "original_prospective_bundle": "deliverables/protocol_freeze_v0.4_private.zip"
+  },
+  "run": "reproduction"
+}

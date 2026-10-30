@@ -1,0 +1,76 @@
+{
+  "status": "technical_inputs_resolved_private_snapshot_authorized",
+  "protocol_version": "0.4-draft",
+  "model": {
+    "official_download_url": "https://celltypist.cog.sanger.ac.uk/models/Pan_Immune_CellTypist/v2/Immune_All_Low.pkl",
+    "sha256": "290874d35dac039d4c9218c343fde4aac1077709b72a331ce7266f6828c36502",
+    "metadata_version": "v2",
+    "with_mean": true,
+    "class_count": 98,
+    "model_feature_count": 6639,
+    "class_order_sha256": "9b5635e789e54182bad79a4637cdd7c42a92388376b7f97b7cf197ca393bcbaf",
+    "feature_order_sha256": "4d9a33b96d406b4082c576b8b71bfca2c656b16f58e7616237ded0471d6d067c"
+  },
+  "environment": {
+    "python_version": "3.12.13",
+    "platform_architecture": "macOS arm64",
+    "package_lock_path": "requirements.lock.txt",
+    "package_lock_sha256": "ac8cfd981b3e4d3b06ed83e136c299948e2f03711b2e9ec8b4485b1e1a5e759a",
+    "thread_settings": {
+      "OPENBLAS_NUM_THREADS": 1,
+      "OMP_NUM_THREADS": 1
+    },
+    "runtime_memory_limit_bytes": "not_enforced; dense computation limited to 512 cells per API call",
+    "git_version": "git version 2.55.0"
+  },
+  "pilot": {
+    "source_url": "https://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz",
+    "artifact_sha256": "847d6ebd9a1ec9a768f2be7e40ca42cbfe75ebeb6d76a4c24167041699dc28b5",
+    "gate_report_sha256": "43eb05c483ee99741680bd5b4c4f0a2b613fd20e7948b2bd18ab172742ba7653",
+    "controls_passed": true,
+    "original_feature_mapping_manifest_sha256": "16e786392668831498b3b03c0f9403bc2eedf0d98fdb699c1b39a6349c3c86ac",
+    "identifier_exclusion_manifest_sha256": "16e786392668831498b3b03c0f9403bc2eedf0d98fdb699c1b39a6349c3c86ac",
+    "normalization_deficit_checks_passed": true,
+    "annotate_control_sha256": "7fa9a0d9cccb15c6e45938732c9a94c9e90970ca3ab74c10137f837bd4381248"
+  },
+  "main": {
+    "artifact_url_or_identifier": "seven original GEO samples: GSM3396161/3396176/3396184/3665016/3665017/3665018/3665019",
+    "artifact_sha256": "individual files listed in manifests/geo_original.json",
+    "license": "GEO public source data; scIB metadata CC BY 4.0; raw data/model not redistributed in clean release",
+    "input_provenance_manifest_sha256": "76b58de3dc5c9a3fceb7611b63884b39a4f56e5b889aecdeb24c32f1da2b3ea5",
+    "sample_manifest_sha256": "5231db3bc5f7138d644179bcf8546ba1305df150b1b563660dbb4244cee42760",
+    "cell_eligibility_manifest_sha256": "557a916905fbd1fed9a9376b78216af87d43a74dcc0223e0ffea36a424c0dabd",
+    "feature_schema_manifest_sha256": "722265d78412b1fcf36e7477d9989a4c2deccb841381398a7c0c8d255655c2ea",
+    "partition_manifest_sha256": "181a0acd2f85e3ef16b3836c7291e8654d5b4f99bee9597666b54611530341f2",
+    "study_mapping_evidence": "original GEO accession references in scIB preparation; exact barcode and count reconciliation",
+    "input_matrix_selection_by_study": {
+      "Oetjen": "original GEO UMI counts",
+      "Sun": "original GEO UMI counts"
+    },
+    "normalization_denominator_by_study": "all original recorded feature rows before identifier exclusions",
+    "mechanism_eligible_studies": [
+      "Oetjen",
+      "Sun"
+    ],
+    "composition_eligible_studies": [
+      "Oetjen",
+      "Sun"
+    ],
+    "resolved_scope": "two-study technical experiment; 18410 cells in 7 samples; 10x only",
+    "main_predictions_not_yet_run": true,
+    "original_feature_mapping_manifest_sha256": "722265d78412b1fcf36e7477d9989a4c2deccb841381398a7c0c8d255655c2ea",
+    "identifier_exclusion_manifest_sha256": "2fe71f4d47567475db113be53d53e2c53a20d51dd4df22d35231ca6a3f35ce25",
+    "normalization_deficit_checks_passed": true,
+    "preparation_provenance_manifest_sha256": "b3fd2475ed14a23ee7749384210a72eab2fbba40de9ef233fcb80dc5a8952339",
+    "reconciliation_sha256": "7812ab1f65665bd4a941ec440ecbc917810d23772bba94eed4c74f13f34716b4"
+  },
+  "validation": {
+    "effective_atol": 1e-06,
+    "effective_rtol": 1e-06,
+    "tolerance_amendments": [],
+    "synthetic_test_report_sha256": "6391fd9d18dcff0b15478c74c5c5b95367bf14a9bcca14b23db96af4ff97b10a",
+    "gate_review_decision": "feedback addressed, original GEO counts reconciled, author directed private completion; main outcomes not yet seen",
+    "remaining_blocking_checks": [],
+    "test_count": 56
+  }
+}
